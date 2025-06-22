@@ -2,94 +2,87 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on GIFINC</title>
-    <link>http://localhost:4321/hugo-universal-theme/categories/</link>
+    <link>/categories/</link>
     <description>Recent content in Categories on GIFINC</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 20 Jun 2025 21:29:20 +0200</lastBuildDate>
-    <atom:link href="http://localhost:4321/hugo-universal-theme/categories/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Economía</title>
-      <link>http://localhost:4321/hugo-universal-theme/categories/econom%C3%ADa/</link>
+      <link>/categories/econom%C3%ADa/</link>
       <pubDate>Fri, 20 Jun 2025 21:29:20 +0200</pubDate>
-      <guid>http://localhost:4321/hugo-universal-theme/categories/econom%C3%ADa/</guid>
+      <guid>/categories/econom%C3%ADa/</guid>
       <description></description>
     </item>
     <item>
       <title>Energía</title>
-      <link>http://localhost:4321/hugo-universal-theme/categories/energ%C3%ADa/</link>
+      <link>/categories/energ%C3%ADa/</link>
       <pubDate>Fri, 20 Jun 2025 21:29:20 +0200</pubDate>
-      <guid>http://localhost:4321/hugo-universal-theme/categories/energ%C3%ADa/</guid>
+      <guid>/categories/energ%C3%ADa/</guid>
       <description></description>
     </item>
     <item>
       <title>Finanzas</title>
-      <link>http://localhost:4321/hugo-universal-theme/categories/finanzas/</link>
+      <link>/categories/finanzas/</link>
       <pubDate>Fri, 20 Jun 2025 21:29:20 +0200</pubDate>
-      <guid>http://localhost:4321/hugo-universal-theme/categories/finanzas/</guid>
+      <guid>/categories/finanzas/</guid>
       <description></description>
     </item>
     <item>
       <title>Internacional</title>
-      <link>http://localhost:4321/hugo-universal-theme/categories/internacional/</link>
+      <link>/categories/internacional/</link>
       <pubDate>Fri, 20 Jun 2025 21:29:20 +0200</pubDate>
-      <guid>http://localhost:4321/hugo-universal-theme/categories/internacional/</guid>
+      <guid>/categories/internacional/</guid>
       <description></description>
     </item>
     <item>
       <title>Sostenibilidad</title>
-      <link>http://localhost:4321/hugo-universal-theme/categories/sostenibilidad/</link>
+      <link>/categories/sostenibilidad/</link>
       <pubDate>Sun, 18 May 2025 17:10:00 +0200</pubDate>
-      <guid>http://localhost:4321/hugo-universal-theme/categories/sostenibilidad/</guid>
+      <guid>/categories/sostenibilidad/</guid>
       <description></description>
     </item>
     <item>
       <title>Datos</title>
-      <link>http://localhost:4321/hugo-universal-theme/categories/datos/</link>
+      <link>/categories/datos/</link>
       <pubDate>Sat, 05 Apr 2025 15:00:00 +0200</pubDate>
-      <guid>http://localhost:4321/hugo-universal-theme/categories/datos/</guid>
+      <guid>/categories/datos/</guid>
       <description></description>
     </item>
     <item>
       <title>Coyuntura</title>
-      <link>http://localhost:4321/hugo-universal-theme/categories/coyuntura/</link>
+      <link>/categories/coyuntura/</link>
       <pubDate>Wed, 12 Mar 2025 09:40:00 +0200</pubDate>
-      <guid>http://localhost:4321/hugo-universal-theme/categories/coyuntura/</guid>
+      <guid>/categories/coyuntura/</guid>
       <description></description>
     </item>
     <item>
       <title>Inteligencia Artificial</title>
-      <link>http://localhost:4321/hugo-universal-theme/categories/inteligencia-artificial/</link>
+      <link>/categories/inteligencia-artificial/</link>
       <pubDate>Thu, 20 Feb 2025 13:20:00 +0200</pubDate>
-      <guid>http://localhost:4321/hugo-universal-theme/categories/inteligencia-artificial/</guid>
+      <guid>/categories/inteligencia-artificial/</guid>
       <description></description>
     </item>
     <item>
       <title>Programación</title>
-      <link>http://localhost:4321/hugo-universal-theme/categories/programaci%C3%B3n/</link>
+      <link>/categories/programaci%C3%B3n/</link>
       <pubDate>Thu, 20 Feb 2025 13:20:00 +0200</pubDate>
-      <guid>http://localhost:4321/hugo-universal-theme/categories/programaci%C3%B3n/</guid>
+      <guid>/categories/programaci%C3%B3n/</guid>
       <description></description>
     </item>
     <item>
       <title>Cuantitativo</title>
-      <link>http://localhost:4321/hugo-universal-theme/categories/cuantitativo/</link>
+      <link>/categories/cuantitativo/</link>
       <pubDate>Tue, 28 Jan 2025 11:00:00 +0200</pubDate>
-      <guid>http://localhost:4321/hugo-universal-theme/categories/cuantitativo/</guid>
+      <guid>/categories/cuantitativo/</guid>
       <description></description>
     </item>
     <item>
       <title>Riesgo</title>
-      <link>http://localhost:4321/hugo-universal-theme/categories/riesgo/</link>
+      <link>/categories/riesgo/</link>
       <pubDate>Tue, 28 Jan 2025 11:00:00 +0200</pubDate>
-      <guid>http://localhost:4321/hugo-universal-theme/categories/riesgo/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>R</title>
-      <link>http://localhost:4321/hugo-universal-theme/categories/r/</link>
-      <pubDate>Tue, 01 Dec 2020 21:13:14 -0500</pubDate>
-      <guid>http://localhost:4321/hugo-universal-theme/categories/r/</guid>
+      <guid>/categories/riesgo/</guid>
       <description></description>
     </item>
   </channel>

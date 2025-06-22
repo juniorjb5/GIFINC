@@ -3,7 +3,7 @@
     "path": "C:/Users/JuniorJ/OneDrive - correounivalle.edu.co/EII/GIFINC/PaginaWebGIFINC/hugo.yaml",
     "project_path": "hugo.yaml",
     "type": "yaml",
-    "hash": "0",
+    "hash": "806047841",
     "contents": "",
     "dirty": false,
     "created": 1750623981216.0,
@@ -12,15 +12,15 @@
     "properties": {
         "source_window_id": "",
         "Source": "Source",
-        "cursorPosition": "240,0",
-        "scrollLine": "200"
+        "cursorPosition": "0,12",
+        "scrollLine": "0"
     },
     "folds": "",
-    "lastKnownWriteTime": 1750616868,
+    "lastKnownWriteTime": 1750626928,
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1750616868,
+    "last_content_update": 1750626928232,
     "read_only": false,
     "read_only_alternatives": []
 }

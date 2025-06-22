@@ -2,60 +2,53 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Blog on GIFINC</title>
-    <link>http://localhost:4321/hugo-universal-theme/blog/</link>
+    <link>/blog/</link>
     <description>Recent content in Blog on GIFINC</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 20 Jun 2025 21:29:20 +0200</lastBuildDate>
-    <atom:link href="http://localhost:4321/hugo-universal-theme/blog/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="/blog/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>China en el Mapa Energético Global. Dinámicas de Inversión 2005–2024</title>
-      <link>http://localhost:4321/hugo-universal-theme/blog/2025/06/20/boletin_1/</link>
+      <link>/blog/2025/06/20/boletin_1/</link>
       <pubDate>Fri, 20 Jun 2025 21:29:20 +0200</pubDate>
-      <guid>http://localhost:4321/hugo-universal-theme/blog/2025/06/20/boletin_1/</guid>
+      <guid>/blog/2025/06/20/boletin_1/</guid>
       <description>&lt;div style=&#34;text-align: center;&#34;&gt;&#xD;&#xA;&#xD;&#xA;A lo largo de las dos últimas décadas, China ha consolidado su papel como uno de los principales actores en el escenario energético global, no solo por su creciente demanda interna, sino también por su notable expansión internacional en términos de inversión y construcción de infraestructura. Este boletín ofrece un análisis detallado y visual de las inversiones chinas en el sector energético a nivel mundial entre 2005 y 2024, destacando las dinámicas, patrones y cambios estratégicos que han marcado su evolución en distintas regiones del planeta.&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&lt;/div&gt;&#xD;&#xA;&#xD;&#xA;&lt;hr&gt;</description>
     </item>
     <item>
       <title>América Latina y la Transición Energética. Avances y Desafíos en el Siglo XXI</title>
-      <link>http://localhost:4321/hugo-universal-theme/blog/2025/05/18/boletin_2/</link>
+      <link>/blog/2025/05/18/boletin_2/</link>
       <pubDate>Sun, 18 May 2025 17:10:00 +0200</pubDate>
-      <guid>http://localhost:4321/hugo-universal-theme/blog/2025/05/18/boletin_2/</guid>
+      <guid>/blog/2025/05/18/boletin_2/</guid>
       <description>&lt;div style=&#34;text-align: center;&#34;&gt;&#xD;&#xA;&#xD;&#xA;Este boletín analiza los avances de América Latina en la adopción de energías renovables y estrategias de descarbonización entre 2000 y 2024. Se identifican los líderes regionales, los marcos normativos emergentes y los desafíos estructurales en el camino hacia una transición energética justa y sostenible.&#xD;&#xA;&#xD;&#xA;&lt;/div&gt;&#xD;&#xA;&#xD;&#xA;&lt;hr&gt;</description>
     </item>
     <item>
       <title>Finanzas Verdes en Mercados Emergentes ¿Moda o Transformación Estructural?</title>
-      <link>http://localhost:4321/hugo-universal-theme/blog/2025/04/05/boletin_3/</link>
+      <link>/blog/2025/04/05/boletin_3/</link>
       <pubDate>Sat, 05 Apr 2025 15:00:00 +0200</pubDate>
-      <guid>http://localhost:4321/hugo-universal-theme/blog/2025/04/05/boletin_3/</guid>
+      <guid>/blog/2025/04/05/boletin_3/</guid>
       <description>&lt;div style=&#34;text-align: center;&#34;&gt;&#xD;&#xA;&#xD;&#xA;El documento presenta un panorama comparativo del crecimiento de instrumentos financieros verdes en mercados emergentes entre 2010 y 2023, con especial énfasis en los bonos verdes y la evolución de las métricas ESG. Se discute su impacto real y los retos de integrarlos en sistemas financieros tradicionales.&#xD;&#xA;&#xD;&#xA;&lt;/div&gt;&#xD;&#xA;&#xD;&#xA;&lt;hr&gt;</description>
     </item>
     <item>
       <title>Impacto de los Choques Macroeconómicos en los Precios de Energía Perspectivas Globales 2000–2023</title>
-      <link>http://localhost:4321/hugo-universal-theme/blog/2025/03/12/boletin_4/</link>
+      <link>/blog/2025/03/12/boletin_4/</link>
       <pubDate>Wed, 12 Mar 2025 09:40:00 +0200</pubDate>
-      <guid>http://localhost:4321/hugo-universal-theme/blog/2025/03/12/boletin_4/</guid>
+      <guid>/blog/2025/03/12/boletin_4/</guid>
       <description>&lt;div style=&#34;text-align: center;&#34;&gt;&#xD;&#xA;&#xD;&#xA;Explora cómo los choques macroeconómicos —como crisis financieras, pandemias y conflictos geopolíticos— han afectado la dinámica de precios de petróleo, gas y electricidad en mercados clave. El análisis incorpora modelos econométricos robustos para entender su comportamiento no lineal.&#xD;&#xA;&#xD;&#xA;&lt;/div&gt;&#xD;&#xA;&#xD;&#xA;&lt;hr&gt;</description>
     </item>
     <item>
       <title>Predicción del Consumo Energético con Machine Learning: Una Aplicación en Colombia</title>
-      <link>http://localhost:4321/hugo-universal-theme/blog/2025/02/20/boletin_5/</link>
+      <link>/blog/2025/02/20/boletin_5/</link>
       <pubDate>Thu, 20 Feb 2025 13:20:00 +0200</pubDate>
-      <guid>http://localhost:4321/hugo-universal-theme/blog/2025/02/20/boletin_5/</guid>
+      <guid>/blog/2025/02/20/boletin_5/</guid>
       <description>&lt;div style=&#34;text-align: center;&#34;&gt;&#xD;&#xA;&#xD;&#xA;Presenta un enfoque predictivo usando modelos de machine learning para estimar el consumo energético en regiones de Colombia. Se comparan modelos supervisados como regresión lineal, árboles de decisión y redes neuronales, evaluando su precisión y aplicabilidad en escenarios reales.&#xD;&#xA;&#xD;&#xA;&lt;/div&gt;&#xD;&#xA;&#xD;&#xA;&lt;hr&gt;</description>
     </item>
     <item>
       <title>Riesgo y Volatilidad en los Mercados Energéticos: Un Análisis con Value at Risk</title>
-      <link>http://localhost:4321/hugo-universal-theme/blog/2025/01/28/boletin_6/</link>
+      <link>/blog/2025/01/28/boletin_6/</link>
       <pubDate>Tue, 28 Jan 2025 11:00:00 +0200</pubDate>
-      <guid>http://localhost:4321/hugo-universal-theme/blog/2025/01/28/boletin_6/</guid>
+      <guid>/blog/2025/01/28/boletin_6/</guid>
       <description>&lt;div style=&#34;text-align: center;&#34;&gt;&#xD;&#xA;&#xD;&#xA;Este boletín explora el riesgo financiero en mercados energéticos mediante la estimación del Value at Risk (VaR) en portafolios con activos energéticos. Se incluyen escenarios de estrés climático y disrupciones de oferta que afectan los precios y la estabilidad del mercado.&#xD;&#xA;&#xD;&#xA;&lt;/div&gt;&#xD;&#xA;&#xD;&#xA;&lt;hr&gt;</description>
-    </item>
-    <item>
-      <title>Hello R Markdown</title>
-      <link>http://localhost:4321/hugo-universal-theme/blog/2020/12/01/index.en/</link>
-      <pubDate>Tue, 01 Dec 2020 21:13:14 -0500</pubDate>
-      <guid>http://localhost:4321/hugo-universal-theme/blog/2020/12/01/index.en/</guid>
-      <description>&lt;h1 id=&#34;r-markdown&#34;&gt;R Markdown&lt;/h1&gt;&#xA;&lt;p&gt;This is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see &lt;a href=&#34;http://rmarkdown.rstudio.com&#34;&gt;http://rmarkdown.rstudio.com&lt;/a&gt;.&lt;/p&gt;&#xA;&lt;p&gt;You can embed an R code chunk like this:&lt;/p&gt;&#xA;&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;&#34;&gt;&lt;code class=&#34;language-r&#34; data-lang=&#34;r&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#a6e22e&#34;&gt;summary&lt;/span&gt;(cars)&#xA;&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#75715e&#34;&gt;##      speed           dist       &lt;/span&gt;&#xA;&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#75715e&#34;&gt;##  Min.   : 4.0   Min.   :  2.00  &lt;/span&gt;&#xA;&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#75715e&#34;&gt;##  1st Qu.:12.0   1st Qu.: 26.00  &lt;/span&gt;&#xA;&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#75715e&#34;&gt;##  Median :15.0   Median : 36.00  &lt;/span&gt;&#xA;&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#75715e&#34;&gt;##  Mean   :15.4   Mean   : 42.98  &lt;/span&gt;&#xA;&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#75715e&#34;&gt;##  3rd Qu.:19.0   3rd Qu.: 56.00  &lt;/span&gt;&#xA;&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#75715e&#34;&gt;##  Max.   :25.0   Max.   :120.00&lt;/span&gt;&#xA;&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;fit &lt;span style=&#34;color:#f92672&#34;&gt;&amp;lt;-&lt;/span&gt; &lt;span style=&#34;color:#a6e22e&#34;&gt;lm&lt;/span&gt;(dist &lt;span style=&#34;color:#f92672&#34;&gt;~&lt;/span&gt; speed, data &lt;span style=&#34;color:#f92672&#34;&gt;=&lt;/span&gt; cars)&#xA;&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;fit&#xA;&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#75715e&#34;&gt;## &lt;/span&gt;&#xA;&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#75715e&#34;&gt;## Call:&lt;/span&gt;&#xA;&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#75715e&#34;&gt;## lm(formula = dist ~ speed, data = cars)&lt;/span&gt;&#xA;&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#75715e&#34;&gt;## &lt;/span&gt;&#xA;&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#75715e&#34;&gt;## Coefficients:&lt;/span&gt;&#xA;&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#75715e&#34;&gt;## (Intercept)        speed  &lt;/span&gt;&#xA;&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#75715e&#34;&gt;##     -17.579        3.932&lt;/span&gt;&#xA;&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;h1 id=&#34;including-plots&#34;&gt;Including Plots&lt;/h1&gt;&#xA;&lt;p&gt;You can also embed plots. See Figure &lt;!-- raw HTML omitted --&gt;1&lt;!-- raw HTML omitted --&gt; for example:&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

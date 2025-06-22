@@ -19,6 +19,15 @@ blogdown::serve_site()
 blogdown::stop_server()
 
 
-unlink("public", recursive = TRUE)
-blogdown::serve_site()
+
+git add .
+
+git commit -m "Act.22.06.2025_2"
+
+git push origin main
+
+
+
+#unlink("public", recursive = TRUE)
+#blogdown::serve_site()
 

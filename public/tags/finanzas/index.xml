@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Finanzas on GIFINC</title>
-    <link>http://localhost:4321/hugo-universal-theme/tags/finanzas/</link>
+    <link>/tags/finanzas/</link>
     <description>Recent content in Finanzas on GIFINC</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 20 Jun 2025 21:29:20 +0200</lastBuildDate>
-    <atom:link href="http://localhost:4321/hugo-universal-theme/tags/finanzas/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="/tags/finanzas/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>China en el Mapa Energético Global. Dinámicas de Inversión 2005–2024</title>
-      <link>http://localhost:4321/hugo-universal-theme/blog/2025/06/20/boletin_1/</link>
+      <link>/blog/2025/06/20/boletin_1/</link>
       <pubDate>Fri, 20 Jun 2025 21:29:20 +0200</pubDate>
-      <guid>http://localhost:4321/hugo-universal-theme/blog/2025/06/20/boletin_1/</guid>
+      <guid>/blog/2025/06/20/boletin_1/</guid>
       <description>&lt;div style=&#34;text-align: center;&#34;&gt;&#xD;&#xA;&#xD;&#xA;A lo largo de las dos últimas décadas, China ha consolidado su papel como uno de los principales actores en el escenario energético global, no solo por su creciente demanda interna, sino también por su notable expansión internacional en términos de inversión y construcción de infraestructura. Este boletín ofrece un análisis detallado y visual de las inversiones chinas en el sector energético a nivel mundial entre 2005 y 2024, destacando las dinámicas, patrones y cambios estratégicos que han marcado su evolución en distintas regiones del planeta.&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&lt;/div&gt;&#xD;&#xA;&#xD;&#xA;&lt;hr&gt;</description>
     </item>
   </channel>

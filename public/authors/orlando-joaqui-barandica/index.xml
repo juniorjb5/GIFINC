@@ -2,31 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Orlando Joaqui Barandica on GIFINC</title>
-    <link>http://localhost:4321/hugo-universal-theme/authors/orlando-joaqui-barandica/</link>
+    <link>/authors/orlando-joaqui-barandica/</link>
     <description>Recent content in Orlando Joaqui Barandica on GIFINC</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 20 Jun 2025 21:29:20 +0200</lastBuildDate>
-    <atom:link href="http://localhost:4321/hugo-universal-theme/authors/orlando-joaqui-barandica/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="/authors/orlando-joaqui-barandica/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>China en el Mapa Energético Global. Dinámicas de Inversión 2005–2024</title>
-      <link>http://localhost:4321/hugo-universal-theme/blog/2025/06/20/boletin_1/</link>
+      <link>/blog/2025/06/20/boletin_1/</link>
       <pubDate>Fri, 20 Jun 2025 21:29:20 +0200</pubDate>
-      <guid>http://localhost:4321/hugo-universal-theme/blog/2025/06/20/boletin_1/</guid>
+      <guid>/blog/2025/06/20/boletin_1/</guid>
       <description>&lt;div style=&#34;text-align: center;&#34;&gt;&#xD;&#xA;&#xD;&#xA;A lo largo de las dos últimas décadas, China ha consolidado su papel como uno de los principales actores en el escenario energético global, no solo por su creciente demanda interna, sino también por su notable expansión internacional en términos de inversión y construcción de infraestructura. Este boletín ofrece un análisis detallado y visual de las inversiones chinas en el sector energético a nivel mundial entre 2005 y 2024, destacando las dinámicas, patrones y cambios estratégicos que han marcado su evolución en distintas regiones del planeta.&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&lt;/div&gt;&#xD;&#xA;&#xD;&#xA;&lt;hr&gt;</description>
     </item>
     <item>
       <title>Impacto de los Choques Macroeconómicos en los Precios de Energía Perspectivas Globales 2000–2023</title>
-      <link>http://localhost:4321/hugo-universal-theme/blog/2025/03/12/boletin_4/</link>
+      <link>/blog/2025/03/12/boletin_4/</link>
       <pubDate>Wed, 12 Mar 2025 09:40:00 +0200</pubDate>
-      <guid>http://localhost:4321/hugo-universal-theme/blog/2025/03/12/boletin_4/</guid>
+      <guid>/blog/2025/03/12/boletin_4/</guid>
       <description>&lt;div style=&#34;text-align: center;&#34;&gt;&#xD;&#xA;&#xD;&#xA;Explora cómo los choques macroeconómicos —como crisis financieras, pandemias y conflictos geopolíticos— han afectado la dinámica de precios de petróleo, gas y electricidad en mercados clave. El análisis incorpora modelos econométricos robustos para entender su comportamiento no lineal.&#xD;&#xA;&#xD;&#xA;&lt;/div&gt;&#xD;&#xA;&#xD;&#xA;&lt;hr&gt;</description>
     </item>
     <item>
       <title>Riesgo y Volatilidad en los Mercados Energéticos: Un Análisis con Value at Risk</title>
-      <link>http://localhost:4321/hugo-universal-theme/blog/2025/01/28/boletin_6/</link>
+      <link>/blog/2025/01/28/boletin_6/</link>
       <pubDate>Tue, 28 Jan 2025 11:00:00 +0200</pubDate>
-      <guid>http://localhost:4321/hugo-universal-theme/blog/2025/01/28/boletin_6/</guid>
+      <guid>/blog/2025/01/28/boletin_6/</guid>
       <description>&lt;div style=&#34;text-align: center;&#34;&gt;&#xD;&#xA;&#xD;&#xA;Este boletín explora el riesgo financiero en mercados energéticos mediante la estimación del Value at Risk (VaR) en portafolios con activos energéticos. Se incluyen escenarios de estrés climático y disrupciones de oferta que afectan los precios y la estabilidad del mercado.&#xD;&#xA;&#xD;&#xA;&lt;/div&gt;&#xD;&#xA;&#xD;&#xA;&lt;hr&gt;</description>
     </item>
   </channel>

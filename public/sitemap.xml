@@ -2,232 +2,217 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:4321/hugo-universal-theme/formacion/doctorado/</loc>
+    <loc>/formacion/doctorado/</loc>
   </url><url>
-    <loc>http://localhost:4321/hugo-universal-theme/formacion/maestria/</loc>
+    <loc>/formacion/maestria/</loc>
     <lastmod>2025-06-17T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:4321/hugo-universal-theme/authors/</loc>
+    <loc>/authors/</loc>
     <lastmod>2025-06-20T21:29:20+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:4321/hugo-universal-theme/blog/</loc>
+    <loc>/blog/</loc>
     <lastmod>2025-06-20T21:29:20+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:4321/hugo-universal-theme/categories/</loc>
+    <loc>/categories/</loc>
     <lastmod>2025-06-20T21:29:20+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:4321/hugo-universal-theme/tags/china/</loc>
+    <loc>/tags/china/</loc>
     <lastmod>2025-06-20T21:29:20+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:4321/hugo-universal-theme/blog/2025/06/20/boletin_1/</loc>
+    <loc>/blog/2025/06/20/boletin_1/</loc>
     <lastmod>2025-06-20T21:29:20+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:4321/hugo-universal-theme/categories/econom%C3%ADa/</loc>
+    <loc>/categories/econom%C3%ADa/</loc>
     <lastmod>2025-06-20T21:29:20+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:4321/hugo-universal-theme/tags/energia/</loc>
+    <loc>/tags/energia/</loc>
     <lastmod>2025-06-20T21:29:20+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:4321/hugo-universal-theme/categories/energ%C3%ADa/</loc>
+    <loc>/categories/energ%C3%ADa/</loc>
     <lastmod>2025-06-20T21:29:20+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:4321/hugo-universal-theme/categories/finanzas/</loc>
+    <loc>/categories/finanzas/</loc>
     <lastmod>2025-06-20T21:29:20+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:4321/hugo-universal-theme/tags/finanzas/</loc>
+    <loc>/tags/finanzas/</loc>
     <lastmod>2025-06-20T21:29:20+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:4321/hugo-universal-theme/</loc>
+    <loc>/</loc>
     <lastmod>2025-06-20T21:29:20+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:4321/hugo-universal-theme/categories/internacional/</loc>
+    <loc>/categories/internacional/</loc>
     <lastmod>2025-06-20T21:29:20+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:4321/hugo-universal-theme/tags/inversi%C3%B3n/</loc>
+    <loc>/tags/inversi%C3%B3n/</loc>
     <lastmod>2025-06-20T21:29:20+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:4321/hugo-universal-theme/authors/orlando-joaqui-barandica/</loc>
+    <loc>/authors/orlando-joaqui-barandica/</loc>
     <lastmod>2025-06-20T21:29:20+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:4321/hugo-universal-theme/authors/ricardo-lopes-klotz/</loc>
+    <loc>/authors/ricardo-lopes-klotz/</loc>
     <lastmod>2025-06-20T21:29:20+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:4321/hugo-universal-theme/authors/sebasti%C3%A1n-lopez-estrada/</loc>
+    <loc>/authors/sebasti%C3%A1n-lopez-estrada/</loc>
     <lastmod>2025-06-20T21:29:20+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:4321/hugo-universal-theme/tags/</loc>
+    <loc>/tags/</loc>
     <lastmod>2025-06-20T21:29:20+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:4321/hugo-universal-theme/formacion/</loc>
+    <loc>/formacion/</loc>
     <lastmod>2025-06-17T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:4321/hugo-universal-theme/nosotros/lineas-investigacion/</loc>
+    <loc>/nosotros/lineas-investigacion/</loc>
     <lastmod>2025-06-17T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:4321/hugo-universal-theme/nosotros/</loc>
+    <loc>/nosotros/</loc>
     <lastmod>2025-06-17T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:4321/hugo-universal-theme/nosotros/plan-estrategico/</loc>
+    <loc>/nosotros/plan-estrategico/</loc>
     <lastmod>2025-06-17T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:4321/hugo-universal-theme/tags/am%C3%A9rica-latina/</loc>
+    <loc>/tags/am%C3%A9rica-latina/</loc>
     <lastmod>2025-05-18T17:10:00+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:4321/hugo-universal-theme/blog/2025/05/18/boletin_2/</loc>
+    <loc>/blog/2025/05/18/boletin_2/</loc>
     <lastmod>2025-05-18T17:10:00+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:4321/hugo-universal-theme/authors/camilo-lopez/</loc>
+    <loc>/authors/camilo-lopez/</loc>
     <lastmod>2025-05-18T17:10:00+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:4321/hugo-universal-theme/tags/energ%C3%ADas-renovables/</loc>
+    <loc>/tags/energ%C3%ADas-renovables/</loc>
     <lastmod>2025-05-18T17:10:00+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:4321/hugo-universal-theme/authors/mateo-r%C3%ADos-vergara/</loc>
+    <loc>/authors/mateo-r%C3%ADos-vergara/</loc>
     <lastmod>2025-05-18T17:10:00+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:4321/hugo-universal-theme/tags/pol%C3%ADtica-energ%C3%A9tica/</loc>
+    <loc>/tags/pol%C3%ADtica-energ%C3%A9tica/</loc>
     <lastmod>2025-05-18T17:10:00+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:4321/hugo-universal-theme/categories/sostenibilidad/</loc>
+    <loc>/categories/sostenibilidad/</loc>
     <lastmod>2025-05-18T17:10:00+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:4321/hugo-universal-theme/tags/transici%C3%B3n-energ%C3%A9tica/</loc>
+    <loc>/tags/transici%C3%B3n-energ%C3%A9tica/</loc>
     <lastmod>2025-05-18T17:10:00+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:4321/hugo-universal-theme/authors/valentina-c%C3%A1rdenas-l%C3%B3pez/</loc>
+    <loc>/authors/valentina-c%C3%A1rdenas-l%C3%B3pez/</loc>
     <lastmod>2025-05-18T17:10:00+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:4321/hugo-universal-theme/tags/bonos-verdes/</loc>
+    <loc>/tags/bonos-verdes/</loc>
     <lastmod>2025-04-05T15:00:00+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:4321/hugo-universal-theme/categories/datos/</loc>
+    <loc>/categories/datos/</loc>
     <lastmod>2025-04-05T15:00:00+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:4321/hugo-universal-theme/tags/esg/</loc>
+    <loc>/tags/esg/</loc>
     <lastmod>2025-04-05T15:00:00+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:4321/hugo-universal-theme/tags/finanzas-verdes/</loc>
+    <loc>/tags/finanzas-verdes/</loc>
     <lastmod>2025-04-05T15:00:00+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:4321/hugo-universal-theme/blog/2025/04/05/boletin_3/</loc>
+    <loc>/blog/2025/04/05/boletin_3/</loc>
     <lastmod>2025-04-05T15:00:00+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:4321/hugo-universal-theme/authors/laura-montenegro-cruz/</loc>
+    <loc>/authors/laura-montenegro-cruz/</loc>
     <lastmod>2025-04-05T15:00:00+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:4321/hugo-universal-theme/tags/mercados-emergentes/</loc>
+    <loc>/tags/mercados-emergentes/</loc>
     <lastmod>2025-04-05T15:00:00+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:4321/hugo-universal-theme/authors/sebasti%C3%A1n-l%C3%B3pez-estrada/</loc>
+    <loc>/authors/sebasti%C3%A1n-l%C3%B3pez-estrada/</loc>
     <lastmod>2025-04-05T15:00:00+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:4321/hugo-universal-theme/categories/coyuntura/</loc>
+    <loc>/categories/coyuntura/</loc>
     <lastmod>2025-03-12T09:40:00+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:4321/hugo-universal-theme/authors/daniela-becerra-soto/</loc>
+    <loc>/authors/daniela-becerra-soto/</loc>
     <lastmod>2025-03-12T09:40:00+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:4321/hugo-universal-theme/blog/2025/03/12/boletin_4/</loc>
+    <loc>/blog/2025/03/12/boletin_4/</loc>
     <lastmod>2025-03-12T09:40:00+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:4321/hugo-universal-theme/tags/inflaci%C3%B3n/</loc>
+    <loc>/tags/inflaci%C3%B3n/</loc>
     <lastmod>2025-03-12T09:40:00+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:4321/hugo-universal-theme/authors/nicol%C3%A1s-herrera-tamayo/</loc>
+    <loc>/authors/nicol%C3%A1s-herrera-tamayo/</loc>
     <lastmod>2025-03-12T09:40:00+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:4321/hugo-universal-theme/tags/petr%C3%B3leo/</loc>
+    <loc>/tags/petr%C3%B3leo/</loc>
     <lastmod>2025-03-12T09:40:00+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:4321/hugo-universal-theme/tags/precios-de-la-energ%C3%ADa/</loc>
+    <loc>/tags/precios-de-la-energ%C3%ADa/</loc>
     <lastmod>2025-03-12T09:40:00+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:4321/hugo-universal-theme/tags/shocks-externos/</loc>
+    <loc>/tags/shocks-externos/</loc>
     <lastmod>2025-03-12T09:40:00+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:4321/hugo-universal-theme/tags/big-data/</loc>
+    <loc>/tags/big-data/</loc>
     <lastmod>2025-02-20T13:20:00+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:4321/hugo-universal-theme/authors/diego-manotas-duque/</loc>
+    <loc>/authors/diego-manotas-duque/</loc>
     <lastmod>2025-02-20T13:20:00+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:4321/hugo-universal-theme/tags/energ%C3%ADa/</loc>
+    <loc>/tags/energ%C3%ADa/</loc>
     <lastmod>2025-02-20T13:20:00+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:4321/hugo-universal-theme/categories/inteligencia-artificial/</loc>
+    <loc>/categories/inteligencia-artificial/</loc>
     <lastmod>2025-02-20T13:20:00+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:4321/hugo-universal-theme/tags/machine-learning/</loc>
+    <loc>/tags/machine-learning/</loc>
     <lastmod>2025-02-20T13:20:00+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:4321/hugo-universal-theme/authors/mariana-giraldo-p%C3%A1ez/</loc>
+    <loc>/authors/mariana-giraldo-p%C3%A1ez/</loc>
     <lastmod>2025-02-20T13:20:00+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:4321/hugo-universal-theme/tags/predicci%C3%B3n/</loc>
+    <loc>/tags/predicci%C3%B3n/</loc>
     <lastmod>2025-02-20T13:20:00+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:4321/hugo-universal-theme/blog/2025/02/20/boletin_5/</loc>
+    <loc>/blog/2025/02/20/boletin_5/</loc>
     <lastmod>2025-02-20T13:20:00+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:4321/hugo-universal-theme/categories/programaci%C3%B3n/</loc>
+    <loc>/categories/programaci%C3%B3n/</loc>
     <lastmod>2025-02-20T13:20:00+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:4321/hugo-universal-theme/authors/camila-p%C3%A9rez-%C3%A1lvarez/</loc>
+    <loc>/authors/camila-p%C3%A9rez-%C3%A1lvarez/</loc>
     <lastmod>2025-01-28T11:00:00+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:4321/hugo-universal-theme/categories/cuantitativo/</loc>
+    <loc>/categories/cuantitativo/</loc>
     <lastmod>2025-01-28T11:00:00+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:4321/hugo-universal-theme/tags/mercados-financieros/</loc>
+    <loc>/tags/mercados-financieros/</loc>
     <lastmod>2025-01-28T11:00:00+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:4321/hugo-universal-theme/categories/riesgo/</loc>
+    <loc>/categories/riesgo/</loc>
     <lastmod>2025-01-28T11:00:00+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:4321/hugo-universal-theme/blog/2025/01/28/boletin_6/</loc>
+    <loc>/blog/2025/01/28/boletin_6/</loc>
     <lastmod>2025-01-28T11:00:00+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:4321/hugo-universal-theme/tags/value-at-risk/</loc>
+    <loc>/tags/value-at-risk/</loc>
     <lastmod>2025-01-28T11:00:00+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:4321/hugo-universal-theme/tags/volatilidad/</loc>
+    <loc>/tags/volatilidad/</loc>
     <lastmod>2025-01-28T11:00:00+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:4321/hugo-universal-theme/blog/2020/12/01/index.en/</loc>
-    <lastmod>2020-12-01T21:13:14-05:00</lastmod>
+    <loc>/publicaciones/articulos/</loc>
   </url><url>
-    <loc>http://localhost:4321/hugo-universal-theme/tags/plot/</loc>
-    <lastmod>2020-12-01T21:13:14-05:00</lastmod>
+    <loc>/publicaciones/capitulos/</loc>
   </url><url>
-    <loc>http://localhost:4321/hugo-universal-theme/categories/r/</loc>
-    <lastmod>2020-12-01T21:13:14-05:00</lastmod>
+    <loc>/publicaciones/congresos/</loc>
   </url><url>
-    <loc>http://localhost:4321/hugo-universal-theme/tags/r-markdown/</loc>
-    <lastmod>2020-12-01T21:13:14-05:00</lastmod>
+    <loc>/contact/</loc>
   </url><url>
-    <loc>http://localhost:4321/hugo-universal-theme/tags/regression/</loc>
-    <lastmod>2020-12-01T21:13:14-05:00</lastmod>
+    <loc>/faq/</loc>
   </url><url>
-    <loc>http://localhost:4321/hugo-universal-theme/publicaciones/articulos/</loc>
+    <loc>/nosotros/investigadores/</loc>
   </url><url>
-    <loc>http://localhost:4321/hugo-universal-theme/publicaciones/capitulos/</loc>
+    <loc>/publicaciones/</loc>
   </url><url>
-    <loc>http://localhost:4321/hugo-universal-theme/publicaciones/congresos/</loc>
+    <loc>/semilleros/anif/</loc>
   </url><url>
-    <loc>http://localhost:4321/hugo-universal-theme/contact/</loc>
+    <loc>/semilleros/</loc>
   </url><url>
-    <loc>http://localhost:4321/hugo-universal-theme/faq/</loc>
+    <loc>/publicaciones/tesis-doctorales/</loc>
   </url><url>
-    <loc>http://localhost:4321/hugo-universal-theme/nosotros/investigadores/</loc>
-  </url><url>
-    <loc>http://localhost:4321/hugo-universal-theme/publicaciones/</loc>
-  </url><url>
-    <loc>http://localhost:4321/hugo-universal-theme/semilleros/anif/</loc>
-  </url><url>
-    <loc>http://localhost:4321/hugo-universal-theme/semilleros/</loc>
-  </url><url>
-    <loc>http://localhost:4321/hugo-universal-theme/publicaciones/tesis-doctorales/</loc>
-  </url><url>
-    <loc>http://localhost:4321/hugo-universal-theme/publicaciones/tesis-maestria/</loc>
+    <loc>/publicaciones/tesis-maestria/</loc>
   </url>
 </urlset>

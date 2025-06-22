@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Daniela Becerra Soto on GIFINC</title>
-    <link>http://localhost:4321/hugo-universal-theme/authors/daniela-becerra-soto/</link>
+    <link>/authors/daniela-becerra-soto/</link>
     <description>Recent content in Daniela Becerra Soto on GIFINC</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 12 Mar 2025 09:40:00 +0200</lastBuildDate>
-    <atom:link href="http://localhost:4321/hugo-universal-theme/authors/daniela-becerra-soto/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="/authors/daniela-becerra-soto/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Impacto de los Choques Macroeconómicos en los Precios de Energía Perspectivas Globales 2000–2023</title>
-      <link>http://localhost:4321/hugo-universal-theme/blog/2025/03/12/boletin_4/</link>
+      <link>/blog/2025/03/12/boletin_4/</link>
       <pubDate>Wed, 12 Mar 2025 09:40:00 +0200</pubDate>
-      <guid>http://localhost:4321/hugo-universal-theme/blog/2025/03/12/boletin_4/</guid>
+      <guid>/blog/2025/03/12/boletin_4/</guid>
       <description>&lt;div style=&#34;text-align: center;&#34;&gt;&#xD;&#xA;&#xD;&#xA;Explora cómo los choques macroeconómicos —como crisis financieras, pandemias y conflictos geopolíticos— han afectado la dinámica de precios de petróleo, gas y electricidad en mercados clave. El análisis incorpora modelos econométricos robustos para entender su comportamiento no lineal.&#xD;&#xA;&#xD;&#xA;&lt;/div&gt;&#xD;&#xA;&#xD;&#xA;&lt;hr&gt;</description>
     </item>
   </channel>

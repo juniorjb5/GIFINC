@@ -1,0 +1,240 @@
+baseurl: https://devcows.github.io/hugo-universal-theme/
+title: GIFINC
+theme: hugo-universal-theme
+languageCode: en-us
+defaultContentLanguage: es
+summaryLength: 70
+pluralizelisttitles: no
+services:
+  disqus:
+    shortname:
+  googleAnalytics:
+    id: ''
+pagination:
+  pagerSize: 10
+menu:
+  main:
+    - identifier: menu.inicio
+      name: Inicio
+      url: /
+      weight: 1
+    - identifier: menu.nosotros
+      name: Nosotros
+      url: /img/Nosotros.png
+      weight: 2
+    - identifier: section.nosotros-general
+      name: General
+      parent: menu.nosotros
+      post: 1
+      url: ''
+      weight: 1
+    - name: Plan estratégico
+      parent: section.nosotros-general
+      url: /nosotros/plan-estrategico/
+      weight: 1
+    - name: Líneas de investigación
+      parent: section.nosotros-general
+      url: /nosotros/lineas-investigacion/
+      weight: 2
+    - identifier: section.nosotros-equipo
+      name: Equipo
+      parent: menu.nosotros
+      post: 1
+      url: ''
+      weight: 2
+    - name: Investigadores
+      parent: section.nosotros-equipo
+      url: /nosotros/investigadores/
+      weight: 1
+    - identifier: section.nosotros-formacion
+      name: Formación académica
+      parent: menu.nosotros
+      post: 2
+      url: ''
+      weight: 3
+    - name: Doctorados
+      parent: section.nosotros-formacion
+      url: /formacion/doctorado/
+      weight: 1
+    - name: Maestrías y Especializaciones
+      parent: section.nosotros-formacion
+      url: /formacion/maestria/
+      weight: 2
+    
+    - identifier: menu.publicaciones
+      name: Publicaciones
+      url: /img/revistas3.png
+      weight: 3
+    - identifier: section.publicaciones-doc
+      name: Investigación
+      parent: menu.publicaciones
+      post: 1
+      url: ''
+      weight: 1
+    - name: Artículos
+      parent: section.publicaciones-doc
+      url: /publicaciones/articulos/
+      weight: 1
+    - name: Capítulos de libro
+      parent: section.publicaciones-doc
+      url: /publicaciones/capitulos/
+      weight: 2
+    - name: Congresos
+      parent: section.publicaciones-doc
+      url: /publicaciones/congresos/
+      weight: 3
+
+    - identifier: section.tesis
+      name: Tesis
+      parent: menu.publicaciones
+      post: 2
+      url: ''
+      weight: 2
+    - name: Tesis Doctorales
+      parent: section.tesis
+      url: /publicaciones/tesis-doctorales/
+      weight: 1
+    - name: Tesis de Maestría
+      parent: section.tesis
+      url: /publicaciones/tesis-maestria/
+      weight: 2
+
+    - identifier: menu.semilleros
+      name: Semilleros
+      url: /img/logoanif2.png
+      weight: 4
+    - identifier: section.semilleros
+      name: Semillero de Investigación
+      parent: menu.semilleros
+      post: 1
+      url: ''
+      weight: 1
+    - name: Semillero ANIF - Analítica e Ingeniería Financiera
+      parent: section.semilleros
+      url: /semilleros/anif/
+      weight: 1
+
+    - identifier: menu.blog
+      name: Boletín
+      url: /img/Eventos.png
+      weight: 5
+    - identifier: section.boletin
+      name: Comunicaciones recientes
+      parent: menu.blog
+      post: 1
+      url: ''
+      weight: 1
+    - name: 2025 - (Julio - Diciembre)
+      parent: section.boletin
+      url: /blog/
+      weight: 1
+    - name: 2026 - (Enero - Junio)
+      parent: section.boletin
+      url: /blog/
+      weight: 2
+    - name: 2026 - (Julio - Diciembre)
+      parent: section.boletin
+      url: /blog/
+      weight: 3
+    
+    - identifier: section.vertodas
+      name: Ver más
+      parent: menu.blog
+      post: 2
+      url: ''
+      weight: 2
+    - name: Ver todas las comunicaciones
+      parent: section.vertodas
+      url: /blog/
+      weight: 4
+      
+    - identifier: menu.stat
+      name: Estadísticas
+      url: /eventos/listado/
+      weight: 6
+    - identifier: contact
+      name: Contacto
+      url: /contact/
+      weight: 7
+params:
+  about_us: <p>Somos una comunidad académica de la <strong>Universidad del Valle</strong> dedicada a la generación y aplicación de conocimiento en finanzas, economía energética, analítica y riesgo. <br><br>  Email. <br> investigacion.gifinc@correounivalle.edu.co</p>
+  address: "<p class=\"text-uppercase\"><strong>Universidad del Valle.</strong>\r\n        <br>Cl. 13 No. 100-00\r\n        <br>Escuela de Ingeniería Industrial\r\n        <br>Edf. E23 - 2 Piso\r\n        <br>Cali\r \n
+    \       <br>\r\n COLOMBIA \r\n      </p>\r\n  "
+  author: GIFINC
+  carouselCustomers:
+    auto_play: no
+    items: 6
+    pagination_speed: 1000
+    slide_speed: 2000
+  carouselHomepage:
+    auto_play: yes
+    enable: yes
+    pagination_speed: 1000
+    slide_speed: 2000
+  carouselTestimonials:
+    auto_play: yes
+    items: 3
+    pagination_speed: 1000
+    slide_speed: 2000
+  clients:
+    enable: yes
+    subtitle: ''
+    title: Nuestros convenios
+  contact_form_ajax: ""
+  copyright: Copyright (c) 2025, GIFINC; all rights reserved.
+  date_format: January 2, 2006
+  default_sharing_image: img/sharing-default.png
+  defaultDescription: Site template made by GIFINC using Hugo
+  defaultKeywords:
+    - devcows
+    - hugo
+    - go
+  disabled_logo: no
+  dropdown_mouse_over: no
+  enableGoogleMaps: yes
+  enableRecaptchaInContactForm: ""
+  facebook_site: ''
+  features:
+    cols: 3
+    enable: yes
+  footer:
+    recent_posts:
+      enable: yes
+  formspree_action: ""
+  googleMapsApiKey: AIzaSyAv7Sza8NSp9_l_g8G2vlo0H4ydEPn_2jY
+  googleRecaptchaKey: site_key_for_google_recaptcha
+  latitude: "3.375380"
+  longitude: "-76.535941"
+  logo: img/logo.png
+  logo_small: img/logo-small.png
+  logo_text: GIFINC
+  mainSections: blog
+  recent_posts:
+    enable: yes
+    hide_summary: no
+    subtitle: Conoce nuestras reflexiones, investigaciones y noticias más recientes en finanzas, energía y analítica de datos. Esta sección recopila las publicaciones periódicas del grupo, donde compartimos avances de investigación, análisis de coyuntura, publicaciones colaborativos y experiencias formativas de nuestros integrantes. El boletín de GIFINC es un espacio para divulgar conocimiento riguroso de forma accesible, conectar con otros actores del entorno académico y profesional, y visibilizar el impacto de nuestras líneas de trabajo.
+    title: Boletin GIFINC
+  see_more:
+    enable: yes
+    icon: far fa-file-alt
+    link_text: Ver publicaciones científicas
+    link_url: /hugo-universal-theme//publicaciones/articulos/
+    subtitle: Descubre las publicaciones científicas del grupo GIFINC en revistas especializadas, libros y capítulos. Nuestra producción académica refleja el compromiso con la excelencia, la rigurosidad metodológica y el impacto regional y global. 
+    title: Producción científica GIFINC
+  style: marsala
+  testimonials:
+    enable: yes
+    subtitle: La investigación se construye en comunidad. En GIFINC, cada integrante aporta desde su experiencia, saberes y pasiones para generar conocimiento con impacto. Estas son algunas voces que dan vida a nuestro grupo.
+    title: Lo que dicen nuestros integrantes
+  twitter_site: GoHugoIO
+  viewMorePostLink: /blog/
+  widgets:
+    categories: yes
+    search: yes
+    tags: yes
+permalinks:
+  blog: /blog/:year/:month/:day/:filename/
+taxonomies:
+  author: authors
+  category: categories
+  tag: tags

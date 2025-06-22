@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Proyectos on GIFINC</title>
+    <link>http://localhost:4321/hugo-universal-theme/proyectos/</link>
+    <description>Recent content in Proyectos on GIFINC</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <atom:link href="http://localhost:4321/hugo-universal-theme/proyectos/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Integrantes</title>
+      <link>http://localhost:4321/hugo-universal-theme/proyectos/investigadores/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:4321/hugo-universal-theme/proyectos/investigadores/</guid>
+      <description>&lt;style&gt;&#xD;&#xA;.card-container {&#xD;&#xA;  display: flex;&#xD;&#xA;  flex-wrap: wrap;&#xD;&#xA;  justify-content: center;&#xD;&#xA;  gap: 30px;&#xD;&#xA;}&#xD;&#xA;&#xD;&#xA;.card {&#xD;&#xA;  width: 330px;&#xD;&#xA;  background: #fff;&#xD;&#xA;  border-radius: 12px;&#xD;&#xA;  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);&#xD;&#xA;  overflow: hidden;&#xD;&#xA;  transition: transform 0.3s ease;&#xD;&#xA;  text-align: center;&#xD;&#xA;}&#xD;&#xA;&#xD;&#xA;.card:hover {&#xD;&#xA;  transform: translateY(-5px);&#xD;&#xA;}&#xD;&#xA;&#xD;&#xA;.card img {&#xD;&#xA;  width: 120px;&#xD;&#xA;  height: 120px;&#xD;&#xA;  border-radius: 50%;&#xD;&#xA;  margin-top: 20px;&#xD;&#xA;  object-fit: cover;&#xD;&#xA;}&#xD;&#xA;&#xD;&#xA;.card h4 {&#xD;&#xA;  margin: 15px 0 5px;&#xD;&#xA;  font-size: 18px;&#xD;&#xA;  font-weight: 600;&#xD;&#xA;}&#xD;&#xA;&#xD;&#xA;.card .more-info {&#xD;&#xA;  display: none;&#xD;&#xA;  font-size: 14px;&#xD;&#xA;  padding: 15px 15px 20px;&#xD;&#xA;  color: #555;&#xD;&#xA;  text-align: left;&#xD;&#xA;}&#xD;&#xA;&#xD;&#xA;.card:hover .more-info {&#xD;&#xA;  display: block;&#xD;&#xA;}&#xD;&#xA;&lt;/style&gt;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;Conoce a nuestro equipo de trabajo&lt;/strong&gt;&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

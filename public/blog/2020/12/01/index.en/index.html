@@ -1,0 +1,991 @@
+<!DOCTYPE html>
+<html lang="en-us">
+
+  <head><script src="/hugo-universal-theme/livereload.js?mindelay=10&amp;v=2&amp;port=4321&amp;path=hugo-universal-theme/livereload" data-no-instant defer></script>
+    <meta charset="utf-8">
+<meta name="robots" content="all,follow">
+<meta name="googlebot" content="index,follow,snippet,archive">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
+<title>Hello R Markdown</title>
+<meta name="author" content="Frida Gomam" />
+
+
+
+
+<meta name="keywords" content="devcows, hugo, go, R Markdown, plot, regression">
+
+
+<meta name="description" content="Site template made by GIFINC using Hugo">
+
+<meta name="generator" content="Hugo 0.145.0">
+
+
+<link href='//fonts.googleapis.com/css?family=Roboto:400,100,100italic,300,300italic,500,700,800' rel='stylesheet' type='text/css'>
+
+
+<link rel="stylesheet" href="//use.fontawesome.com/releases/v6.7.2/css/all.css">
+<link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css" integrity="sha384-HSMxcRTRxnN+Bdg0JdbxYKrThecOKuH5zCYotlSAcp1+c8xmyTe9GYg1l9a69psu" crossorigin="anonymous">
+
+
+<link href="/hugo-universal-theme/css/animate.css" rel="stylesheet">
+
+
+
+  <link href="/hugo-universal-theme/css/style.marsala.css" rel="stylesheet" id="theme-stylesheet">
+
+
+
+<link href="/hugo-universal-theme/css/custom.css?1750616869" rel="stylesheet">
+
+
+
+  <!--[if lt IE 9]>
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv.min.js"></script>
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/respond.js/1.4.2/respond.min.js"></script>
+  <![endif]-->
+
+
+
+<link rel="shortcut icon" href="/hugo-universal-theme/img/favicon.ico" type="image/x-icon" />
+<link rel="apple-touch-icon" href="/hugo-universal-theme/img/apple-touch-icon.png" />
+
+
+<link href="/hugo-universal-theme/css/owl.carousel.css" rel="stylesheet">
+<link href="/hugo-universal-theme/css/owl.theme.css" rel="stylesheet">
+
+
+<link rel="alternate" href="http://localhost:4321/index.xml" type="application/rss+xml" title="GIFINC">
+
+
+
+
+
+
+
+
+<meta property="og:locale" content="en_us">
+<meta property="og:site_name" content="GIFINC">
+<meta property="og:title" content="Hello R Markdown">
+<meta property="og:type" content="article">
+<meta property="og:url" content="http://localhost:4321/hugo-universal-theme/blog/2020/12/01/index.en/" />
+<meta property="og:description" content="Site template made by GIFINC using Hugo">
+<meta property="og:image" content="http://localhost:4321/hugo-universal-theme/img/sharing-default.png">
+<meta property="og:image:type" content="image/png">
+
+
+
+  <meta property="og:image:width" content="800">
+  <meta property="og:image:height" content="420">
+
+
+<meta property="og:updated_time" content="2020-12-01T21:13:14-0500">
+
+  
+  
+  <meta property="article:section" content="R">
+  <meta property="article:tag" content="R Markdown">
+  <meta property="article:tag" content="plot">
+  <meta property="article:tag" content="regression">
+  
+  
+  <meta property="article:published_time" content="2020-12-01T21:13:14-0500">
+  <meta property="article:modified_time" content="2020-12-01T21:13:14-0500">
+
+
+
+<meta name="twitter:card" content="summary">
+<meta name="twitter:site" content="@GoHugoIO">
+<meta name="twitter:title" content="Hello R Markdown">
+
+<meta name="twitter:image" content="http://localhost:4321/hugo-universal-theme/img/sharing-default.png">
+
+<meta name="twitter:description" content="Site template made by GIFINC using Hugo">
+
+
+    
+  </head>
+
+  <body>
+
+    <div id="all">
+
+        
+
+
+        <header class="navbar-affixed-top" data-spy="affix" data-offset-top="62">
+    <div class="navbar navbar-default yamm " role="navigation" id="navbar">
+        <div class="container">
+            <div class="navbar-header">
+                <a class="navbar-brand home" href="/">
+                    
+                      <img src="/hugo-universal-theme/img/logo.png" alt="Hello R Markdown logo" class="hidden-xs hidden-sm" />
+                      <img src="/hugo-universal-theme/img/logo-small.png" alt="Hello R Markdown logo" class="visible-xs visible-sm" />
+                    
+                    <span class="sr-only">Hello R Markdown - ir a inicio</span>
+                </a>
+                <div class="navbar-buttons">
+                    <button type="button" class="navbar-toggle btn-template-main" data-toggle="collapse" data-target="#navigation">
+                      <span class="sr-only">Cambiar Navegación</span>
+                        <i class="fas fa-align-justify"></i>
+                    </button>
+                </div>
+            </div>
+            
+
+            <div class="navbar-collapse collapse" id="navigation">
+                <ul class="nav navbar-nav navbar-right">
+                  
+
+                  
+                  
+                  
+
+                  
+
+                  
+
+                  
+
+                  
+                  <li class="dropdown ">
+                    <a href="/hugo-universal-theme/">Inicio</a>
+                  </li>
+                  
+                  
+                  
+                  
+
+                  
+
+                  
+
+                  
+
+                  
+                    
+                    
+                    <li class="dropdown use-yamm yamm-fw ">
+                        <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Nosotros <span class="caret"></span></a>
+                        
+                        <ul class="dropdown-menu">
+                            <li>
+                            <div class="yamm-content">
+                            <div class="row">
+                                
+                                <div class="col-sm-6">
+                                    <img src="/hugo-universal-theme/img/nosotros.png" class="img-responsive hidden-xs"/>
+                                </div>
+                                
+                                <div class="col-sm-3">
+                                
+                                    
+                                    
+                                    <h5>General</h5>
+                                    
+                                    <ul>
+                                    
+                                    <li><a href="/hugo-universal-theme/nosotros/plan-estrategico/">Plan estratégico</a></li>
+                                    <li><a href="/hugo-universal-theme/nosotros/lineas-investigacion/">Líneas de investigación</a></li>
+                                    </ul>
+                                    
+                                    
+                                
+                                    
+                                    
+                                    <h5>Equipo</h5>
+                                    
+                                    <ul>
+                                    
+                                    <li><a href="/hugo-universal-theme/nosotros/investigadores/">Investigadores</a></li>
+                                    </ul>
+                                    
+                                    
+                                
+                                    
+                                    
+                                
+                                </div>
+                                <div class="col-sm-3">
+                                
+                                    
+                                    
+                                
+                                    
+                                    
+                                
+                                    
+                                    
+                                    <h5>Formación académica</code></h5>
+                                    
+                                    <ul>
+                                    
+                                    <li><a href="/hugo-universal-theme/formacion/doctorado/">Doctorados</a></li>
+                                    
+                                    <li><a href="/hugo-universal-theme/formacion/maestria/">Maestrías y Especializaciones</a></li>
+                                    
+                                    </ul>
+                                    
+                                    
+                                
+                                </div>
+                                
+                            </div>
+                            </div>
+                            </li>
+                        </ul>
+                        
+                    </li>
+                  
+                  
+                  
+                  
+
+                  
+
+                  
+
+                  
+
+                  
+                    
+                    
+                    <li class="dropdown use-yamm yamm-fw ">
+                        <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Publicaciones <span class="caret"></span></a>
+                        
+                        <ul class="dropdown-menu">
+                            <li>
+                            <div class="yamm-content">
+                            <div class="row">
+                                
+                                <div class="col-sm-6">
+                                    <img src="/hugo-universal-theme/img/revistas3.png" class="img-responsive hidden-xs"/>
+                                </div>
+                                
+                                <div class="col-sm-3">
+                                
+                                    
+                                    
+                                    <h5>Investigación</h5>
+                                    
+                                    <ul>
+                                    
+                                    <li><a href="/hugo-universal-theme/publicaciones/articulos/">Artículos</a></li>
+                                    <li><a href="/hugo-universal-theme/publicaciones/capitulos/">Capítulos de libro</a></li>
+                                    <li><a href="/hugo-universal-theme/publicaciones/congresos/">Congresos</a></li>
+                                    </ul>
+                                    
+                                    
+                                
+                                    
+                                    
+                                
+                                </div>
+                                <div class="col-sm-3">
+                                
+                                    
+                                    
+                                
+                                    
+                                    
+                                    <h5>Tesis</code></h5>
+                                    
+                                    <ul>
+                                    
+                                    <li><a href="/hugo-universal-theme/publicaciones/tesis-doctorales/">Tesis Doctorales</a></li>
+                                    
+                                    <li><a href="/hugo-universal-theme/publicaciones/tesis-maestria/">Tesis de Maestría</a></li>
+                                    
+                                    </ul>
+                                    
+                                    
+                                
+                                </div>
+                                
+                            </div>
+                            </div>
+                            </li>
+                        </ul>
+                        
+                    </li>
+                  
+                  
+                  
+                  
+
+                  
+
+                  
+
+                  
+
+                  
+                    
+                    
+                    <li class="dropdown use-yamm yamm-fw ">
+                        <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Semilleros <span class="caret"></span></a>
+                        
+                        <ul class="dropdown-menu">
+                            <li>
+                            <div class="yamm-content">
+                            <div class="row">
+                                
+                                <div class="col-sm-6">
+                                    <img src="/hugo-universal-theme/img/logoanif2.png" class="img-responsive hidden-xs"/>
+                                </div>
+                                
+                                <div class="col-sm-3">
+                                
+                                    
+                                    
+                                    <h5>Semillero de Investigación</h5>
+                                    
+                                    <ul>
+                                    
+                                    <li><a href="/hugo-universal-theme/semilleros/anif/">Semillero ANIF - Analítica e Ingeniería Financiera</a></li>
+                                    </ul>
+                                    
+                                    
+                                
+                                </div>
+                                <div class="col-sm-3">
+                                
+                                    
+                                    
+                                
+                                </div>
+                                
+                            </div>
+                            </div>
+                            </li>
+                        </ul>
+                        
+                    </li>
+                  
+                  
+                  
+                  
+
+                  
+
+                  
+
+                  
+
+                  
+                    
+                    
+                    <li class="dropdown use-yamm yamm-fw ">
+                        <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Boletín <span class="caret"></span></a>
+                        
+                        <ul class="dropdown-menu">
+                            <li>
+                            <div class="yamm-content">
+                            <div class="row">
+                                
+                                <div class="col-sm-6">
+                                    <img src="/hugo-universal-theme/img/eventos.png" class="img-responsive hidden-xs"/>
+                                </div>
+                                
+                                <div class="col-sm-3">
+                                
+                                    
+                                    
+                                    <h5>Comunicaciones recientes</h5>
+                                    
+                                    <ul>
+                                    
+                                    <li><a href="/hugo-universal-theme/blog/">2025 - (Julio - Diciembre)</a></li>
+                                    <li><a href="/hugo-universal-theme/blog/">2026 - (Enero - Junio)</a></li>
+                                    <li><a href="/hugo-universal-theme/blog/">2026 - (Julio - Diciembre)</a></li>
+                                    </ul>
+                                    
+                                    
+                                
+                                    
+                                    
+                                
+                                </div>
+                                <div class="col-sm-3">
+                                
+                                    
+                                    
+                                
+                                    
+                                    
+                                    <h5>Ver más</code></h5>
+                                    
+                                    <ul>
+                                    
+                                    <li><a href="/hugo-universal-theme/blog/">Ver todas las comunicaciones</a></li>
+                                    
+                                    </ul>
+                                    
+                                    
+                                
+                                </div>
+                                
+                            </div>
+                            </div>
+                            </li>
+                        </ul>
+                        
+                    </li>
+                  
+                  
+                  
+                  
+
+                  
+
+                  
+
+                  
+
+                  
+                  <li class="dropdown ">
+                    <a href="/hugo-universal-theme/eventos/listado/">Estadísticas</a>
+                  </li>
+                  
+                  
+                  
+                  
+
+                  
+
+                  
+
+                  
+
+                  
+                  <li class="dropdown ">
+                    <a href="/hugo-universal-theme/contact/">Contacto</a>
+                  </li>
+                  
+                  
+                </ul>
+            </div>
+            
+
+            <div class="collapse clearfix" id="search">
+                <form class="navbar-form" role="search">
+                    <div class="input-group">
+                        <input type="text" class="form-control" placeholder="Search">
+                        <span class="input-group-btn">
+                    <button type="submit" class="btn btn-template-main"><i class="fas fa-search"></i></button>
+                </span>
+                    </div>
+                </form>
+            </div>
+            
+        </div>
+    </div>
+</header>
+
+
+
+
+        <div id="heading-breadcrumbs">
+    <div class="container">
+        <div class="row">
+            <div class="col-md-12">
+                <h1>Hello R Markdown</h1>
+            </div>
+        </div>
+    </div>
+</div>
+
+
+        <div id="content">
+            <div class="container">
+
+                <div class="row">
+
+                    
+
+                    <div class="col-md-9" id="blog-post">
+
+                        
+                          <p class="text-muted text-uppercase mb-small text-right">
+                            
+                             | 
+                            
+                              
+                              
+                                  
+                              
+                                  
+                              
+                                  
+                              
+                                  
+                              
+                                  
+                              
+                                  
+                              
+                                  
+                              
+                                  
+                              
+                                  
+                              
+                                  
+                              
+                                  
+                              
+                                  
+                              
+                              Diciembre 1, 2020
+                            
+                          </p>
+                        
+
+                        <div id="post-content">
+                          <h1 id="r-markdown">R Markdown</h1>
+<p>This is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see <a href="http://rmarkdown.rstudio.com">http://rmarkdown.rstudio.com</a>.</p>
+<p>You can embed an R code chunk like this:</p>
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-r" data-lang="r"><span style="display:flex;"><span><span style="color:#a6e22e">summary</span>(cars)
+</span></span><span style="display:flex;"><span><span style="color:#75715e">##      speed           dist       </span>
+</span></span><span style="display:flex;"><span><span style="color:#75715e">##  Min.   : 4.0   Min.   :  2.00  </span>
+</span></span><span style="display:flex;"><span><span style="color:#75715e">##  1st Qu.:12.0   1st Qu.: 26.00  </span>
+</span></span><span style="display:flex;"><span><span style="color:#75715e">##  Median :15.0   Median : 36.00  </span>
+</span></span><span style="display:flex;"><span><span style="color:#75715e">##  Mean   :15.4   Mean   : 42.98  </span>
+</span></span><span style="display:flex;"><span><span style="color:#75715e">##  3rd Qu.:19.0   3rd Qu.: 56.00  </span>
+</span></span><span style="display:flex;"><span><span style="color:#75715e">##  Max.   :25.0   Max.   :120.00</span>
+</span></span><span style="display:flex;"><span>fit <span style="color:#f92672">&lt;-</span> <span style="color:#a6e22e">lm</span>(dist <span style="color:#f92672">~</span> speed, data <span style="color:#f92672">=</span> cars)
+</span></span><span style="display:flex;"><span>fit
+</span></span><span style="display:flex;"><span><span style="color:#75715e">## </span>
+</span></span><span style="display:flex;"><span><span style="color:#75715e">## Call:</span>
+</span></span><span style="display:flex;"><span><span style="color:#75715e">## lm(formula = dist ~ speed, data = cars)</span>
+</span></span><span style="display:flex;"><span><span style="color:#75715e">## </span>
+</span></span><span style="display:flex;"><span><span style="color:#75715e">## Coefficients:</span>
+</span></span><span style="display:flex;"><span><span style="color:#75715e">## (Intercept)        speed  </span>
+</span></span><span style="display:flex;"><span><span style="color:#75715e">##     -17.579        3.932</span>
+</span></span></code></pre></div><h1 id="including-plots">Including Plots</h1>
+<p>You can also embed plots. See Figure <!-- raw HTML omitted -->1<!-- raw HTML omitted --> for example:</p>
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-r" data-lang="r"><span style="display:flex;"><span><span style="color:#a6e22e">par</span>(mar <span style="color:#f92672">=</span> <span style="color:#a6e22e">c</span>(<span style="color:#ae81ff">0</span>, <span style="color:#ae81ff">1</span>, <span style="color:#ae81ff">0</span>, <span style="color:#ae81ff">1</span>))
+</span></span><span style="display:flex;"><span><span style="color:#a6e22e">pie</span>(
+</span></span><span style="display:flex;"><span>  <span style="color:#a6e22e">c</span>(<span style="color:#ae81ff">280</span>, <span style="color:#ae81ff">60</span>, <span style="color:#ae81ff">20</span>),
+</span></span><span style="display:flex;"><span>  <span style="color:#a6e22e">c</span>(<span style="color:#e6db74">&#39;Sky&#39;</span>, <span style="color:#e6db74">&#39;Sunny side of pyramid&#39;</span>, <span style="color:#e6db74">&#39;Shady side of pyramid&#39;</span>),
+</span></span><span style="display:flex;"><span>  col <span style="color:#f92672">=</span> <span style="color:#a6e22e">c</span>(<span style="color:#e6db74">&#39;#0292D8&#39;</span>, <span style="color:#e6db74">&#39;#F7EA39&#39;</span>, <span style="color:#e6db74">&#39;#C4B632&#39;</span>),
+</span></span><span style="display:flex;"><span>  init.angle <span style="color:#f92672">=</span> <span style="color:#ae81ff">-50</span>, border <span style="color:#f92672">=</span> <span style="color:#66d9ef">NA</span>
+</span></span><span style="display:flex;"><span>)
+</span></span></code></pre></div><!-- raw HTML omitted -->
+
+                        </div>
+                        
+                        
+
+                    </div>
+                    
+
+                    
+
+                    
+
+                    <div class="col-md-3">
+
+                        
+
+                        
+
+<div class="panel panel-default sidebar-menu">
+
+    <div class="panel-heading">
+      <h3 class="panel-title">Buscar</h3>
+    </div>
+
+    <div class="panel-body">
+        <form action="//google.com/search" method="get" accept-charset="UTF-8" role="search">
+            <div class="input-group">
+                <input type="search" name="q" class="form-control" placeholder="Buscar" />
+                <input type="hidden" name="sitesearch" value="http://localhost:4321/" />
+                <span class="input-group-btn">
+                    <button type="submit" class="btn btn-template-main"><i class="fas fa-search"></i></button>
+                </span>
+            </div>
+        </form>
+    </div>
+</div>
+
+
+
+
+
+
+
+<div class="panel panel-default sidebar-menu">
+
+    <div class="panel-heading">
+        <h3 class="panel-title">Categorias</h3>
+    </div>
+
+    <div class="panel-body">
+        <ul class="nav nav-pills nav-stacked">
+            
+            
+            <li >
+                <a href="/hugo-universal-theme/categories/coyuntura">COYUNTURA (1)</a>
+            </li>
+            
+            <li >
+                <a href="/hugo-universal-theme/categories/cuantitativo">CUANTITATIVO (1)</a>
+            </li>
+            
+            <li >
+                <a href="/hugo-universal-theme/categories/datos">DATOS (2)</a>
+            </li>
+            
+            <li >
+                <a href="/hugo-universal-theme/categories/econom%c3%ada">ECONOMÍA (2)</a>
+            </li>
+            
+            <li >
+                <a href="/hugo-universal-theme/categories/energ%c3%ada">ENERGÍA (3)</a>
+            </li>
+            
+            <li >
+                <a href="/hugo-universal-theme/categories/finanzas">FINANZAS (3)</a>
+            </li>
+            
+            <li >
+                <a href="/hugo-universal-theme/categories/inteligencia-artificial">INTELIGENCIA ARTIFICIAL (1)</a>
+            </li>
+            
+            <li >
+                <a href="/hugo-universal-theme/categories/internacional">INTERNACIONAL (2)</a>
+            </li>
+            
+            <li >
+                <a href="/hugo-universal-theme/categories/programaci%c3%b3n">PROGRAMACIÓN (1)</a>
+            </li>
+            
+            <li >
+                <a href="/hugo-universal-theme/categories/r">R (1)</a>
+            </li>
+            
+            <li >
+                <a href="/hugo-universal-theme/categories/riesgo">RIESGO (1)</a>
+            </li>
+            
+            <li >
+                <a href="/hugo-universal-theme/categories/sostenibilidad">SOSTENIBILIDAD (2)</a>
+            </li>
+            
+        </ul>
+    </div>
+
+</div>
+
+
+
+
+
+
+
+
+<div class="panel sidebar-menu">
+
+    <div class="panel-heading">
+        <h3 class="panel-title">Palabras clave</h3>
+    </div>
+
+    <div class="panel-body">
+        <ul class="tag-cloud">
+            
+            
+            <li >
+                <a href="/hugo-universal-theme/tags/am%c3%a9rica-latina"><i class="fas fa-tags"></i> américa latina</a>
+            </li>
+            
+            <li >
+                <a href="/hugo-universal-theme/tags/big-data"><i class="fas fa-tags"></i> big data</a>
+            </li>
+            
+            <li >
+                <a href="/hugo-universal-theme/tags/bonos-verdes"><i class="fas fa-tags"></i> bonos verdes</a>
+            </li>
+            
+            <li >
+                <a href="/hugo-universal-theme/tags/china"><i class="fas fa-tags"></i> china</a>
+            </li>
+            
+            <li >
+                <a href="/hugo-universal-theme/tags/energia"><i class="fas fa-tags"></i> energia</a>
+            </li>
+            
+            <li >
+                <a href="/hugo-universal-theme/tags/energ%c3%ada"><i class="fas fa-tags"></i> energía</a>
+            </li>
+            
+            <li >
+                <a href="/hugo-universal-theme/tags/energ%c3%adas-renovables"><i class="fas fa-tags"></i> energías renovables</a>
+            </li>
+            
+            <li >
+                <a href="/hugo-universal-theme/tags/esg"><i class="fas fa-tags"></i> esg</a>
+            </li>
+            
+            <li >
+                <a href="/hugo-universal-theme/tags/finanzas"><i class="fas fa-tags"></i> finanzas</a>
+            </li>
+            
+            <li >
+                <a href="/hugo-universal-theme/tags/finanzas-verdes"><i class="fas fa-tags"></i> finanzas verdes</a>
+            </li>
+            
+            <li >
+                <a href="/hugo-universal-theme/tags/inflaci%c3%b3n"><i class="fas fa-tags"></i> inflación</a>
+            </li>
+            
+            <li >
+                <a href="/hugo-universal-theme/tags/inversi%c3%b3n"><i class="fas fa-tags"></i> inversión</a>
+            </li>
+            
+            <li >
+                <a href="/hugo-universal-theme/tags/machine-learning"><i class="fas fa-tags"></i> machine learning</a>
+            </li>
+            
+            <li >
+                <a href="/hugo-universal-theme/tags/mercados-emergentes"><i class="fas fa-tags"></i> mercados emergentes</a>
+            </li>
+            
+            <li >
+                <a href="/hugo-universal-theme/tags/mercados-financieros"><i class="fas fa-tags"></i> mercados financieros</a>
+            </li>
+            
+            <li >
+                <a href="/hugo-universal-theme/tags/petr%c3%b3leo"><i class="fas fa-tags"></i> petróleo</a>
+            </li>
+            
+            <li >
+                <a href="/hugo-universal-theme/tags/plot"><i class="fas fa-tags"></i> plot</a>
+            </li>
+            
+            <li >
+                <a href="/hugo-universal-theme/tags/pol%c3%adtica-energ%c3%a9tica"><i class="fas fa-tags"></i> política energética</a>
+            </li>
+            
+            <li >
+                <a href="/hugo-universal-theme/tags/precios-de-la-energ%c3%ada"><i class="fas fa-tags"></i> precios de la energía</a>
+            </li>
+            
+            <li >
+                <a href="/hugo-universal-theme/tags/predicci%c3%b3n"><i class="fas fa-tags"></i> predicción</a>
+            </li>
+            
+            <li >
+                <a href="/hugo-universal-theme/tags/r-markdown"><i class="fas fa-tags"></i> r markdown</a>
+            </li>
+            
+            <li >
+                <a href="/hugo-universal-theme/tags/regression"><i class="fas fa-tags"></i> regression</a>
+            </li>
+            
+            <li >
+                <a href="/hugo-universal-theme/tags/shocks-externos"><i class="fas fa-tags"></i> shocks externos</a>
+            </li>
+            
+            <li >
+                <a href="/hugo-universal-theme/tags/transici%c3%b3n-energ%c3%a9tica"><i class="fas fa-tags"></i> transición energética</a>
+            </li>
+            
+            <li >
+                <a href="/hugo-universal-theme/tags/value-at-risk"><i class="fas fa-tags"></i> value at risk</a>
+            </li>
+            
+            <li >
+                <a href="/hugo-universal-theme/tags/volatilidad"><i class="fas fa-tags"></i> volatilidad</a>
+            </li>
+            
+        </ul>
+    </div>
+
+</div>
+
+
+
+
+
+
+                        
+
+                    </div>
+                    
+
+                    
+
+                </div>
+                
+
+            </div>
+            
+        </div>
+        
+
+        <footer id="footer">
+    <div class="container">
+
+        
+        <div class="col-md-4 col-sm-6">
+            <h4>Sobre nosotros</h4>
+
+            <p>Somos una comunidad académica de la <strong>Universidad del Valle</strong> dedicada a la generación y aplicación de conocimiento en finanzas, economía energética, analítica y riesgo. <br><br>  Email. <br> investigacion.gifinc@correounivalle.edu.co</p>
+
+            <hr class="hidden-md hidden-lg hidden-sm">
+
+<section>
+  
+  <h4>Síguenos en redes</h4>
+  <a href="https://www.linkedin.com/company/escuela-de-ingenier%C3%ADa-industrial-universidad-del-valle" target="_blank" style="margin-right: 20px;">
+    <i class="fab fa-linkedin fa-2x"></i>
+  </a>
+  <a href="https://www.instagram.com/industrial.univalle/" target="_blank">
+    <i class="fab fa-instagram fa-2x"></i>
+  </a>
+</section>
+
+        </div>
+        
+        
+
+        <div class="col-md-4 col-sm-6">
+
+            
+            <h4>Posts recientes</h4>
+
+            <div class="blog-entries">
+                
+                <div class="item same-height-row clearfix">
+                    <div class="image same-height-always">
+                        <a href="http://localhost:4321/hugo-universal-theme/blog/2025/06/20/boletin_1/">
+                          
+                            <img src="/hugo-universal-theme/img/banners/boletin_1.png" class="img-responsive" alt="China en el Mapa Energético Global. Dinámicas de Inversión 2005–2024" />
+                          
+                        </a>
+                    </div>
+                    <div class="name same-height-always">
+                        <h5><a href="http://localhost:4321/hugo-universal-theme/blog/2025/06/20/boletin_1/">China en el Mapa Energético Global. Dinámicas de Inversión 2005–2024</a></h5>
+                    </div>
+                </div>
+                
+                <div class="item same-height-row clearfix">
+                    <div class="image same-height-always">
+                        <a href="http://localhost:4321/hugo-universal-theme/blog/2025/05/18/boletin_2/">
+                          
+                            <img src="/hugo-universal-theme/img/banners/boletin_2.png" class="img-responsive" alt="América Latina y la Transición Energética. Avances y Desafíos en el Siglo XXI" />
+                          
+                        </a>
+                    </div>
+                    <div class="name same-height-always">
+                        <h5><a href="http://localhost:4321/hugo-universal-theme/blog/2025/05/18/boletin_2/">América Latina y la Transición Energética. Avances y Desafíos en el Siglo XXI</a></h5>
+                    </div>
+                </div>
+                
+                <div class="item same-height-row clearfix">
+                    <div class="image same-height-always">
+                        <a href="http://localhost:4321/hugo-universal-theme/blog/2025/04/05/boletin_3/">
+                          
+                            <img src="/hugo-universal-theme/img/banners/boletin_3.png" class="img-responsive" alt="Finanzas Verdes en Mercados Emergentes ¿Moda o Transformación Estructural?" />
+                          
+                        </a>
+                    </div>
+                    <div class="name same-height-always">
+                        <h5><a href="http://localhost:4321/hugo-universal-theme/blog/2025/04/05/boletin_3/">Finanzas Verdes en Mercados Emergentes ¿Moda o Transformación Estructural?</a></h5>
+                    </div>
+                </div>
+                
+            </div>
+
+            <hr class="hidden-md hidden-lg">
+            
+
+        </div>
+        
+
+        
+        <div class="col-md-4 col-sm-6">
+
+          <h4>Contacto</h4>
+
+            <p class="text-uppercase"><strong>Universidad del Valle.</strong>
+        <br>Cl. 13 No. 100-00
+        <br>Escuela de Ingeniería Industrial
+        <br>Edf. E23 - 2 Piso
+        <br>Cali 
+        <br>
+ COLOMBIA 
+      </p>
+  
+
+	 
+
+            <hr class="hidden-md hidden-lg hidden-sm">
+
+        </div>
+        
+        
+
+
+
+    </div>
+    
+
+
+
+
+
+</footer>
+
+
+
+
+
+
+
+<div id="copyright">
+    <div class="container">
+        <div class="col-md-12">
+            
+            <p class="pull-left">Copyright (c) 2025, GIFINC; all rights reserved.</p>
+            
+            <p class="pull-right">
+              Plantilla creada por <a href="https://bootstrapious.com/universal-business-e-commerce-template">Bootstrapious</a>.
+              
+
+              Adaptada a Hugo por <a href="https://github.com/devcows/hugo-universal-theme">DevCows</a>.
+            </p>
+        </div>
+    </div>
+</div>
+
+
+
+
+
+    </div>
+    
+
+    
+<script src="//code.jquery.com/jquery-3.1.1.min.js" integrity="sha256-hVVnYaiADRTO2PzUGmuLJr8BLUSjGIZsDYGmIJLv2b8=" crossorigin="anonymous"></script>
+<script src="//maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js" integrity="sha384-aJ21OjlMXNL5UyIl/XNwTMqvzeRMZH2w8c5cRVpzpU8Y5bApTppSuUkhZXN0VxHd" crossorigin="anonymous"></script>
+
+<script src="//cdnjs.cloudflare.com/ajax/libs/jquery-cookie/1.4.1/jquery.cookie.min.js"></script>
+<script src="//cdnjs.cloudflare.com/ajax/libs/waypoints/4.0.1/jquery.waypoints.min.js"></script>
+<script src="//cdnjs.cloudflare.com/ajax/libs/Counter-Up/1.0/jquery.counterup.min.js"></script>
+<script src="//cdnjs.cloudflare.com/ajax/libs/jquery-parallax/1.1.3/jquery-parallax.js"></script>
+
+<script src="//maps.googleapis.com/maps/api/js?key=AIzaSyAv7Sza8NSp9_l_g8G2vlo0H4ydEPn_2jY&v=3.exp"></script>
+<script src="/hugo-universal-theme/js/hpneo.gmaps.js"></script>
+<script src="/hugo-universal-theme/js/gmaps.init.js"></script>
+
+
+<script src="/hugo-universal-theme/js/front.js"></script>
+
+
+<script src="/hugo-universal-theme/js/owl.carousel.min.js"></script>
+
+
+  </body>
+</html>

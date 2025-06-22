@@ -1,0 +1,10 @@
+weight: 3
+title: "Publicaciones e impacto"
+description: >
+  <ul class="list-style-none">
+    <li>Nuestras investigaciones impactan la academia, el sector energético</li>
+    <li>y financiero.</li>
+    <li>Conoce nuestras publicaciones.</li>
+  </ul>
+image: "img/carousel/publicaciones.png"
+href: "https://devcows.github.io/hugo-universal-theme/"

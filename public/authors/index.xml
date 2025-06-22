@@ -2,101 +2,101 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Authors on GIFINC</title>
-    <link>/authors/</link>
+    <link>//localhost:4321/authors/</link>
     <description>Recent content in Authors on GIFINC</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 20 Jun 2025 21:29:20 +0200</lastBuildDate>
-    <atom:link href="/authors/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="//localhost:4321/authors/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Orlando Joaqui Barandica</title>
-      <link>/authors/orlando-joaqui-barandica/</link>
+      <link>//localhost:4321/authors/orlando-joaqui-barandica/</link>
       <pubDate>Fri, 20 Jun 2025 21:29:20 +0200</pubDate>
-      <guid>/authors/orlando-joaqui-barandica/</guid>
+      <guid>//localhost:4321/authors/orlando-joaqui-barandica/</guid>
       <description></description>
     </item>
     <item>
       <title>Ricardo Lopes Klotz</title>
-      <link>/authors/ricardo-lopes-klotz/</link>
+      <link>//localhost:4321/authors/ricardo-lopes-klotz/</link>
       <pubDate>Fri, 20 Jun 2025 21:29:20 +0200</pubDate>
-      <guid>/authors/ricardo-lopes-klotz/</guid>
+      <guid>//localhost:4321/authors/ricardo-lopes-klotz/</guid>
       <description></description>
     </item>
     <item>
       <title>Sebastián Lopez Estrada</title>
-      <link>/authors/sebasti%C3%A1n-lopez-estrada/</link>
+      <link>//localhost:4321/authors/sebasti%C3%A1n-lopez-estrada/</link>
       <pubDate>Fri, 20 Jun 2025 21:29:20 +0200</pubDate>
-      <guid>/authors/sebasti%C3%A1n-lopez-estrada/</guid>
+      <guid>//localhost:4321/authors/sebasti%C3%A1n-lopez-estrada/</guid>
       <description></description>
     </item>
     <item>
       <title>Camilo Lopez</title>
-      <link>/authors/camilo-lopez/</link>
+      <link>//localhost:4321/authors/camilo-lopez/</link>
       <pubDate>Sun, 18 May 2025 17:10:00 +0200</pubDate>
-      <guid>/authors/camilo-lopez/</guid>
+      <guid>//localhost:4321/authors/camilo-lopez/</guid>
       <description></description>
     </item>
     <item>
       <title>Mateo Ríos Vergara</title>
-      <link>/authors/mateo-r%C3%ADos-vergara/</link>
+      <link>//localhost:4321/authors/mateo-r%C3%ADos-vergara/</link>
       <pubDate>Sun, 18 May 2025 17:10:00 +0200</pubDate>
-      <guid>/authors/mateo-r%C3%ADos-vergara/</guid>
+      <guid>//localhost:4321/authors/mateo-r%C3%ADos-vergara/</guid>
       <description></description>
     </item>
     <item>
       <title>Valentina Cárdenas López</title>
-      <link>/authors/valentina-c%C3%A1rdenas-l%C3%B3pez/</link>
+      <link>//localhost:4321/authors/valentina-c%C3%A1rdenas-l%C3%B3pez/</link>
       <pubDate>Sun, 18 May 2025 17:10:00 +0200</pubDate>
-      <guid>/authors/valentina-c%C3%A1rdenas-l%C3%B3pez/</guid>
+      <guid>//localhost:4321/authors/valentina-c%C3%A1rdenas-l%C3%B3pez/</guid>
       <description></description>
     </item>
     <item>
       <title>Laura Montenegro Cruz</title>
-      <link>/authors/laura-montenegro-cruz/</link>
+      <link>//localhost:4321/authors/laura-montenegro-cruz/</link>
       <pubDate>Sat, 05 Apr 2025 15:00:00 +0200</pubDate>
-      <guid>/authors/laura-montenegro-cruz/</guid>
+      <guid>//localhost:4321/authors/laura-montenegro-cruz/</guid>
       <description></description>
     </item>
     <item>
       <title>Sebastián López Estrada</title>
-      <link>/authors/sebasti%C3%A1n-l%C3%B3pez-estrada/</link>
+      <link>//localhost:4321/authors/sebasti%C3%A1n-l%C3%B3pez-estrada/</link>
       <pubDate>Sat, 05 Apr 2025 15:00:00 +0200</pubDate>
-      <guid>/authors/sebasti%C3%A1n-l%C3%B3pez-estrada/</guid>
+      <guid>//localhost:4321/authors/sebasti%C3%A1n-l%C3%B3pez-estrada/</guid>
       <description></description>
     </item>
     <item>
       <title>Daniela Becerra Soto</title>
-      <link>/authors/daniela-becerra-soto/</link>
+      <link>//localhost:4321/authors/daniela-becerra-soto/</link>
       <pubDate>Wed, 12 Mar 2025 09:40:00 +0200</pubDate>
-      <guid>/authors/daniela-becerra-soto/</guid>
+      <guid>//localhost:4321/authors/daniela-becerra-soto/</guid>
       <description></description>
     </item>
     <item>
       <title>Nicolás Herrera Tamayo</title>
-      <link>/authors/nicol%C3%A1s-herrera-tamayo/</link>
+      <link>//localhost:4321/authors/nicol%C3%A1s-herrera-tamayo/</link>
       <pubDate>Wed, 12 Mar 2025 09:40:00 +0200</pubDate>
-      <guid>/authors/nicol%C3%A1s-herrera-tamayo/</guid>
+      <guid>//localhost:4321/authors/nicol%C3%A1s-herrera-tamayo/</guid>
       <description></description>
     </item>
     <item>
       <title>Diego Manotas Duque</title>
-      <link>/authors/diego-manotas-duque/</link>
+      <link>//localhost:4321/authors/diego-manotas-duque/</link>
       <pubDate>Thu, 20 Feb 2025 13:20:00 +0200</pubDate>
-      <guid>/authors/diego-manotas-duque/</guid>
+      <guid>//localhost:4321/authors/diego-manotas-duque/</guid>
       <description></description>
     </item>
     <item>
       <title>Mariana Giraldo Páez</title>
-      <link>/authors/mariana-giraldo-p%C3%A1ez/</link>
+      <link>//localhost:4321/authors/mariana-giraldo-p%C3%A1ez/</link>
       <pubDate>Thu, 20 Feb 2025 13:20:00 +0200</pubDate>
-      <guid>/authors/mariana-giraldo-p%C3%A1ez/</guid>
+      <guid>//localhost:4321/authors/mariana-giraldo-p%C3%A1ez/</guid>
       <description></description>
     </item>
     <item>
       <title>Camila Pérez Álvarez</title>
-      <link>/authors/camila-p%C3%A9rez-%C3%A1lvarez/</link>
+      <link>//localhost:4321/authors/camila-p%C3%A9rez-%C3%A1lvarez/</link>
       <pubDate>Tue, 28 Jan 2025 11:00:00 +0200</pubDate>
-      <guid>/authors/camila-p%C3%A9rez-%C3%A1lvarez/</guid>
+      <guid>//localhost:4321/authors/camila-p%C3%A9rez-%C3%A1lvarez/</guid>
       <description></description>
     </item>
   </channel>

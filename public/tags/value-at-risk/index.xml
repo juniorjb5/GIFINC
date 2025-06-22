@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Value at Risk on GIFINC</title>
-    <link>/tags/value-at-risk/</link>
+    <link>//localhost:4321/tags/value-at-risk/</link>
     <description>Recent content in Value at Risk on GIFINC</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 28 Jan 2025 11:00:00 +0200</lastBuildDate>
-    <atom:link href="/tags/value-at-risk/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="//localhost:4321/tags/value-at-risk/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Riesgo y Volatilidad en los Mercados Energéticos: Un Análisis con Value at Risk</title>
-      <link>/blog/2025/01/28/boletin_6/</link>
+      <link>//localhost:4321/blog/2025/01/28/boletin_6/</link>
       <pubDate>Tue, 28 Jan 2025 11:00:00 +0200</pubDate>
-      <guid>/blog/2025/01/28/boletin_6/</guid>
+      <guid>//localhost:4321/blog/2025/01/28/boletin_6/</guid>
       <description>&lt;div style=&#34;text-align: center;&#34;&gt;&#xD;&#xA;&#xD;&#xA;Este boletín explora el riesgo financiero en mercados energéticos mediante la estimación del Value at Risk (VaR) en portafolios con activos energéticos. Se incluyen escenarios de estrés climático y disrupciones de oferta que afectan los precios y la estabilidad del mercado.&#xD;&#xA;&#xD;&#xA;&lt;/div&gt;&#xD;&#xA;&#xD;&#xA;&lt;hr&gt;</description>
     </item>
   </channel>

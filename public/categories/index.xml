@@ -2,87 +2,87 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on GIFINC</title>
-    <link>/categories/</link>
+    <link>//localhost:4321/categories/</link>
     <description>Recent content in Categories on GIFINC</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 20 Jun 2025 21:29:20 +0200</lastBuildDate>
-    <atom:link href="/categories/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="//localhost:4321/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Economía</title>
-      <link>/categories/econom%C3%ADa/</link>
+      <link>//localhost:4321/categories/econom%C3%ADa/</link>
       <pubDate>Fri, 20 Jun 2025 21:29:20 +0200</pubDate>
-      <guid>/categories/econom%C3%ADa/</guid>
+      <guid>//localhost:4321/categories/econom%C3%ADa/</guid>
       <description></description>
     </item>
     <item>
       <title>Energía</title>
-      <link>/categories/energ%C3%ADa/</link>
+      <link>//localhost:4321/categories/energ%C3%ADa/</link>
       <pubDate>Fri, 20 Jun 2025 21:29:20 +0200</pubDate>
-      <guid>/categories/energ%C3%ADa/</guid>
+      <guid>//localhost:4321/categories/energ%C3%ADa/</guid>
       <description></description>
     </item>
     <item>
       <title>Finanzas</title>
-      <link>/categories/finanzas/</link>
+      <link>//localhost:4321/categories/finanzas/</link>
       <pubDate>Fri, 20 Jun 2025 21:29:20 +0200</pubDate>
-      <guid>/categories/finanzas/</guid>
+      <guid>//localhost:4321/categories/finanzas/</guid>
       <description></description>
     </item>
     <item>
       <title>Internacional</title>
-      <link>/categories/internacional/</link>
+      <link>//localhost:4321/categories/internacional/</link>
       <pubDate>Fri, 20 Jun 2025 21:29:20 +0200</pubDate>
-      <guid>/categories/internacional/</guid>
+      <guid>//localhost:4321/categories/internacional/</guid>
       <description></description>
     </item>
     <item>
       <title>Sostenibilidad</title>
-      <link>/categories/sostenibilidad/</link>
+      <link>//localhost:4321/categories/sostenibilidad/</link>
       <pubDate>Sun, 18 May 2025 17:10:00 +0200</pubDate>
-      <guid>/categories/sostenibilidad/</guid>
+      <guid>//localhost:4321/categories/sostenibilidad/</guid>
       <description></description>
     </item>
     <item>
       <title>Datos</title>
-      <link>/categories/datos/</link>
+      <link>//localhost:4321/categories/datos/</link>
       <pubDate>Sat, 05 Apr 2025 15:00:00 +0200</pubDate>
-      <guid>/categories/datos/</guid>
+      <guid>//localhost:4321/categories/datos/</guid>
       <description></description>
     </item>
     <item>
       <title>Coyuntura</title>
-      <link>/categories/coyuntura/</link>
+      <link>//localhost:4321/categories/coyuntura/</link>
       <pubDate>Wed, 12 Mar 2025 09:40:00 +0200</pubDate>
-      <guid>/categories/coyuntura/</guid>
+      <guid>//localhost:4321/categories/coyuntura/</guid>
       <description></description>
     </item>
     <item>
       <title>Inteligencia Artificial</title>
-      <link>/categories/inteligencia-artificial/</link>
+      <link>//localhost:4321/categories/inteligencia-artificial/</link>
       <pubDate>Thu, 20 Feb 2025 13:20:00 +0200</pubDate>
-      <guid>/categories/inteligencia-artificial/</guid>
+      <guid>//localhost:4321/categories/inteligencia-artificial/</guid>
       <description></description>
     </item>
     <item>
       <title>Programación</title>
-      <link>/categories/programaci%C3%B3n/</link>
+      <link>//localhost:4321/categories/programaci%C3%B3n/</link>
       <pubDate>Thu, 20 Feb 2025 13:20:00 +0200</pubDate>
-      <guid>/categories/programaci%C3%B3n/</guid>
+      <guid>//localhost:4321/categories/programaci%C3%B3n/</guid>
       <description></description>
     </item>
     <item>
       <title>Cuantitativo</title>
-      <link>/categories/cuantitativo/</link>
+      <link>//localhost:4321/categories/cuantitativo/</link>
       <pubDate>Tue, 28 Jan 2025 11:00:00 +0200</pubDate>
-      <guid>/categories/cuantitativo/</guid>
+      <guid>//localhost:4321/categories/cuantitativo/</guid>
       <description></description>
     </item>
     <item>
       <title>Riesgo</title>
-      <link>/categories/riesgo/</link>
+      <link>//localhost:4321/categories/riesgo/</link>
       <pubDate>Tue, 28 Jan 2025 11:00:00 +0200</pubDate>
-      <guid>/categories/riesgo/</guid>
+      <guid>//localhost:4321/categories/riesgo/</guid>
       <description></description>
     </item>
   </channel>

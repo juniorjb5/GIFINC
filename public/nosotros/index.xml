@@ -2,31 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Nosotros on GIFINC</title>
-    <link>/nosotros/</link>
+    <link>//localhost:4321/nosotros/</link>
     <description>Recent content in Nosotros on GIFINC</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 17 Jun 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="/nosotros/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="//localhost:4321/nosotros/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Líneas de investigación</title>
-      <link>/nosotros/lineas-investigacion/</link>
+      <link>//localhost:4321/nosotros/lineas-investigacion/</link>
       <pubDate>Tue, 17 Jun 2025 00:00:00 +0000</pubDate>
-      <guid>/nosotros/lineas-investigacion/</guid>
+      <guid>//localhost:4321/nosotros/lineas-investigacion/</guid>
       <description>&lt;style&gt;&#xD;&#xA;.lineas-container {&#xD;&#xA;  display: grid;&#xD;&#xA;  grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));&#xD;&#xA;  gap: 40px;&#xD;&#xA;  padding: 40px 20px;&#xD;&#xA;}&#xD;&#xA;.linea-investigacion {&#xD;&#xA;  background: #fff;&#xD;&#xA;  border-radius: 10px;&#xD;&#xA;  padding: 30px 20px;&#xD;&#xA;  text-align: center;&#xD;&#xA;  box-shadow: 0 2px 8px rgba(0,0,0,0.1);&#xD;&#xA;  transition: transform 0.3s ease;&#xD;&#xA;  position: relative;&#xD;&#xA;}&#xD;&#xA;.linea-investigacion:hover {&#xD;&#xA;  transform: translateY(-5px);&#xD;&#xA;}&#xD;&#xA;.linea-investigacion i {&#xD;&#xA;  font-size: 48px;&#xD;&#xA;  margin-bottom: 15px;&#xD;&#xA;  display: inline-block;&#xD;&#xA;}&#xD;&#xA;.linea-investigacion:nth-child(1) i { color: #8e5b4a; } /* marrón para analítica */&#xD;&#xA;.linea-investigacion:nth-child(2) i { color: #d4a017; } /* amarillo para energía */&#xD;&#xA;.linea-investigacion:nth-child(3) i { color: #b64527; } /* rojo oscuro corporativo */&#xD;&#xA;.linea-investigacion:nth-child(4) i { color: #4a7f45; } /* verde logística */&#xD;&#xA;.linea-investigacion:nth-child(5) i { color: #336699; } /* azul macro */&#xD;&#xA;.linea-investigacion:nth-child(6) i { color: #a0522d; } /* marrón activo */&#xD;&#xA;&#xD;&#xA;.linea-investigacion h3 {&#xD;&#xA;  margin: 10px 0;&#xD;&#xA;}&#xD;&#xA;.linea-investigacion .temas {&#xD;&#xA;  opacity: 0;&#xD;&#xA;  max-height: 0;&#xD;&#xA;  overflow: hidden;&#xD;&#xA;  transition: all 0.4s ease;&#xD;&#xA;  list-style: none;&#xD;&#xA;  padding: 0;&#xD;&#xA;  margin: 15px 0 0;&#xD;&#xA;  text-align: left;&#xD;&#xA;}&#xD;&#xA;.linea-investigacion:hover .temas {&#xD;&#xA;  opacity: 1;&#xD;&#xA;  max-height: 200px;&#xD;&#xA;}&#xD;&#xA;.linea-investigacion .temas li {&#xD;&#xA;  margin: 8px 0;&#xD;&#xA;}&#xD;&#xA;&lt;/style&gt;&#xD;&#xA;&#xD;&#xA;&lt;div class=&#34;lineas-container&#34;&gt;&#xD;&#xA;  &lt;div class=&#34;linea-investigacion&#34;&gt;&#xD;&#xA;    &lt;i class=&#34;fas fa-chart-line&#34;&gt;&lt;/i&gt;&#xD;&#xA;    &lt;h3&gt;Analítica Financiera&lt;/h3&gt;&#xD;&#xA;    &lt;p&gt;Exploramos el uso de técnicas estadísticas, econométricas y de machine learning para el análisis, modelamiento y predicción de variables financieras en contextos dinámicos y de alta incertidumbre. &#xD;&#xA;    &lt;br&gt;&lt;br&gt;&#xD;&#xA;    Esta línea de investigación se enfoca en el desarrollo y aplicación de modelos cuantitativos que permiten comprender mejor el comportamiento de los mercados financieros, gestionar riesgos y apoyar la toma de decisiones basada en datos.&#xD;&#xA;&lt;br&gt;&lt;br&gt;&#xD;&#xA;A través del uso de datos tradicionales y alternativos (como indicadores macroeconómicos, datos de mercado en tiempo real, o fuentes no estructuradas), buscamos capturar relaciones complejas, patrones ocultos y comportamientos no lineales en variables clave del entorno financiero.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Plan Estratégico</title>
-      <link>/nosotros/plan-estrategico/</link>
+      <link>//localhost:4321/nosotros/plan-estrategico/</link>
       <pubDate>Tue, 17 Jun 2025 00:00:00 +0000</pubDate>
-      <guid>/nosotros/plan-estrategico/</guid>
+      <guid>//localhost:4321/nosotros/plan-estrategico/</guid>
       <description>&lt;h2 id=&#34;quiénes-somos&#34;&gt;¿Quiénes somos?&lt;/h2&gt;&#xA;&lt;p&gt;El Grupo de Investigación en Finanzas Cuantitativas – GIFINC – es un grupo interdisciplinario de la Universidad del Valle, respaldado por docentes de los programas de Economía, Ingeniería Industrial y Administración de Empresas. Estudiamos fenómenos complejos en economía y finanzas, con énfasis en riesgos financieros y mercados de energía.&lt;/p&gt;&#xA;&lt;p&gt;Nuestra labor integra teoría, métodos cuantitativos y análisis empírico con el propósito de comprender y proponer soluciones a problemas actuales en los mercados financieros, tanto locales como globales.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Integrantes</title>
-      <link>/nosotros/investigadores/</link>
+      <link>//localhost:4321/nosotros/investigadores/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/nosotros/investigadores/</guid>
+      <guid>//localhost:4321/nosotros/investigadores/</guid>
       <description>&lt;style&gt;&#xD;&#xA;.card-container {&#xD;&#xA;  display: flex;&#xD;&#xA;  flex-wrap: wrap;&#xD;&#xA;  justify-content: center;&#xD;&#xA;  gap: 30px;&#xD;&#xA;}&#xD;&#xA;&#xD;&#xA;.card {&#xD;&#xA;  width: 330px;&#xD;&#xA;  background: #fff;&#xD;&#xA;  border-radius: 12px;&#xD;&#xA;  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);&#xD;&#xA;  overflow: hidden;&#xD;&#xA;  transition: transform 0.3s ease;&#xD;&#xA;  text-align: center;&#xD;&#xA;}&#xD;&#xA;&#xD;&#xA;.card:hover {&#xD;&#xA;  transform: translateY(-5px);&#xD;&#xA;}&#xD;&#xA;&#xD;&#xA;.card img {&#xD;&#xA;  width: 120px;&#xD;&#xA;  height: 120px;&#xD;&#xA;  border-radius: 50%;&#xD;&#xA;  margin-top: 20px;&#xD;&#xA;  object-fit: cover;&#xD;&#xA;}&#xD;&#xA;&#xD;&#xA;.card h4 {&#xD;&#xA;  margin: 15px 0 5px;&#xD;&#xA;  font-size: 18px;&#xD;&#xA;  font-weight: 600;&#xD;&#xA;}&#xD;&#xA;&#xD;&#xA;.card .more-info {&#xD;&#xA;  display: none;&#xD;&#xA;  font-size: 14px;&#xD;&#xA;  padding: 15px 15px 20px;&#xD;&#xA;  color: #555;&#xD;&#xA;  text-align: left;&#xD;&#xA;}&#xD;&#xA;&#xD;&#xA;.card:hover .more-info {&#xD;&#xA;  display: block;&#xD;&#xA;}&#xD;&#xA;&lt;/style&gt;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;Conoce a nuestro equipo de trabajo&lt;/strong&gt;&lt;/p&gt;</description>
     </item>
   </channel>

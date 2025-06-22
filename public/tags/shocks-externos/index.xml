@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Shocks Externos on GIFINC</title>
-    <link>/tags/shocks-externos/</link>
+    <link>//localhost:4321/tags/shocks-externos/</link>
     <description>Recent content in Shocks Externos on GIFINC</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 12 Mar 2025 09:40:00 +0200</lastBuildDate>
-    <atom:link href="/tags/shocks-externos/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="//localhost:4321/tags/shocks-externos/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Impacto de los Choques Macroeconómicos en los Precios de Energía Perspectivas Globales 2000–2023</title>
-      <link>/blog/2025/03/12/boletin_4/</link>
+      <link>//localhost:4321/blog/2025/03/12/boletin_4/</link>
       <pubDate>Wed, 12 Mar 2025 09:40:00 +0200</pubDate>
-      <guid>/blog/2025/03/12/boletin_4/</guid>
+      <guid>//localhost:4321/blog/2025/03/12/boletin_4/</guid>
       <description>&lt;div style=&#34;text-align: center;&#34;&gt;&#xD;&#xA;&#xD;&#xA;Explora cómo los choques macroeconómicos —como crisis financieras, pandemias y conflictos geopolíticos— han afectado la dinámica de precios de petróleo, gas y electricidad en mercados clave. El análisis incorpora modelos econométricos robustos para entender su comportamiento no lineal.&#xD;&#xA;&#xD;&#xA;&lt;/div&gt;&#xD;&#xA;&#xD;&#xA;&lt;hr&gt;</description>
     </item>
   </channel>

@@ -218,7 +218,7 @@ params:
     enable: yes
     icon: far fa-file-alt
     link_text: Ver publicaciones científicas
-    link_url: /hugo-universal-theme//publicaciones/articulos/
+    link_url: /publicaciones/articulos/
     subtitle: Descubre las publicaciones científicas del grupo GIFINC en revistas especializadas, libros y capítulos. Nuestra producción académica refleja el compromiso con la excelencia, la rigurosidad metodológica y el impacto regional y global. 
     title: Producción científica GIFINC
   style: marsala

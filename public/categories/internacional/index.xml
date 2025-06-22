@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Internacional on GIFINC</title>
-    <link>/categories/internacional/</link>
+    <link>//localhost:4321/categories/internacional/</link>
     <description>Recent content in Internacional on GIFINC</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 20 Jun 2025 21:29:20 +0200</lastBuildDate>
-    <atom:link href="/categories/internacional/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="//localhost:4321/categories/internacional/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>China en el Mapa Energético Global. Dinámicas de Inversión 2005–2024</title>
-      <link>/blog/2025/06/20/boletin_1/</link>
+      <link>//localhost:4321/blog/2025/06/20/boletin_1/</link>
       <pubDate>Fri, 20 Jun 2025 21:29:20 +0200</pubDate>
-      <guid>/blog/2025/06/20/boletin_1/</guid>
+      <guid>//localhost:4321/blog/2025/06/20/boletin_1/</guid>
       <description>&lt;div style=&#34;text-align: center;&#34;&gt;&#xD;&#xA;&#xD;&#xA;A lo largo de las dos últimas décadas, China ha consolidado su papel como uno de los principales actores en el escenario energético global, no solo por su creciente demanda interna, sino también por su notable expansión internacional en términos de inversión y construcción de infraestructura. Este boletín ofrece un análisis detallado y visual de las inversiones chinas en el sector energético a nivel mundial entre 2005 y 2024, destacando las dinámicas, patrones y cambios estratégicos que han marcado su evolución en distintas regiones del planeta.&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&lt;/div&gt;&#xD;&#xA;&#xD;&#xA;&lt;hr&gt;</description>
     </item>
     <item>
       <title>América Latina y la Transición Energética. Avances y Desafíos en el Siglo XXI</title>
-      <link>/blog/2025/05/18/boletin_2/</link>
+      <link>//localhost:4321/blog/2025/05/18/boletin_2/</link>
       <pubDate>Sun, 18 May 2025 17:10:00 +0200</pubDate>
-      <guid>/blog/2025/05/18/boletin_2/</guid>
+      <guid>//localhost:4321/blog/2025/05/18/boletin_2/</guid>
       <description>&lt;div style=&#34;text-align: center;&#34;&gt;&#xD;&#xA;&#xD;&#xA;Este boletín analiza los avances de América Latina en la adopción de energías renovables y estrategias de descarbonización entre 2000 y 2024. Se identifican los líderes regionales, los marcos normativos emergentes y los desafíos estructurales en el camino hacia una transición energética justa y sostenible.&#xD;&#xA;&#xD;&#xA;&lt;/div&gt;&#xD;&#xA;&#xD;&#xA;&lt;hr&gt;</description>
     </item>
   </channel>

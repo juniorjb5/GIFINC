@@ -2,171 +2,171 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on GIFINC</title>
-    <link>/tags/</link>
+    <link>//localhost:4321/tags/</link>
     <description>Recent content in Tags on GIFINC</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 20 Jun 2025 21:29:20 +0200</lastBuildDate>
-    <atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="//localhost:4321/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>China</title>
-      <link>/tags/china/</link>
+      <link>//localhost:4321/tags/china/</link>
       <pubDate>Fri, 20 Jun 2025 21:29:20 +0200</pubDate>
-      <guid>/tags/china/</guid>
+      <guid>//localhost:4321/tags/china/</guid>
       <description></description>
     </item>
     <item>
       <title>Energia</title>
-      <link>/tags/energia/</link>
+      <link>//localhost:4321/tags/energia/</link>
       <pubDate>Fri, 20 Jun 2025 21:29:20 +0200</pubDate>
-      <guid>/tags/energia/</guid>
+      <guid>//localhost:4321/tags/energia/</guid>
       <description></description>
     </item>
     <item>
       <title>Finanzas</title>
-      <link>/tags/finanzas/</link>
+      <link>//localhost:4321/tags/finanzas/</link>
       <pubDate>Fri, 20 Jun 2025 21:29:20 +0200</pubDate>
-      <guid>/tags/finanzas/</guid>
+      <guid>//localhost:4321/tags/finanzas/</guid>
       <description></description>
     </item>
     <item>
       <title>Inversión</title>
-      <link>/tags/inversi%C3%B3n/</link>
+      <link>//localhost:4321/tags/inversi%C3%B3n/</link>
       <pubDate>Fri, 20 Jun 2025 21:29:20 +0200</pubDate>
-      <guid>/tags/inversi%C3%B3n/</guid>
+      <guid>//localhost:4321/tags/inversi%C3%B3n/</guid>
       <description></description>
     </item>
     <item>
       <title>América Latina</title>
-      <link>/tags/am%C3%A9rica-latina/</link>
+      <link>//localhost:4321/tags/am%C3%A9rica-latina/</link>
       <pubDate>Sun, 18 May 2025 17:10:00 +0200</pubDate>
-      <guid>/tags/am%C3%A9rica-latina/</guid>
+      <guid>//localhost:4321/tags/am%C3%A9rica-latina/</guid>
       <description></description>
     </item>
     <item>
       <title>Energías Renovables</title>
-      <link>/tags/energ%C3%ADas-renovables/</link>
+      <link>//localhost:4321/tags/energ%C3%ADas-renovables/</link>
       <pubDate>Sun, 18 May 2025 17:10:00 +0200</pubDate>
-      <guid>/tags/energ%C3%ADas-renovables/</guid>
+      <guid>//localhost:4321/tags/energ%C3%ADas-renovables/</guid>
       <description></description>
     </item>
     <item>
       <title>Política Energética</title>
-      <link>/tags/pol%C3%ADtica-energ%C3%A9tica/</link>
+      <link>//localhost:4321/tags/pol%C3%ADtica-energ%C3%A9tica/</link>
       <pubDate>Sun, 18 May 2025 17:10:00 +0200</pubDate>
-      <guid>/tags/pol%C3%ADtica-energ%C3%A9tica/</guid>
+      <guid>//localhost:4321/tags/pol%C3%ADtica-energ%C3%A9tica/</guid>
       <description></description>
     </item>
     <item>
       <title>Transición Energética</title>
-      <link>/tags/transici%C3%B3n-energ%C3%A9tica/</link>
+      <link>//localhost:4321/tags/transici%C3%B3n-energ%C3%A9tica/</link>
       <pubDate>Sun, 18 May 2025 17:10:00 +0200</pubDate>
-      <guid>/tags/transici%C3%B3n-energ%C3%A9tica/</guid>
+      <guid>//localhost:4321/tags/transici%C3%B3n-energ%C3%A9tica/</guid>
       <description></description>
     </item>
     <item>
       <title>Bonos Verdes</title>
-      <link>/tags/bonos-verdes/</link>
+      <link>//localhost:4321/tags/bonos-verdes/</link>
       <pubDate>Sat, 05 Apr 2025 15:00:00 +0200</pubDate>
-      <guid>/tags/bonos-verdes/</guid>
+      <guid>//localhost:4321/tags/bonos-verdes/</guid>
       <description></description>
     </item>
     <item>
       <title>ESG</title>
-      <link>/tags/esg/</link>
+      <link>//localhost:4321/tags/esg/</link>
       <pubDate>Sat, 05 Apr 2025 15:00:00 +0200</pubDate>
-      <guid>/tags/esg/</guid>
+      <guid>//localhost:4321/tags/esg/</guid>
       <description></description>
     </item>
     <item>
       <title>Finanzas Verdes</title>
-      <link>/tags/finanzas-verdes/</link>
+      <link>//localhost:4321/tags/finanzas-verdes/</link>
       <pubDate>Sat, 05 Apr 2025 15:00:00 +0200</pubDate>
-      <guid>/tags/finanzas-verdes/</guid>
+      <guid>//localhost:4321/tags/finanzas-verdes/</guid>
       <description></description>
     </item>
     <item>
       <title>Mercados Emergentes</title>
-      <link>/tags/mercados-emergentes/</link>
+      <link>//localhost:4321/tags/mercados-emergentes/</link>
       <pubDate>Sat, 05 Apr 2025 15:00:00 +0200</pubDate>
-      <guid>/tags/mercados-emergentes/</guid>
+      <guid>//localhost:4321/tags/mercados-emergentes/</guid>
       <description></description>
     </item>
     <item>
       <title>Inflación</title>
-      <link>/tags/inflaci%C3%B3n/</link>
+      <link>//localhost:4321/tags/inflaci%C3%B3n/</link>
       <pubDate>Wed, 12 Mar 2025 09:40:00 +0200</pubDate>
-      <guid>/tags/inflaci%C3%B3n/</guid>
+      <guid>//localhost:4321/tags/inflaci%C3%B3n/</guid>
       <description></description>
     </item>
     <item>
       <title>Petróleo</title>
-      <link>/tags/petr%C3%B3leo/</link>
+      <link>//localhost:4321/tags/petr%C3%B3leo/</link>
       <pubDate>Wed, 12 Mar 2025 09:40:00 +0200</pubDate>
-      <guid>/tags/petr%C3%B3leo/</guid>
+      <guid>//localhost:4321/tags/petr%C3%B3leo/</guid>
       <description></description>
     </item>
     <item>
       <title>Precios De La Energía</title>
-      <link>/tags/precios-de-la-energ%C3%ADa/</link>
+      <link>//localhost:4321/tags/precios-de-la-energ%C3%ADa/</link>
       <pubDate>Wed, 12 Mar 2025 09:40:00 +0200</pubDate>
-      <guid>/tags/precios-de-la-energ%C3%ADa/</guid>
+      <guid>//localhost:4321/tags/precios-de-la-energ%C3%ADa/</guid>
       <description></description>
     </item>
     <item>
       <title>Shocks Externos</title>
-      <link>/tags/shocks-externos/</link>
+      <link>//localhost:4321/tags/shocks-externos/</link>
       <pubDate>Wed, 12 Mar 2025 09:40:00 +0200</pubDate>
-      <guid>/tags/shocks-externos/</guid>
+      <guid>//localhost:4321/tags/shocks-externos/</guid>
       <description></description>
     </item>
     <item>
       <title>Big Data</title>
-      <link>/tags/big-data/</link>
+      <link>//localhost:4321/tags/big-data/</link>
       <pubDate>Thu, 20 Feb 2025 13:20:00 +0200</pubDate>
-      <guid>/tags/big-data/</guid>
+      <guid>//localhost:4321/tags/big-data/</guid>
       <description></description>
     </item>
     <item>
       <title>Energía</title>
-      <link>/tags/energ%C3%ADa/</link>
+      <link>//localhost:4321/tags/energ%C3%ADa/</link>
       <pubDate>Thu, 20 Feb 2025 13:20:00 +0200</pubDate>
-      <guid>/tags/energ%C3%ADa/</guid>
+      <guid>//localhost:4321/tags/energ%C3%ADa/</guid>
       <description></description>
     </item>
     <item>
       <title>Machine Learning</title>
-      <link>/tags/machine-learning/</link>
+      <link>//localhost:4321/tags/machine-learning/</link>
       <pubDate>Thu, 20 Feb 2025 13:20:00 +0200</pubDate>
-      <guid>/tags/machine-learning/</guid>
+      <guid>//localhost:4321/tags/machine-learning/</guid>
       <description></description>
     </item>
     <item>
       <title>Predicción</title>
-      <link>/tags/predicci%C3%B3n/</link>
+      <link>//localhost:4321/tags/predicci%C3%B3n/</link>
       <pubDate>Thu, 20 Feb 2025 13:20:00 +0200</pubDate>
-      <guid>/tags/predicci%C3%B3n/</guid>
+      <guid>//localhost:4321/tags/predicci%C3%B3n/</guid>
       <description></description>
     </item>
     <item>
       <title>Mercados Financieros</title>
-      <link>/tags/mercados-financieros/</link>
+      <link>//localhost:4321/tags/mercados-financieros/</link>
       <pubDate>Tue, 28 Jan 2025 11:00:00 +0200</pubDate>
-      <guid>/tags/mercados-financieros/</guid>
+      <guid>//localhost:4321/tags/mercados-financieros/</guid>
       <description></description>
     </item>
     <item>
       <title>Value at Risk</title>
-      <link>/tags/value-at-risk/</link>
+      <link>//localhost:4321/tags/value-at-risk/</link>
       <pubDate>Tue, 28 Jan 2025 11:00:00 +0200</pubDate>
-      <guid>/tags/value-at-risk/</guid>
+      <guid>//localhost:4321/tags/value-at-risk/</guid>
       <description></description>
     </item>
     <item>
       <title>Volatilidad</title>
-      <link>/tags/volatilidad/</link>
+      <link>//localhost:4321/tags/volatilidad/</link>
       <pubDate>Tue, 28 Jan 2025 11:00:00 +0200</pubDate>
-      <guid>/tags/volatilidad/</guid>
+      <guid>//localhost:4321/tags/volatilidad/</guid>
       <description></description>
     </item>
   </channel>

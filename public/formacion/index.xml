@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Formacion on GIFINC</title>
-    <link>/formacion/</link>
+    <link>//localhost:4321/formacion/</link>
     <description>Recent content in Formacion on GIFINC</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 17 Jun 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="/formacion/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="//localhost:4321/formacion/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Doctorados</title>
-      <link>/formacion/doctorado/</link>
+      <link>//localhost:4321/formacion/doctorado/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/formacion/doctorado/</guid>
+      <guid>//localhost:4321/formacion/doctorado/</guid>
       <description>&lt;h3 id=&#34;-doctorado-en-economía-aplicada--universidad-del-valle&#34;&gt;🎓 Doctorado en Economía Aplicada – Universidad del Valle&lt;/h3&gt;&#xA;&lt;p&gt;El &lt;strong&gt;Doctorado en Economía Aplicada (DEA)&lt;/strong&gt; de la Universidad del Valle es pionero en Colombia y el segundo en su tipo en América Latina. Su principal distintivo es su enfoque aplicado, que busca formar investigadores capaces de analizar rigurosamente problemas económicos reales mediante el uso intensivo de técnicas avanzadas de economía, estadística y computación.&lt;/p&gt;&#xA;&lt;p&gt;A diferencia de los programas tradicionales en economía que enfatizan la teoría, el DEA ofrece una formación avanzada en teoría económica y métodos empíricos, integrando un marco &lt;strong&gt;interdisciplinario y transdisciplinario&lt;/strong&gt; que permite comprender la complejidad de fenómenos económicos contemporáneos desde múltiples perspectivas.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Maestrías y Especializaciones</title>
-      <link>/formacion/maestria/</link>
+      <link>//localhost:4321/formacion/maestria/</link>
       <pubDate>Tue, 17 Jun 2025 00:00:00 +0000</pubDate>
-      <guid>/formacion/maestria/</guid>
+      <guid>//localhost:4321/formacion/maestria/</guid>
       <description>&lt;h3 id=&#34;-maestría-en-ingeniería-con-énfasis-en-ingeniería-industrial&#34;&gt;🎓 Maestría en Ingeniería con Énfasis en Ingeniería Industrial&lt;/h3&gt;&#xA;&lt;p&gt;&lt;strong&gt;Duración:&lt;/strong&gt; 4 semestres&lt;br&gt;&#xA;&lt;strong&gt;Modalidad:&lt;/strong&gt; Presencial&lt;br&gt;&#xA;&lt;strong&gt;Perfil del programa:&lt;/strong&gt; Formación investigativa y aplicada en procesos industriales, optimización de sistemas productivos, logística, innovación y gestión tecnológica.&lt;br&gt;&#xA;&lt;strong&gt;Dirigido a:&lt;/strong&gt; Ingenieros de diversas áreas con interés en profundizar en sistemas industriales.&lt;/p&gt;&#xA;&lt;p&gt;🎓 &lt;a href=&#34;https://ingenieriadelasorganizaciones.univalle.edu.co/oferta-academica/maestria-en-ingenieria-industrial&#34;&gt;&lt;strong&gt;Ver Maestría en Ingeniería con énfasis en Ingeniería Industrial&lt;/strong&gt;&lt;/a&gt;&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h3 id=&#34;-maestría-en-analítica-e-inteligencia-de-negocios&#34;&gt;📊 Maestría en Analítica e Inteligencia de Negocios&lt;/h3&gt;&#xA;&lt;p&gt;&lt;strong&gt;Duración:&lt;/strong&gt; 4 semestres&lt;br&gt;&#xA;&lt;strong&gt;Modalidad:&lt;/strong&gt; Presencial&lt;br&gt;&#xA;&lt;strong&gt;Perfil del programa:&lt;/strong&gt; Aplicación de analítica avanzada, inteligencia artificial y machine learning en la toma de decisiones estratégicas.&lt;br&gt;&#xA;&lt;strong&gt;Dirigido a:&lt;/strong&gt; Profesionales con formación en ingeniería, estadística, economía o afines que deseen liderar procesos de transformación digital y analítica en las organizaciones.&lt;/p&gt;</description>
     </item>
   </channel>

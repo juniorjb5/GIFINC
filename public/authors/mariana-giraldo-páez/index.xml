@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Mariana Giraldo Páez on GIFINC</title>
-    <link>/authors/mariana-giraldo-p%C3%A1ez/</link>
+    <link>//localhost:4321/authors/mariana-giraldo-p%C3%A1ez/</link>
     <description>Recent content in Mariana Giraldo Páez on GIFINC</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 20 Feb 2025 13:20:00 +0200</lastBuildDate>
-    <atom:link href="/authors/mariana-giraldo-p%C3%A1ez/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="//localhost:4321/authors/mariana-giraldo-p%C3%A1ez/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Predicción del Consumo Energético con Machine Learning: Una Aplicación en Colombia</title>
-      <link>/blog/2025/02/20/boletin_5/</link>
+      <link>//localhost:4321/blog/2025/02/20/boletin_5/</link>
       <pubDate>Thu, 20 Feb 2025 13:20:00 +0200</pubDate>
-      <guid>/blog/2025/02/20/boletin_5/</guid>
+      <guid>//localhost:4321/blog/2025/02/20/boletin_5/</guid>
       <description>&lt;div style=&#34;text-align: center;&#34;&gt;&#xD;&#xA;&#xD;&#xA;Presenta un enfoque predictivo usando modelos de machine learning para estimar el consumo energético en regiones de Colombia. Se comparan modelos supervisados como regresión lineal, árboles de decisión y redes neuronales, evaluando su precisión y aplicabilidad en escenarios reales.&#xD;&#xA;&#xD;&#xA;&lt;/div&gt;&#xD;&#xA;&#xD;&#xA;&lt;hr&gt;</description>
     </item>
   </channel>

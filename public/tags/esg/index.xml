@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>ESG on GIFINC</title>
-    <link>/tags/esg/</link>
+    <link>//localhost:4321/tags/esg/</link>
     <description>Recent content in ESG on GIFINC</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 05 Apr 2025 15:00:00 +0200</lastBuildDate>
-    <atom:link href="/tags/esg/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="//localhost:4321/tags/esg/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Finanzas Verdes en Mercados Emergentes ¿Moda o Transformación Estructural?</title>
-      <link>/blog/2025/04/05/boletin_3/</link>
+      <link>//localhost:4321/blog/2025/04/05/boletin_3/</link>
       <pubDate>Sat, 05 Apr 2025 15:00:00 +0200</pubDate>
-      <guid>/blog/2025/04/05/boletin_3/</guid>
+      <guid>//localhost:4321/blog/2025/04/05/boletin_3/</guid>
       <description>&lt;div style=&#34;text-align: center;&#34;&gt;&#xD;&#xA;&#xD;&#xA;El documento presenta un panorama comparativo del crecimiento de instrumentos financieros verdes en mercados emergentes entre 2010 y 2023, con especial énfasis en los bonos verdes y la evolución de las métricas ESG. Se discute su impacto real y los retos de integrarlos en sistemas financieros tradicionales.&#xD;&#xA;&#xD;&#xA;&lt;/div&gt;&#xD;&#xA;&#xD;&#xA;&lt;hr&gt;</description>
     </item>
   </channel>

@@ -60,7 +60,7 @@ menu:
       parent: section.nosotros-formacion
       url: /formacion/maestria/
       weight: 2
-    
+
     - identifier: menu.publicaciones
       name: Publicaciones
       url: /img/revistas3.png
@@ -79,10 +79,6 @@ menu:
       parent: section.publicaciones-doc
       url: /publicaciones/capitulos/
       weight: 2
-    - name: Congresos
-      parent: section.publicaciones-doc
-      url: /publicaciones/congresos/
-      weight: 3
 
     - identifier: section.tesis
       name: Tesis
@@ -94,10 +90,6 @@ menu:
       parent: section.tesis
       url: /publicaciones/tesis-doctorales/
       weight: 1
-    - name: Tesis de Maestría
-      parent: section.tesis
-      url: /publicaciones/tesis-maestria/
-      weight: 2
 
     - identifier: menu.semilleros
       name: Semilleros
@@ -119,38 +111,19 @@ menu:
       url: /img/Eventos.png
       weight: 5
     - identifier: section.boletin
-      name: Comunicaciones recientes
+      name: Boletín GIFINC
       parent: menu.blog
       post: 1
       url: ''
       weight: 1
-    - name: 2025 - (Julio - Diciembre)
+    - name: 'Consulta nuestro Boletín: Finanzas & Datos'
       parent: section.boletin
       url: /blog/
       weight: 1
-    - name: 2026 - (Enero - Junio)
-      parent: section.boletin
-      url: /blog/
-      weight: 2
-    - name: 2026 - (Julio - Diciembre)
-      parent: section.boletin
-      url: /blog/
-      weight: 3
-    
-    - identifier: section.vertodas
-      name: Ver más
-      parent: menu.blog
-      post: 2
-      url: ''
-      weight: 2
-    - name: Ver todas las comunicaciones
-      parent: section.vertodas
-      url: /blog/
-      weight: 4
-      
+  
     - identifier: menu.stat
       name: Estadísticas
-      url: /eventos/listado/
+      url: /
       weight: 6
     - identifier: contact
       name: Contacto

@@ -5,11 +5,9 @@ authors:
 - Ricardo Lopes Klotz
 banner: img/banners/boletin_1.png
 categories:
-- finanzas
-- internacional
-- economía
-- energía
-date: "2025-06-20T21:29:20+02:00"
+- Economía Energética
+- Macroeconomía Financiera
+date: "2025-08-30T21:29:20+02:00"
 tags:
 - china
 - energia
@@ -19,17 +17,23 @@ title: China en el Mapa Energético Global. Dinámicas de Inversión 2005–2024
 markup: html
 ---
 
-<div style="text-align: center;">
-
-A lo largo de las dos últimas décadas, China ha consolidado su papel como uno de los principales actores en el escenario energético global, no solo por su creciente demanda interna, sino también por su notable expansión internacional en términos de inversión y construcción de infraestructura. Este boletín ofrece un análisis detallado y visual de las inversiones chinas en el sector energético a nivel mundial entre 2005 y 2024, destacando las dinámicas, patrones y cambios estratégicos que han marcado su evolución en distintas regiones del planeta.
 
 
-</div>
+<h3 style="text-align:justify;">Contexto</h3>
 
+<p style="text-align:justify;">
+A lo largo de las dos últimas décadas, China ha consolidado su papel como uno de los principales actores en el escenario energético global, no solo por su creciente demanda interna, sino también por su notable expansión internacional en términos de inversión y construcción de infraestructura. 
+</p>
+
+<p style="text-align:justify;">
+Este boletín ofrece un análisis detallado y visual de las inversiones chinas en el sector energético a nivel mundial entre 2005 y 2024, destacando las dinámicas, patrones y cambios estratégicos que han marcado su evolución en distintas regiones del planeta.
+</p>
+
+<br>
 <hr>
 
 <!--more-->
 
 
-<iframe src="/files/boletin_1.pdf#zoom=80" width="100%" height="600px" style="border: none;"></iframe>
+<iframe src="/files/Boletin_1.pdf#zoom=80" width="100%" height="600px" style="border: none;"></iframe>
 

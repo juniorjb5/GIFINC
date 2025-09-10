@@ -1,5 +1,5 @@
-weight: 6
-name: "Seguros"
-icon: "fas fa-user-shield"
+weight: 2
+name: "Macroeconomía Financiera"
+icon: "fas fa-globe"
 url: ""
-description: "Estudiamos riesgos actuariales como longevidad y mortalidad, y sus efectos sobre sistemas aseguradores y financieros."
+description: "Analizamos desbordamientos financieros internacionales, contagios de liquidez y efectos de políticas monetarias y macroprudenciales."

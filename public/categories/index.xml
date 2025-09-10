@@ -6,83 +6,20 @@
     <description>Recent content in Categories on GIFINC</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 20 Jun 2025 21:29:20 +0200</lastBuildDate>
+    <lastBuildDate>Sat, 30 Aug 2025 21:29:20 +0200</lastBuildDate>
     <atom:link href="//localhost:4321/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Economía</title>
-      <link>//localhost:4321/categories/econom%C3%ADa/</link>
-      <pubDate>Fri, 20 Jun 2025 21:29:20 +0200</pubDate>
-      <guid>//localhost:4321/categories/econom%C3%ADa/</guid>
+      <title>Economía Energética</title>
+      <link>//localhost:4321/categories/econom%C3%ADa-energ%C3%A9tica/</link>
+      <pubDate>Sat, 30 Aug 2025 21:29:20 +0200</pubDate>
+      <guid>//localhost:4321/categories/econom%C3%ADa-energ%C3%A9tica/</guid>
       <description></description>
     </item>
     <item>
-      <title>Energía</title>
-      <link>//localhost:4321/categories/energ%C3%ADa/</link>
-      <pubDate>Fri, 20 Jun 2025 21:29:20 +0200</pubDate>
-      <guid>//localhost:4321/categories/energ%C3%ADa/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Finanzas</title>
-      <link>//localhost:4321/categories/finanzas/</link>
-      <pubDate>Fri, 20 Jun 2025 21:29:20 +0200</pubDate>
-      <guid>//localhost:4321/categories/finanzas/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Internacional</title>
-      <link>//localhost:4321/categories/internacional/</link>
-      <pubDate>Fri, 20 Jun 2025 21:29:20 +0200</pubDate>
-      <guid>//localhost:4321/categories/internacional/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Sostenibilidad</title>
-      <link>//localhost:4321/categories/sostenibilidad/</link>
-      <pubDate>Sun, 18 May 2025 17:10:00 +0200</pubDate>
-      <guid>//localhost:4321/categories/sostenibilidad/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Datos</title>
-      <link>//localhost:4321/categories/datos/</link>
-      <pubDate>Sat, 05 Apr 2025 15:00:00 +0200</pubDate>
-      <guid>//localhost:4321/categories/datos/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Coyuntura</title>
-      <link>//localhost:4321/categories/coyuntura/</link>
-      <pubDate>Wed, 12 Mar 2025 09:40:00 +0200</pubDate>
-      <guid>//localhost:4321/categories/coyuntura/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Inteligencia Artificial</title>
-      <link>//localhost:4321/categories/inteligencia-artificial/</link>
-      <pubDate>Thu, 20 Feb 2025 13:20:00 +0200</pubDate>
-      <guid>//localhost:4321/categories/inteligencia-artificial/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Programación</title>
-      <link>//localhost:4321/categories/programaci%C3%B3n/</link>
-      <pubDate>Thu, 20 Feb 2025 13:20:00 +0200</pubDate>
-      <guid>//localhost:4321/categories/programaci%C3%B3n/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Cuantitativo</title>
-      <link>//localhost:4321/categories/cuantitativo/</link>
-      <pubDate>Tue, 28 Jan 2025 11:00:00 +0200</pubDate>
-      <guid>//localhost:4321/categories/cuantitativo/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Riesgo</title>
-      <link>//localhost:4321/categories/riesgo/</link>
-      <pubDate>Tue, 28 Jan 2025 11:00:00 +0200</pubDate>
-      <guid>//localhost:4321/categories/riesgo/</guid>
+      <title>Macroeconomía Financiera</title>
+      <link>//localhost:4321/categories/macroeconom%C3%ADa-financiera/</link>
+      <pubDate>Sat, 30 Aug 2025 21:29:20 +0200</pubDate>
+      <guid>//localhost:4321/categories/macroeconom%C3%ADa-financiera/</guid>
       <description></description>
     </item>
   </channel>

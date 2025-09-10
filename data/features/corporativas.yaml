@@ -1,5 +1,5 @@
-weight: 2
-name: "Macroeconomía Financiera"
-icon: "fas fa-globe"
+weight: 6
+name: "Finanzas Corporativas"
+icon: "fas fa-balance-scale"
 url: ""
-description: "Analizamos desbordamientos financieros internacionales, contagios de liquidez y efectos de políticas monetarias y macroprudenciales."
+description: "Desarrollamos modelos financieros para la valoración de activos y empresas, en contextos de incertidumbre. Analizamos riesgos actuariales, así como su impacto en sistemas aseguradores y en la gestión estratégica de las finanzas corporativas."

@@ -69,22 +69,24 @@ type: page
   z-index: 1000;
 ">
   <a href="#top" style="display: block; color: #800000; text-decoration: none; margin-bottom: 6px;">Inicio ↑</a>
-  <a href="#capitulos2025" style="display: block; color: #800000; text-decoration: none; margin-bottom: 4px;">2025</a>
-  <a href="#capitulos2024" style="display: block; color: #800000; text-decoration: none; margin-bottom: 4px;">2024</a>
   <a href="#capitulos2023" style="display: block; color: #800000; text-decoration: none; margin-bottom: 4px;">2023</a>
-  <a href="#capitulos2022" style="display: block; color: #800000; text-decoration: none;">2022</a>
+  <a href="#capitulos2022" style="display: block; color: #800000; text-decoration: none; margin-bottom: 4px;">2022</a>
+  <a href="#capitulos2020" style="display: block; color: #800000; text-decoration: none; margin-bottom: 4px;">2020</a>
+  <a href="#capitulos2019" style="display: block; color: #800000; text-decoration: none; margin-bottom: 4px;">2019</a>
+  <a href="#capitulos2018" style="display: block; color: #800000; text-decoration: none; margin-bottom: 4px;">2018</a>
+  <a href="#capitulos2015" style="display: block; color: #800000; text-decoration: none; margin-bottom: 4px;">2015</a>
 </div>
 
 
 
 
-<!-- Navegación por años -->
 <div style="margin-bottom: 10px; text-align: center;">
-  <a href="#capitulos2025" style="margin: 0 10px; font-weight: bold; color: #800000; text-decoration: none;">2025</a>
-  <a href="#capitulos2024" style="margin: 0 10px; font-weight: bold; color: #800000; text-decoration: none;">2024</a>
   <a href="#capitulos2023" style="margin: 0 10px; font-weight: bold; color: #800000; text-decoration: none;">2023</a>
   <a href="#capitulos2022" style="margin: 0 10px; font-weight: bold; color: #800000; text-decoration: none;">2022</a>
-  <!-- Agrega más años si es necesario -->
+  <a href="#capitulos2020" style="margin: 0 10px; font-weight: bold; color: #800000; text-decoration: none;">2020</a>
+  <a href="#capitulos2019" style="margin: 0 10px; font-weight: bold; color: #800000; text-decoration: none;">2019</a>
+  <a href="#capitulos2018" style="margin: 0 10px; font-weight: bold; color: #800000; text-decoration: none;">2018</a>
+  <a href="#capitulos2015" style="margin: 0 10px; font-weight: bold; color: #800000; text-decoration: none;">2015</a>
 </div>
 
 
@@ -92,79 +94,103 @@ type: page
 
 
 
-<p id="capitulos2025" style="color: #800000; margin-top: 40px;"> </p>
-
+<p id="capitulos2023" style="color: #800000; margin-top: 40px;"> </p>
 <div class="publications-section">
-  <h2>Capítulos 2025</h2>
+  <h2>Capítulos 2023</h2>
   <table class="styled-table">
     <thead>
       <tr>
         <th>Título</th>
         <th>Autores</th>
-        <th>Revista</th>
-        <th>DOI</th>
+        <th>Libro</th>
+        <th>ISBN</th>
+        <th>Editorial</th>
       </tr>
     </thead>
     <tbody>
       <tr>
-        <td>LCOE at risk in different locations in Colombia</td>
-        <td>Yessenia Martinez Ruiz, Camilo Andres Mican Rincon, Diego Fernando Manotas Duque</td>
-        <td>International Journal of Sustainable Energy Planning and Management</td>
-        <td><a href="https://doi.org/10.54337/ijsepm.9745" target="_blank">DOI</a></td>
+        <td>Characterization of Hydrogen Supply Chain Design</td>
+        <td>Yovany Arley Erazo Cifuentes, Juan Pablo Orejuela Cabrera, Diego Fernando Manotas Duque</td>
+        <td>Supply Chain Management Strategies and Methodologies, Suiza, Vol., 2023</td>
+        <td>978-3-031-32032-3</td>
+        <td>Springer Verlag Publishing Company</td>
+      </tr>
+    </tbody>
+  </table>
+</div>
+
+
+
+<p id="capitulos2022" style="color: #800000; margin-top: 40px;"> </p>
+
+<div class="publications-section">
+  <h2>Capítulos 2022</h2>
+  <table class="styled-table">
+    <thead>
+      <tr>
+        <th>Título</th>
+        <th>Autores</th>
+        <th>Libro</th>
+        <th>ISBN</th>
+        <th>Editorial</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>Bitcoin Price Forecasting Through Crypto Market Variables: Quantile Regression and Machine Learning Approaches</td>
+        <td>Andres Felipe Oviedo Gomez, Juan Manuel Candelo Viafara, Diego Fernando Manotas Duque</td>
+        <td>Handbook on Decision Making. Volume 3: Trends and Challenges in Intelligent Decision Support Systems, Suiza, 2022</td>
+        <td>978-3-031-08246-7</td>
+        <td>Springer Ny</td>
       </tr>
       <tr>
-        <td>A multi-objective robustness methodology...</td>
-        <td>John Willmer Escobar Velasquez</td>
-        <td>International Journal of Shipping and Transport Logistics</td>
-        <td>–</td>
+        <td>Bitcoin Price Forecasting Through Crypto Market Variables: Quantile Regression and Machine Learning Approaches</td>
+        <td>Juan Manuel Candelo Viafara</td>
+        <td>Handbook on Decision Making. Volume 3: Trends and Challenges in Intelligent Decision Support Systems, Colombia, 2022</td>
+        <td>978-3-031-08246-7</td>
+        <td>Springer Ny</td>
       </tr>
       <tr>
-        <td>A heuristic approach for the last mile delivery...</td>
-        <td>Rodrigo Linfati, John Willmer Escobar Velasquez</td>
-        <td>Mathematics</td>
-        <td><a href="https://doi.org/10.3390/math13101553" target="_blank">DOI</a></td>
+        <td>Geothermal Power Projects Valuation Model</td>
+        <td>Yessenia Martinez Ruiz, Diego Fernando Manotas Duque, Howard Diego Ramirez Malule</td>
+        <td>Algorithms and Computational Techniques Applied to Industry, Suiza, 2022</td>
+        <td>978-3-031-00856-6</td>
+        <td>Springer Publishing Company, Inc.</td>
+      </tr>
+    </tbody>
+  </table>
+</div>
+
+
+
+<p id="capitulos2020" style="color: #800000; margin-top: 40px;"> </p>
+
+<div class="publications-section">
+  <h2>Capítulos 2020</h2>
+  <table class="styled-table">
+    <thead>
+      <tr>
+        <th>Título</th>
+        <th>Autores</th>
+        <th>Libro</th>
+        <th>ISBN</th>
+        <th>Editorial</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>A model for cost deviation análisis and prescriptive analytics</td>
+        <td>Victor Javier Jimenez Carabali</td>
+        <td>Proceedings on 25th International Joint Conference on Industrial Engineering and Operation Management, Colombia, 2020</td>
+        <td>978-3-030-43615-5</td>
+        <td>Springer Publishing Company, Inc.</td>
       </tr>
       <tr>
-        <td>The Vehicle Routing Problem with Satellites Utilization...</td>
-        <td>John Willmer Escobar Velasquez, Rodrigo Linfati, Daniel Morillo Torres</td>
-        <td>Mathematics</td>
-        <td><a href="https://doi.org/10.3390/math13071092" target="_blank">DOI</a></td>
-      </tr>
-      <tr>
-        <td>Emergency Medical Services Strategic Design...</td>
-        <td>Dionicio Neira Rodado, Juan Camilo Paz Roa, John Willmer Escobar Velasquez</td>
-        <td>Smart Cities</td>
-        <td><a href="https://doi.org/10.3390/smartcities8020052" target="_blank">DOI</a></td>
-      </tr>
-      <tr>
-        <td>Pathways to specialized renewable energy generation...</td>
-        <td>Orlando Joaqui Barandica, Diego Fernando Manotas Duque, Jorge Mario Uribe Gil</td>
-        <td>Energy Sustainability and Society</td>
-        <td><a href="https://doi.org/10.1186/s13705-024-00508-6" target="_blank">DOI</a></td>
-      </tr>
-      <tr>
-        <td>Two-stage linear stochastic programming...</td>
-        <td>Daniel Morillo Torres, John Willmer Escobar Velasquez</td>
-        <td>International Journal of Systems Science Operations Logistics</td>
-        <td><a href="https://doi.org/10.1080/23302674.2025.2451223" target="_blank">DOI</a></td>
-      </tr>
-      <tr>
-        <td>Data Mining for the Adjustment of Credit Scoring Models...</td>
-        <td>Ivan Mauricio Bermudez Vera, Jaime Mosquera Restrepo, Diego Fernando Manotas Duque</td>
-        <td>Risks</td>
-        <td><a href="https://doi.org/10.3390/risks13020020" target="_blank">DOI</a></td>
-      </tr>
-      <tr>
-        <td>Optimizing Energy Alternatives in Colombia’s Isolated Regions...</td>
-        <td>Luis Daniel Diaz Tapia, Pablo Cesar Manyoma Velasquez, Diego Fernando Manotas Duque</td>
-        <td>International Journal of Energy Economics and Policy</td>
-        <td><a href="https://doi.org/10.32479/ijeep.18048" target="_blank">DOI</a></td>
-      </tr>
-      <tr>
-        <td>A Novel Machine Learning Approach for Spatiotemporal Prediction...</td>
-        <td>Dionicio Neira Rodado, Juan Camilo Paz Roa, John Willmer Escobar Velasquez</td>
-        <td>Heliyon</td>
-        <td><a href="https://doi.org/10.1016/j.heliyon.2025.e41904" target="_blank">DOI</a></td>
+        <td>Agricultural Supply Chains Prioritization for Development of Affected Areas by the Colombian Conflict</td>
+        <td>Eduar Fernando Aguirre Gonzalez, Pablo Cesar Manyoma Velasquez</td>
+        <td>Advanced Studies in Multi-Criteria Decision Making, Estados Unidos, 2020</td>
+        <td>978-1-138-74388-5</td>
+        <td>CRC Press</td>
       </tr>
     </tbody>
   </table>
@@ -173,67 +199,108 @@ type: page
 
 
 
-
-
-
-
-
-<p id="capitulos2024" style="color: #800000; margin-top: 40px;"> </p>
-
+<p id="capitulos2019" style="color: #800000; margin-top: 40px;"> </p>
 
 <div class="publications-section">
-  <h2>Capítulos 2024</h2>
+  <h2>Capítulos 2019</h2>
   <table class="styled-table">
     <thead>
       <tr>
         <th>Título</th>
         <th>Autores</th>
-        <th>Revista</th>
-        <th>DOI</th>
+        <th>Libro</th>
+        <th>ISBN</th>
+        <th>Editorial</th>
       </tr>
     </thead>
     <tbody>
-  <tr>
-    <td>Optimal Planning of Oil Palm Fruit Harvest</td>
-    <td>rafael guillermo garcia caceres, john willmer escobar velásquez</td>
-    <td>international journal of services and operations management</td>
-    <td><a href="https://doi.org/10.1504/IJSOM.2024.143060" target="_blank">DOI</a></td>
-  </tr>
-  <tr>
-    <td>Common Factors in the Profitability of Energy Firms</td>
-    <td>orlando joaqui barandica, diego fernando manotas duque, jorge mario uribe gil</td>
-    <td>energy journal</td>
-    <td><a href="https://doi.org/10.1177/01956574241280779" target="_blank">DOI</a></td>
-  </tr>
-  <tr>
-    <td>Non-linear dynamics of global liquidity and energy sector profitability</td>
-    <td>orlando joaqui barandica, diego fernando manotas duque</td>
-    <td>energy sources part b economics planning and policy</td>
-    <td><a href="https://doi.org/10.1080/15567249.2024.2407772" target="_blank">DOI</a></td>
-  </tr>
-  <tr>
-    <td>Financial Viability of Thermal Power Generation Plants in the Transition to Renewable Energy</td>
-    <td>james duvan ramirez quintero, yessenia martinez ruiz, diego fernando manotas duque</td>
-    <td>international journal of energy economics and policy</td>
-    <td><a href="https://doi.org/10.32479/ijeep.16466" target="_blank">DOI</a></td>
-  </tr>
-  <tr>
-    <td>Editorial Footprints</td>
-    <td>john willmer escobar velásquez</td>
-    <td>cuadernos de administracion universidad del valle</td>
-    <td>–</td>
-  </tr>
-</tbody>
-</table>
+      <tr>
+        <td>RESULTADOS COMPONENTE CUANTITATIVO: ACCIONES, CONOCIMIENTOS, ACTITUDES Y PRÁCTICAS PREVENTIVAS FRENTE AL VIH</td>
+        <td>Jose Rafael Tovar Cuevas</td>
+        <td>¿Tramas, sexualidades y prevención del VIH en jóvenes universitarios de Cali¿, Colombia, 2019</td>
+        <td>9789585119185</td>
+        <td>Ecoe Ediciones Universidad Javeriana</td>
+      </tr>
+      <tr>
+        <td>A Service Design Process Based on the Business Model CANVAS and the C-K Theory</td>
+        <td>Sergio E Castillo Lopez, Sheyla K Flores Guirao, Eduardo Roldan Reyes, Aide Aracely Maldonado Macias, Diego Fernando Manotas Duque</td>
+        <td>Managing Innovation in Highly Restrictive Environments Lessons from Latin America and Emerging Markets, Suiza, 2019</td>
+        <td>978-3-319-93716-8</td>
+        <td>Springer Publishing Company, Inc.</td>
+      </tr>
+    </tbody>
+  </table>
 </div>
 
 
 
+<p id="capitulos2018" style="color: #800000; margin-top: 40px;"> </p>
+
+<div class="publications-section">
+  <h2>Capítulos 2018</h2>
+  <table class="styled-table">
+    <thead>
+      <tr>
+        <th>Título</th>
+        <th>Autores</th>
+        <th>Libro</th>
+        <th>ISBN</th>
+        <th>Editorial</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>Financial Risk Measurement in a Model of Supply of Raw Materials</td>
+        <td>Diego Fernando Manotas Duque, Leonardo Rivera Cadavid, Stephania Mosquera Lopez</td>
+        <td>Supply Chain Management and Logistics in Latin America, Estados Unidos, 2018</td>
+        <td>978-1-78756-803-7</td>
+        <td>Ed.</td>
+      </tr>
+      <tr>
+        <td>Fuzzy QFD and TOPSIS for dispatching prioritization in maritime transportation considering operational risk</td>
+        <td>Juan Carlos Osorio Gomez, Diego Fernando Manotas Duque</td>
+        <td>Best Practices in Manufacturing Processes: Experiences from Latin America, Colombia, 2018</td>
+        <td>9783319991900</td>
+        <td>Springer Verlag Publishing Company</td>
+      </tr>
+      <tr>
+        <td>Operational Risk Management in Third Party Logistics (3PL)</td>
+        <td>Diego Fernando Manotas Duque, Juan Carlos Osorio Gomez, Leonardo Rivera Cadavid</td>
+        <td>Global Business Expansion: Concepts, Methodologies, Tools, and Applications, Estados Unidos, 2018</td>
+        <td>9781522554820</td>
+        <td>Ed.</td>
+      </tr>
+    </tbody>
+  </table>
+</div>
 
 
 
+<p id="capitulos2015" style="color: #800000; margin-top: 40px;"> </p>
 
-
+<div class="publications-section">
+  <h2>Capítulos 2015</h2>
+  <table class="styled-table">
+    <thead>
+      <tr>
+        <th>Título</th>
+        <th>Autores</th>
+        <th>Libro</th>
+        <th>ISBN</th>
+        <th>Editorial</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>Asymmetric Uncertainty of Mortality and Longevity in the Spanish Population</td>
+        <td>Jorge Mario Uribe Gil</td>
+        <td>Scientific Methods For The Treatment Of Uncertainty In Social Sciences, Suiza, 2015</td>
+        <td>978-3-319-19703-6</td>
+        <td>Ed.</td>
+      </tr>
+    </tbody>
+  </table>
+</div>
 
 
 

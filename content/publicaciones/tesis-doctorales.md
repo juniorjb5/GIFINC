@@ -70,29 +70,26 @@ type: page
 ">
   <a href="#top" style="display: block; color: #800000; text-decoration: none; margin-bottom: 6px;">Inicio ↑</a>
   <a href="#tesisdoc2025" style="display: block; color: #800000; text-decoration: none; margin-bottom: 4px;">2025</a>
-  <a href="#tesisdoc2024" style="display: block; color: #800000; text-decoration: none; margin-bottom: 4px;">2024</a>
   <a href="#tesisdoc2023" style="display: block; color: #800000; text-decoration: none; margin-bottom: 4px;">2023</a>
-  <a href="#tesisdoc2022" style="display: block; color: #800000; text-decoration: none;">2022</a>
+  <a href="#tesisdoc2022" style="display: block; color: #800000; text-decoration: none; margin-bottom: 4px;">2022</a>
+  <a href="#tesisdoc2019" style="display: block; color: #800000; text-decoration: none; margin-bottom: 4px;">2019</a>
+  <a href="#tesisdoc2018" style="display: block; color: #800000; text-decoration: none; margin-bottom: 4px;">2018</a>
 </div>
 
 
 
 
-<!-- Navegación por años -->
 <div style="margin-bottom: 10px; text-align: center;">
   <a href="#tesisdoc2025" style="margin: 0 10px; font-weight: bold; color: #800000; text-decoration: none;">2025</a>
-  <a href="#tesisdoc2024" style="margin: 0 10px; font-weight: bold; color: #800000; text-decoration: none;">2024</a>
   <a href="#tesisdoc2023" style="margin: 0 10px; font-weight: bold; color: #800000; text-decoration: none;">2023</a>
   <a href="#tesisdoc2022" style="margin: 0 10px; font-weight: bold; color: #800000; text-decoration: none;">2022</a>
-  <!-- Agrega más años si es necesario -->
+  <a href="#tesisdoc2019" style="margin: 0 10px; font-weight: bold; color: #800000; text-decoration: none;">2019</a>
+  <a href="#tesisdoc2018" style="margin: 0 10px; font-weight: bold; color: #800000; text-decoration: none;">2018</a>
 </div>
 
 
 
-
-
-
-<p id="tesisdoc2025" style="color: #800000; margin-top: 40px;"> </p>
+<p id="tesisdoc2025" style="color: #800000; margin-top: 40px;"></p>
 
 <div class="publications-section">
   <h2>Tesis Doctorales 2025</h2>
@@ -100,71 +97,118 @@ type: page
     <thead>
       <tr>
         <th>Título</th>
-        <th>Autores</th>
-        <th>Revista</th>
-        <th>DOI</th>
+        <th>Estudiante</th>
+        <th>Tutores</th>
+        <th>Programa académico</th>
+        <th>Fecha</th>
       </tr>
     </thead>
     <tbody>
       <tr>
-        <td>LCOE at risk in different locations in Colombia</td>
-        <td>Yessenia Martinez Ruiz, Camilo Andres Mican Rincon, Diego Fernando Manotas Duque</td>
-        <td>International Journal of Sustainable Energy Planning and Management</td>
-        <td><a href="https://doi.org/10.54337/ijsepm.9745" target="_blank">DOI</a></td>
+        <td>Sustainable Optimization in the Beef Supply Chain through Innovation and Tool Development</td>
+        <td>Hernando Barreto Riaño</td>
+        <td>John Willmer Escobar Velásquez, Juan Camilo Paz Roa</td>
+        <td>Doctorado en Ingeniería</td>
+        <td>Feb 2025</td>
+      </tr>
+    </tbody>
+  </table>
+</div>
+
+
+
+<p id="tesisdoc2023" style="color: #800000; margin-top: 40px;"></p>
+
+<div class="publications-section">
+  <h2>Tesis Doctorales 2023</h2>
+  <table class="styled-table">
+    <thead>
+      <tr>
+        <th>Título</th>
+        <th>Estudiante</th>
+        <th>Tutores</th>
+        <th>Programa Académico</th>
+        <th>Fecha</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>Topics in asset and liability management: a comparative vision between emerging and developed economies</td>
+        <td>Orlando Joaqui Barandica</td>
+        <td>Diego Fernando Manotas Duque, Jorge Mario Uribe Gil</td>
+        <td>Doctorado en Ingeniería</td>
+        <td>Dic 2023</td>
       </tr>
       <tr>
-        <td>A multi-objective robustness methodology...</td>
-        <td>John Willmer Escobar Velasquez</td>
-        <td>International Journal of Shipping and Transport Logistics</td>
-        <td>–</td>
+        <td>Issues on Valuation of Renewable Energy Projects with Non-Conventional Sources Under Risk Conditions</td>
+        <td>Yessenia Martinez Ruiz</td>
+        <td>Diego Fernando Manotas Duque, Howard Diego</td>
+        <td>Doctorado en Ingeniería</td>
+        <td>Dic 2023</td>
       </tr>
       <tr>
-        <td>A heuristic approach for the last mile delivery...</td>
-        <td>Rodrigo Linfati, John Willmer Escobar Velasquez</td>
-        <td>Mathematics</td>
-        <td><a href="https://doi.org/10.3390/math13101553" target="_blank">DOI</a></td>
+        <td>Evaluación de los efectos de los precios de la energía eléctrica sobre una región industrial: una aproximación empírica a la economía del Valle del Cauca</td>
+        <td>Andres Felipe Oviedo Gomez</td>
+        <td>Diego Fernando Manotas Duque, Sandra Milena Londoño Hernández Ramírez Malule</td>
+        <td>Doctorado en Ingeniería</td>
+        <td>Dic 2023</td>
       </tr>
+    </tbody>
+  </table>
+</div>
+
+
+
+<p id="tesisdoc2022" style="color: #800000; margin-top: 40px;"></p>
+
+<div class="publications-section">
+  <h2>Tesis Doctorales 2022</h2>
+  <table class="styled-table">
+    <thead>
       <tr>
-        <td>The Vehicle Routing Problem with Satellites Utilization...</td>
-        <td>John Willmer Escobar Velasquez, Rodrigo Linfati, Daniel Morillo Torres</td>
-        <td>Mathematics</td>
-        <td><a href="https://doi.org/10.3390/math13071092" target="_blank">DOI</a></td>
+        <th>Título</th>
+        <th>Estudiante</th>
+        <th>Tutores</th>
+        <th>Programa académico</th>
+        <th>Fecha</th>
       </tr>
+    </thead>
+    <tbody>
       <tr>
-        <td>Emergency Medical Services Strategic Design...</td>
-        <td>Dionicio Neira Rodado, Juan Camilo Paz Roa, John Willmer Escobar Velasquez</td>
-        <td>Smart Cities</td>
-        <td><a href="https://doi.org/10.3390/smartcities8020052" target="_blank">DOI</a></td>
+        <td>MODELO DE VALORACION FINANCIERA COMO APOYO A LOS PROCESOS DE TRANSFERENCIA Y NEGOCIACION DE UNA TECNOLOGIA EN MATERIALES BIODEGRADABLES</td>
+        <td>Karen Lorena Delgado Muñoz</td>
+        <td>Diego Fernando Manotas Duque, Héctor Samuel Villada Castillo</td>
+        <td>Doctorado en Ingeniería</td>
+        <td>Dic 2022</td>
       </tr>
+    </tbody>
+  </table>
+</div>
+
+
+
+
+<p id="tesisdoc2019" style="color: #800000; margin-top: 40px;"></p>
+
+<div class="publications-section">
+  <h2>Tesis Doctorales 2019</h2>
+  <table class="styled-table">
+    <thead>
       <tr>
-        <td>Pathways to specialized renewable energy generation...</td>
-        <td>Orlando Joaqui Barandica, Diego Fernando Manotas Duque, Jorge Mario Uribe Gil</td>
-        <td>Energy Sustainability and Society</td>
-        <td><a href="https://doi.org/10.1186/s13705-024-00508-6" target="_blank">DOI</a></td>
+        <th>Título</th>
+        <th>Estudiante</th>
+        <th>Tutores</th>
+        <th>Programa académico</th>
+        <th>Fecha</th>
       </tr>
+    </thead>
+    <tbody>
       <tr>
-        <td>Two-stage linear stochastic programming...</td>
-        <td>Daniel Morillo Torres, John Willmer Escobar Velasquez</td>
-        <td>International Journal of Systems Science Operations Logistics</td>
-        <td><a href="https://doi.org/10.1080/23302674.2025.2451223" target="_blank">DOI</a></td>
-      </tr>
-      <tr>
-        <td>Data Mining for the Adjustment of Credit Scoring Models...</td>
-        <td>Ivan Mauricio Bermudez Vera, Jaime Mosquera Restrepo, Diego Fernando Manotas Duque</td>
-        <td>Risks</td>
-        <td><a href="https://doi.org/10.3390/risks13020020" target="_blank">DOI</a></td>
-      </tr>
-      <tr>
-        <td>Optimizing Energy Alternatives in Colombia’s Isolated Regions...</td>
-        <td>Luis Daniel Diaz Tapia, Pablo Cesar Manyoma Velasquez, Diego Fernando Manotas Duque</td>
-        <td>International Journal of Energy Economics and Policy</td>
-        <td><a href="https://doi.org/10.32479/ijeep.18048" target="_blank">DOI</a></td>
-      </tr>
-      <tr>
-        <td>A Novel Machine Learning Approach for Spatiotemporal Prediction...</td>
-        <td>Dionicio Neira Rodado, Juan Camilo Paz Roa, John Willmer Escobar Velasquez</td>
-        <td>Heliyon</td>
-        <td><a href="https://doi.org/10.1016/j.heliyon.2025.e41904" target="_blank">DOI</a></td>
+        <td>Issues on financial risk assessment and measurement in the international oil industry</td>
+        <td>Natalia Ximena Restrepo López</td>
+        <td>Diego Fernando Manotas Duque, Jorge Mario Uribe Gil</td>
+        <td>Doctorado en Ingeniería</td>
+        <td>Dic 2019</td>
       </tr>
     </tbody>
   </table>
@@ -175,70 +219,38 @@ type: page
 
 
 
-
-
-
-<p id="tesisdoc2024" style="color: #800000; margin-top: 40px;"> </p>
-
+<p id="tesisdoc2018" style="color: #800000; margin-top: 40px;"></p>
 
 <div class="publications-section">
-  <h2>Tesis Doctorales 2024</h2>
+  <h2>Tesis Doctorales 2018</h2>
   <table class="styled-table">
     <thead>
       <tr>
         <th>Título</th>
-        <th>Autores</th>
-        <th>Revista</th>
-        <th>DOI</th>
+        <th>Estudiante</th>
+        <th>Tutores</th>
+        <th>Programa académico</th>
+        <th>Fecha</th>
       </tr>
     </thead>
     <tbody>
-  <tr>
-    <td>Optimal Planning of Oil Palm Fruit Harvest</td>
-    <td>rafael guillermo garcia caceres, john willmer escobar velásquez</td>
-    <td>international journal of services and operations management</td>
-    <td><a href="https://doi.org/10.1504/IJSOM.2024.143060" target="_blank">DOI</a></td>
-  </tr>
-  <tr>
-    <td>Common Factors in the Profitability of Energy Firms</td>
-    <td>orlando joaqui barandica, diego fernando manotas duque, jorge mario uribe gil</td>
-    <td>energy journal</td>
-    <td><a href="https://doi.org/10.1177/01956574241280779" target="_blank">DOI</a></td>
-  </tr>
-  <tr>
-    <td>Non-linear dynamics of global liquidity and energy sector profitability</td>
-    <td>orlando joaqui barandica, diego fernando manotas duque</td>
-    <td>energy sources part b economics planning and policy</td>
-    <td><a href="https://doi.org/10.1080/15567249.2024.2407772" target="_blank">DOI</a></td>
-  </tr>
-  <tr>
-    <td>Financial Viability of Thermal Power Generation Plants in the Transition to Renewable Energy</td>
-    <td>james duvan ramirez quintero, yessenia martinez ruiz, diego fernando manotas duque</td>
-    <td>international journal of energy economics and policy</td>
-    <td><a href="https://doi.org/10.32479/ijeep.16466" target="_blank">DOI</a></td>
-  </tr>
-  <tr>
-    <td>Editorial Footprints</td>
-    <td>john willmer escobar velásquez</td>
-    <td>cuadernos de administracion universidad del valle</td>
-    <td>–</td>
-  </tr>
-</tbody>
-</table>
+      <tr>
+        <td>Issues on financial risk measurement and management in electricity markets</td>
+        <td>Stephania Mosquera López</td>
+        <td>Jorge Mario Uribe Gil</td>
+        <td>Doctorado en Ingeniería</td>
+        <td>Dic 2018</td>
+      </tr>
+      <tr>
+        <td>Gestión del riesgo operacional en cadenas de suministro considerando 3PL</td>
+        <td>Juan Carlos Osorio Gómez</td>
+        <td>Diego Fernando Manotas Duque, Jorge Luis García Alcaraz, Leonardo Rivera Cadavid</td>
+        <td>Doctorado en Ingeniería</td>
+        <td>Jun 2018</td>
+      </tr>
+    </tbody>
+  </table>
 </div>
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 

@@ -103,43 +103,10 @@ Prestamos especial atención a la transición energética, la vulnerabilidad cli
   <li style="text-align: center;">🔬 Integración de energías renovables y su efecto en precios y riesgos</li>
 </ul>
   </div>
+  
+  
+  
   <div class="linea-investigacion">
-    <i class="fas fa-truck"></i>
-    <h3>Finanzas Corporativas</h3>
-<p>Analizamos las decisiones estratégicas de financiación, inversión y distribución de utilidades dentro de las organizaciones, considerando la incertidumbre macroeconómica y sectorial. Esta línea se enfoca en cómo las empresas optimizan su estructura de capital, valoran activos y gestionan recursos en escenarios volátiles.
-
-<br><br>
-Estudiamos tanto grandes corporaciones como pymes, incorporando enfoques cuantitativos para evaluar el valor de la empresa, el gobierno corporativo y los efectos de fusiones y adquisiciones en el desempeño financiero.</p>
-
-<h4 style="text-align: center;">Temas clave que abordamos:</h4>
-<i class="fas fa-circle-chevron-down"></i>
-<ul class="temas">
-  <li style="text-align: center;">🏛️ Estructura óptima de capital y políticas de dividendos</li>
-  <li style="text-align: center;">📉 Valoración de empresas mediante métodos financieros y de mercado</li>
-  <li style="text-align: center;">🤝 Fusiones, adquisiciones y reestructuraciones</li>
-  <li style="text-align: center;">🧾 Análisis de decisiones de inversión bajo incertidumbre</li>
-  <li style="text-align: center;">👥 Gobierno corporativo y desempeño empresarial</li>
-</ul>
-  </div>
-    <div class="linea-investigacion">
-    <i class="fas fa-balance-scale"></i>
-    <h3>Valoración de Activos</h3>
-<p>Desarrollamos modelos cuantitativos para estimar el valor justo de activos financieros bajo incertidumbre, considerando variables de mercado, características contractuales y riesgos asociados.
-
-<br><br>
-Esta línea aplica enfoques clásicos y modernos, integrando técnicas de simulación, valoración estocástica y métodos alternativos, para apoyar decisiones de inversión, financiación y estrategias corporativas.</p>
-
-<h4 style="text-align: center;">Temas clave que abordamos:</h4>
-<i class="fas fa-circle-chevron-down"></i>
-<ul class="temas">
-  <li style="text-align: center;">💹 Valoración de bonos, acciones y derivados</li>
-  <li style="text-align: center;">📉 Aplicación de modelos estocásticos y opciones reales</li>
-  <li style="text-align: center;">📊 Evaluación de activos en mercados incompletos o ilíquidos</li>
-  <li style="text-align: center;">🔍 Análisis de sensibilidad y riesgo aplicado a precios de activos</li>
-  <li style="text-align: center;">🧮 Simulación Monte Carlo y árboles binomiales para valoración</li>
-</ul>
-  </div>
-   <div class="linea-investigacion">
     <i class="fas fa-globe"></i>
     <h3>Macroeconomía Financiera</h3>
 <p>Analizamos la interacción entre variables macroeconómicas y los mercados financieros, con especial interés en fenómenos como la transmisión internacional del riesgo, los efectos de la política monetaria, y la dinámica de ciclos financieros globales.
@@ -157,6 +124,36 @@ Esta línea de investigación se apoya en modelos empíricos y teóricos para co
   <li style="text-align: center;">📊 Modelos de riesgo sistémico con enfoque macroeconómico</li>
 </ul>
   </div>
+  
+  
+  
+  <div class="linea-investigacion">
+    <i class="fas fa-balance-scale"></i>
+    <h3>Finanzas Corporativas</h3>
+<p>Analizamos las decisiones estratégicas de financiación, inversión y distribución de utilidades dentro de las organizaciones, considerando la incertidumbre macroeconómica y sectorial. Esta línea se enfoca en cómo las empresas optimizan su estructura de capital, valoran activos y gestionan recursos en escenarios volátiles.
+
+<br><br>
+Estudiamos tanto grandes corporaciones como pymes, incorporando enfoques cuantitativos para evaluar el valor de la empresa, el gobierno corporativo y los efectos de fusiones y adquisiciones en el desempeño financiero.</p>
+
+<h4 style="text-align: center;">Temas clave que abordamos:</h4>
+<i class="fas fa-circle-chevron-down"></i>
+<ul class="temas">
+  <li style="text-align: center;">🏛️ Estructura óptima de capital y políticas de dividendos</li>
+  <li style="text-align: center;">📉 Valoración de empresas mediante métodos financieros y de mercado</li>
+  <li style="text-align: center;">🤝 Fusiones, adquisiciones y reestructuraciones</li>
+  <li style="text-align: center;">🧾 Análisis de decisiones de inversión bajo incertidumbre</li>
+  <li style="text-align: center;">👥 Gobierno corporativo y desempeño empresarial</li>
+</ul>
+  </div>
+    
+    
+    
+    
+   
+  
+  
+  
+  
   <div class="linea-investigacion">
     <i class="fas fa-truck"></i>
     <h3>Gestión Financiera de Cadenas de Suministro</h3>

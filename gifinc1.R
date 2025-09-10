@@ -8,7 +8,7 @@ library(blogdown)
 
 #https://github.com/devcows/hugo-universal-theme?tab=readme-ov-file
 
-blogdown::new_site(theme = "devcows/hugo-universal-theme",theme_example = TRUE)
+#blogdown::new_site(theme = "devcows/hugo-universal-theme",theme_example = TRUE)
 
 
 
@@ -22,7 +22,7 @@ blogdown::stop_server()
 
 git add .
 
-git commit -m "Act.22.06.2025_3"
+git commit -m "Act.22.06.2025_4"
 
 git push origin main
 

@@ -62,7 +62,9 @@ menu:
 </style>
 
 
-<p><strong>Conoce a nuestro equipo de trabajo</strong></p>
+
+<h3 style="text-align:justify;">Equipo de investigación</h3>
+
 Nuestro grupo está conformado por un equipo multidisciplinario de profesores, investigadores asociados y estudiantes comprometidos con la excelencia académica y el avance del conocimiento en analítica e ingeniería financiera. Aquí podrás descubrir su trayectoria, líneas de investigación, producción académica y vínculos institucionales.
 Además, te presentamos la cohorte 2025-I, integrada por estudiantes de pregrado que actualmente se están formando en competencias analíticas y financieras de alto nivel para enfrentar los desafíos del entorno económico y empresarial.
 Pasa el cursor sobre cada integrante para conocer más sobre su perfil, áreas de experticia y contribuciones al grupo.
@@ -255,7 +257,7 @@ Pasa el cursor sobre cada integrante para conocer más sobre su perfil, áreas d
 <div class="card-container">
   <div class="card">
     <img src="https://static.vecteezy.com/system/resources/previews/024/476/417/non_2x/silhouette-of-unknown-young-teenager-isolated-on-transparent-background-free-photo.jpg" alt="Foto JUAN CARLOS ZAMBRANO JURADO">
-    <h4>JUAN CARLOS ZAMBRANO JURADO</h4>
+    <h4>Juan Carlos Zambrano Jurado</h4>
     juan.zambrano@correounivalle.edu.co <br>
     <div class="more-info">
       <p><strong>Posición:</strong> Por definir</p>
@@ -273,7 +275,7 @@ Pasa el cursor sobre cada integrante para conocer más sobre su perfil, áreas d
 <div class="card-container">
   <div class="card">
     <img src="https://juniorjb5.github.io/ANIF/images/Inte6.jpg" alt="Foto ORLANDO JOAQUI BARANDICA">
-    <h4>ORLANDO JOAQUI BARANDICA</h4>
+    <h4>Orlando Joaqui Barandica</h4>
     orlando.joaqui@correounivalle.edu.co <br>
     <div class="more-info">
       <p><strong>Posición:</strong> Profesor Asistente</p>
@@ -322,10 +324,11 @@ Pasa el cursor sobre cada integrante para conocer más sobre su perfil, áreas d
 
 
 
+
 <br><br>
 
 
-<h2 style="text-align: center;">Estudiantes Semillero Cohorte 2025-I</h2>
+<h2 style="text-align: center;">Estudiantes Doctorales</h2>
 
 <div style="display: flex; flex-wrap: wrap; justify-content: space-between; gap: 20px; margin-top: 2rem;">
 
@@ -364,6 +367,31 @@ Pasa el cursor sobre cada integrante para conocer más sobre su perfil, áreas d
   </div>
 
 </div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 <div style="text-align: center; margin-top: 40px;">

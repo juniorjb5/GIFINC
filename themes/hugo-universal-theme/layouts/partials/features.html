@@ -3,44 +3,43 @@
 {{ if isset .Site.Data "features" }}
 {{ if gt (len .Site.Data.features) 0 }}
 <section class="bar background-white">
-    <div class="container">
-        {{ $elements := default 3 .Site.Params.features.cols }}
-        {{ $features := sort .Site.Data.features "weight" }}
+  <div class="container">
+    {{/* Número de columnas por fila (3 por defecto) */}}
+    {{ $elements := default 3 .Site.Params.features.cols }}
+    {{ $features := sort .Site.Data.features "weight" }}
 
-        {{ $total_rows := div (len $features) $elements }}
+    {{/* Cálculo de filas totales */}}
+    {{ $total_rows := div (len $features) $elements }}
+    {{ if gt (mod (len $features) $elements) 0 }}
+      {{ $total_rows = add $total_rows 1 }}
+    {{ end }}
 
-        {{ if gt (mod (len $features) $elements) 0 }}
-          {{ $total_rows = add $total_rows 1 }}
+    {{ range $i, $_ := seq $total_rows }}
+      {{/* Fila flex centrada */}}
+      <div class="features-row"
+           style="display:flex; flex-wrap:nowrap; justify-content:center; gap:2rem; margin-bottom:2rem;">
+        {{ range $j, $__ := (seq $elements) }}
+          {{ $idx := add (mul $i $elements) $j }}
+          {{ if lt $idx (len $features) }}
+            {{ $el := index $features $idx }}
+
+            {{/* Cada tarjeta ocupa 1/$elements del ancho; al haber menos en la última fila, quedan centradas */}}
+            <div class="feature"
+                 style="flex:0 0 calc(100% / {{ $elements }}); max-width:calc(100% / {{ $elements }});">
+              <div class="box-simple" style="text-align:center;">
+                {{ with $el.url }}<a href="{{ . }}" style="text-decoration:none; color:inherit;">{{ end }}
+                  <div class="icon"><i class="{{ $el.icon }}"></i></div>
+                {{ with $el.url }}</a>{{ end }}
+                <h3>{{ $el.name | markdownify }}</h3>
+                <p>{{ $el.description | markdownify }}</p>
+              </div>
+            </div>
+
+          {{ end }}
         {{ end }}
-
-        {{ range $i, $sequence := seq $total_rows }}
-          <div class="row row-{{ $i }} row-{{ if eq (mod $i 2) 0 }}odd{{ else }}even{{ end }}">
-            {{ range $j, $sequence2 := (seq $elements) }}
-
-                {{ $feature_index := add (mul $i $elements) $j }}
-                {{ if lt $feature_index (len $features) }}
-                    {{ $element := index $features $feature_index }}
-
-                    <div class="col-md-{{ div 12 $elements }} col-{{ $j }} col-{{ if eq (mod $j 2) 0 }}odd{{ else }}even{{ end }}">
-                        <div class="box-simple">
-                            {{ with $element.url }}
-                            <a href="{{ $element.url }}">
-                            {{ end }}
-                                <div class="icon">
-                                    <i class="{{ $element.icon }}"></i>
-                                </div>
-                            {{ with $element.url }}
-                            </a>
-                            {{ end }}
-                            <h3>{{ $element.name | markdownify }}</h3>
-                            <p>{{ $element.description | markdownify }}</p>
-                        </div>
-                    </div>
-                {{ end }}
-            {{ end }}
-          </div>
-        {{ end }}
-    </div>
+      </div>
+    {{ end }}
+  </div>
 </section>
 {{ end }}
 {{ end }}

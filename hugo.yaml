@@ -46,6 +46,10 @@ menu:
       parent: section.nosotros-equipo
       url: /nosotros/investigadores/
       weight: 1
+    - name: Estudiantes de Doctorado
+      parent: section.nosotros-equipo
+      url: /nosotros/estudiantes-doctorado/
+      weight: 2
     - identifier: section.nosotros-formacion
       name: Formación académica
       parent: menu.nosotros

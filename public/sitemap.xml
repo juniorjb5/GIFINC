@@ -76,6 +76,8 @@
   </url><url>
     <loc>//localhost:4321/nosotros/investigadores/</loc>
   </url><url>
+    <loc>//localhost:4321/nosotros/estudiantes-doctorado/</loc>
+  </url><url>
     <loc>//localhost:4321/publicaciones/</loc>
   </url><url>
     <loc>//localhost:4321/semilleros/anif/</loc>

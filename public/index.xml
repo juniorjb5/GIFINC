@@ -65,6 +65,13 @@
       <description>&lt;h1 id=&#34;estamos-aquí-para-escucharte&#34;&gt;Estamos aquí para escucharte&lt;/h1&gt;&#xA;&lt;p&gt;Si tienes preguntas, deseas conocer más sobre nuestras investigaciones o estás interesado en colaborar con el grupo GIFINC, no dudes en escribirnos.&lt;/p&gt;&#xA;&lt;p&gt;Nuestro equipo estará encantado de responderte lo más pronto posible. También puedes encontrarnos en la Escuela de Ingeniería Industrial de la Universidad del Valle.&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;¡Esperamos saber de ti!&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h3 id=&#34;escríbenos&#34;&gt;Escríbenos:&lt;/h3&gt;&#xA;&lt;p&gt;✉️ &lt;a href=&#34;mailto:investigacion.gifinc@correounivalle.edu.co&#34;&gt;investigacion.gifinc@correounivalle.edu.co&lt;/a&gt;&lt;/p&gt;&#xA;&lt;hr&gt;</description>
     </item>
     <item>
+      <title>Estadística</title>
+      <link>//localhost:4321/estadisticas/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:4321/estadisticas/</guid>
+      <description>&lt;iframe title=&#34;Dashboard segundo&#34; width=&#34;1200&#34; height=&#34;600&#34; src=&#34;https://app.powerbi.com/view?r=eyJrIjoiOWM3NTEyYWUtNGE4Yi00MTQwLWFkOGEtNjNkNWNlYzM5MzE2IiwidCI6ImZkNzY2ZWRkLThiZWEtNGM5OS04NjcyLTU2ZDFjYWJjMjcwNiIsImMiOjR9&amp;embedImagePlaceholder=true&#34; frameborder=&#34;0&#34; allowFullScreen=&#34;true&#34;&gt;&lt;/iframe&gt;</description>
+    </item>
+    <item>
       <title>FAQ</title>
       <link>//localhost:4321/faq/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>

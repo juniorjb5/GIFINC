@@ -127,7 +127,7 @@ menu:
   
     - identifier: menu.stat
       name: Estadísticas
-      url: /
+      url: /estadisticas/
       weight: 6
     - identifier: contact
       name: Contacto

@@ -4,45 +4,64 @@ description: "Programas de doctorado apoyados por el grupo GIFINC."
 weight: 1
 ---
 
+### Doctorado en Economía Aplicada – Universidad del Valle
 
-### 🎓 Doctorado en Economía Aplicada – Universidad del Valle
+El **Doctorado en Economía Aplicada (DEA)** de la Universidad del Valle está orientado a la formación de investigadores con sólidas competencias en teoría económica y métodos cuantitativos avanzados, con énfasis en el análisis aplicado de problemáticas económicas reales. El programa promueve el uso intensivo de herramientas como la econometría, la estadística y la modelación computacional.
 
-El **Doctorado en Economía Aplicada (DEA)** de la Universidad del Valle es pionero en Colombia y el segundo en su tipo en América Latina. Su principal distintivo es su enfoque aplicado, que busca formar investigadores capaces de analizar rigurosamente problemas económicos reales mediante el uso intensivo de técnicas avanzadas de economía, estadística y computación.
-
-A diferencia de los programas tradicionales en economía que enfatizan la teoría, el DEA ofrece una formación avanzada en teoría económica y métodos empíricos, integrando un marco **interdisciplinario y transdisciplinario** que permite comprender la complejidad de fenómenos económicos contemporáneos desde múltiples perspectivas.
+Su enfoque se centra en la integración entre teoría y evidencia empírica, permitiendo abordar fenómenos económicos complejos desde una perspectiva **interdisciplinaria y basada en datos**, con impacto en políticas públicas y decisiones del sector productivo.
 
 #### Apoyo desde el Grupo GIFINC:
 - Desarrollo de investigación aplicada en **macroeconomía financiera**, **valoración de activos**, **riesgo sistémico** y **mercados energéticos**.
-- Participación de profesores del grupo como directores y codirectores de tesis.
-- Vinculación de estudiantes doctorales a semilleros de investigación y proyectos reales de análisis cuantitativo.
-- Oferta de seminarios especializados en técnicas de frontera: econometría avanzada, modelación financiera, y machine learning para economía.
+- Participación de profesores como directores y codirectores de tesis.
+- Vinculación de estudiantes a proyectos de investigación y análisis cuantitativo.
+- Formación en herramientas avanzadas como econometría, machine learning y analítica de datos.
 
-
-
-🎓 [**Ver Doctorado en Economía Aplicada**](https://economia.univalle.edu.co/doctorado-en-economia-aplicada)
-
-
-
-
+🎓 [**Ver Doctorado en Economía Aplicada**](https://socioeconomia.univalle.edu.co/82-oferta-academica/posgrado/1610-doctorado-en-economia-aplicada)
 
 ---
 
-### ⚙️ Doctorado en Ingeniería – Énfasis en Ingeniería Industrial
+### Doctorado en Administración – Universidad del Valle
 
-El **Doctorado en Ingeniería con énfasis en Ingeniería Industrial** se orienta al desarrollo de capacidades investigativas de alto nivel con una estructura curricular flexible, centrada en actividades de investigación científica, innovación y transferencia de conocimiento. El programa contempla un total de **90 créditos**, de los cuales **72 están dedicados a investigación**.
+El **Doctorado en Administración** de la Universidad del Valle está orientado a la formación de investigadores capaces de generar conocimiento en áreas como estrategia, organizaciones y gestión, con énfasis en el análisis riguroso de problemáticas empresariales y sociales.
 
-#### Estructura académica:
-- **Etapa de aspirante (42 créditos):**
-  - Asignaturas de fundamentación avanzada y de profundización (18 créditos).
-  - Seminarios de Investigación (6 créditos).
-  - Investigación I, II, III (18 créditos).
-- **Fase de candidatura (48 créditos):**
-  - Desarrollo del proyecto de investigación doctoral.
+El programa se caracteriza por su enfoque investigativo, promoviendo el desarrollo de competencias analíticas y metodológicas avanzadas, así como una visión **crítica y multidisciplinaria** de la administración en contextos complejos.
+
+#### Apoyo desde el Grupo GIFINC:
+- Investigación en **finanzas corporativas**, **gestión del riesgo** y **toma de decisiones bajo incertidumbre**.
+- Participación en dirección y evaluación de tesis doctorales.
+- Vinculación de estudiantes a proyectos de analítica financiera y estratégica.
+- Aplicación de modelos cuantitativos para el análisis organizacional.
+
+🎓 [**Ver Doctorado en Administración**](https://administracion.univalle.edu.co/doctorado/doctorado-en-administracion)
+
+---
+
+### Doctorado en Ingeniería – Énfasis en Ingeniería Industrial – Universidad del Valle
+
+El **Doctorado en Ingeniería con énfasis en Ingeniería Industrial** de la Universidad del Valle está orientado al desarrollo de competencias investigativas de alto nivel en el análisis, diseño y optimización de sistemas productivos y organizacionales. El programa tiene una fuerte orientación hacia la investigación aplicada, la innovación y la transferencia de conocimiento.
+
+Su estructura curricular es flexible y prioriza la investigación, integrando herramientas como optimización, simulación y analítica de datos para la solución de problemas complejos en entornos reales.
 
 #### Vinculación con el Grupo GIFINC:
-- Orientación de investigaciones en **analítica financiera**, **optimización de portafolios**, **riesgo en cadenas de suministro**, y **inteligencia computacional aplicada a finanzas**.
+- Investigación en **analítica financiera**, **optimización de portafolios** y **gestión del riesgo en sistemas productivos**.
 - Dirección y codirección de tesis doctorales con impacto en el sector empresarial y energético.
-- Integración de estudiantes a proyectos institucionales y convenios de colaboración internacional.
-- Soporte metodológico en econometría, simulación y modelación matemática para finanzas.
+- Integración de estudiantes a proyectos institucionales y colaboraciones académicas.
+- Aplicación de técnicas avanzadas de modelación matemática y simulación.
 
-🛠️ [**Ver Doctorado en Ingeniería**](https://ingenieria.univalle.edu.co/doctorado-en-ingenieria)
+🛠️ [**Ver Doctorado en Ingeniería**](https://industrial.univalle.edu.co/index.php/programas-academicos/programas-postgrado/doctorado-ingenieria-enfasis-ingenieria-industrial)
+
+---
+
+### Doctorado en Ingeniería – Universidad Tecnológica de Pereira
+
+El **Doctorado en Ingeniería** de la Universidad Tecnológica de Pereira está enfocado en la formación de investigadores con capacidad para generar conocimiento y desarrollar soluciones innovadoras en diversas áreas de la ingeniería. El programa promueve la investigación aplicada y el trabajo interdisciplinario.
+
+Se apoya en líneas de investigación que integran herramientas avanzadas de modelación, simulación y análisis de datos, permitiendo abordar problemáticas tecnológicas con impacto regional y nacional.
+
+#### Vinculación con el Grupo GIFINC:
+- Desarrollo de investigaciones en **optimización**, **riesgo** y **analítica de datos aplicada**.
+- Participación en dirección y acompañamiento de tesis doctorales.
+- Integración en proyectos de investigación interinstitucional.
+- Aplicación de metodologías cuantitativas para la toma de decisiones en ingeniería.
+
+🔧 [**Ver Doctorado en Ingeniería**](https://ingenierias.utp.edu.co/doctorado-ingenieria/)

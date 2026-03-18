@@ -105,17 +105,29 @@ type: page
     </thead>
     <tbody>
       <tr>
-        <td>Sustainable Optimization in the Beef Supply Chain through Innovation and Tool Development</td>
-        <td>Hernando Barreto Riaño</td>
-        <td>John Willmer Escobar Velásquez, Juan Camilo Paz Roa</td>
+        <td>An integrated supervised predictive multiobjective optimization approach to evaluate emergency medical systems (EMS) redeployment decisions in real-time</td>
+        <td>Dionicio Neira Rodado</td>
+        <td>John Willmer Escobar Velasquez, Juan Camilo Paz Roa</td>
         <td>Doctorado en Ingeniería</td>
-        <td>Feb 2025</td>
+        <td>Octubre 2025</td>
+      </tr>
+      <tr>
+        <td>Sustainable Optimization in the Beef Supply Chain through Innovation and Tool Development</td>
+        <td>Hernando Barreto Riano</td>
+        <td>John Willmer Escobar Velasquez, Juan Camilo Paz Roa</td>
+        <td>Doctorado en Ingeniería</td>
+        <td>Febrero 2025</td>
+      </tr>
+      <tr>
+        <td>Aportes para la Mejora de la Gestión del Riesgo Crediticio en el Sector de la Economía Solidaria</td>
+        <td>Ivan Mauricio Bermudez Vera</td>
+        <td>Diego Fernando Manotas Duque, Jaime Mosquera Restrepo</td>
+        <td>Doctorado en Ingeniería</td>
+        <td>Noviembre 2025</td>
       </tr>
     </tbody>
   </table>
 </div>
-
-
 
 <p id="tesisdoc2023" style="color: #800000; margin-top: 40px;"></p>
 
@@ -127,37 +139,35 @@ type: page
         <th>Título</th>
         <th>Estudiante</th>
         <th>Tutores</th>
-        <th>Programa Académico</th>
+        <th>Programa académico</th>
         <th>Fecha</th>
       </tr>
     </thead>
     <tbody>
       <tr>
+        <td>Evaluación de los efectos de los precios de la energía eléctrica sobre una región industrial: una aproximación empírica a la economía del Valle del Cauca</td>
+        <td>Andres Felipe Oviedo Gomez</td>
+        <td>Diego Fernando Manotas Duque, Sandra Milena Londono Hernandez</td>
+        <td>Doctorado en Ingeniería</td>
+        <td>Diciembre 2023</td>
+      </tr>
+      <tr>
+        <td>Issues on Valuation of Renewable Energy Projects with Non- Conventional Sources Under Risk Conditions</td>
+        <td>Yessenia Martinez Ruiz</td>
+        <td>Diego Fernando Manotas Duque, Howard Diego Ramirez Malule</td>
+        <td>Doctorado en Ingeniería</td>
+        <td>Diciembre 2023</td>
+      </tr>
+      <tr>
         <td>Topics in asset and liability management: a comparative vision between emerging and developed economies</td>
         <td>Orlando Joaqui Barandica</td>
         <td>Diego Fernando Manotas Duque, Jorge Mario Uribe Gil</td>
         <td>Doctorado en Ingeniería</td>
-        <td>Dic 2023</td>
-      </tr>
-      <tr>
-        <td>Issues on Valuation of Renewable Energy Projects with Non-Conventional Sources Under Risk Conditions</td>
-        <td>Yessenia Martinez Ruiz</td>
-        <td>Diego Fernando Manotas Duque, Howard Diego</td>
-        <td>Doctorado en Ingeniería</td>
-        <td>Dic 2023</td>
-      </tr>
-      <tr>
-        <td>Evaluación de los efectos de los precios de la energía eléctrica sobre una región industrial: una aproximación empírica a la economía del Valle del Cauca</td>
-        <td>Andres Felipe Oviedo Gomez</td>
-        <td>Diego Fernando Manotas Duque, Sandra Milena Londoño Hernández Ramírez Malule</td>
-        <td>Doctorado en Ingeniería</td>
-        <td>Dic 2023</td>
+        <td>Diciembre 2023</td>
       </tr>
     </tbody>
   </table>
 </div>
-
-
 
 <p id="tesisdoc2022" style="color: #800000; margin-top: 40px;"></p>
 
@@ -175,18 +185,15 @@ type: page
     </thead>
     <tbody>
       <tr>
-        <td>MODELO DE VALORACION FINANCIERA COMO APOYO A LOS PROCESOS DE TRANSFERENCIA Y NEGOCIACION DE UNA TECNOLOGIA EN MATERIALES BIODEGRADABLES</td>
+        <td>Modelo de valoración financiera como apoyo a los procesos de transferencia y negociación de una tecnología en materiales biodegradables</td>
         <td>Karen Lorena Delgado Muñoz</td>
-        <td>Diego Fernando Manotas Duque, Héctor Samuel Villada Castillo</td>
+        <td>Diego Fernando Manotas Duque, Hector Samuel Villada Castillo</td>
         <td>Doctorado en Ingeniería</td>
-        <td>Dic 2022</td>
+        <td>Diciembre 2022</td>
       </tr>
     </tbody>
   </table>
 </div>
-
-
-
 
 <p id="tesisdoc2019" style="color: #800000; margin-top: 40px;"></p>
 
@@ -205,19 +212,14 @@ type: page
     <tbody>
       <tr>
         <td>Issues on financial risk assessment and measurement in the international oil industry</td>
-        <td>Natalia Ximena Restrepo López</td>
+        <td>Natalia Ximena Restrepo Lopez</td>
         <td>Diego Fernando Manotas Duque, Jorge Mario Uribe Gil</td>
         <td>Doctorado en Ingeniería</td>
-        <td>Dic 2019</td>
+        <td>Diciembre 2019</td>
       </tr>
     </tbody>
   </table>
 </div>
-
-
-
-
-
 
 <p id="tesisdoc2018" style="color: #800000; margin-top: 40px;"></p>
 
@@ -235,23 +237,22 @@ type: page
     </thead>
     <tbody>
       <tr>
-        <td>Issues on financial risk measurement and management in electricity markets</td>
-        <td>Stephania Mosquera López</td>
-        <td>Jorge Mario Uribe Gil</td>
-        <td>Doctorado en Ingeniería</td>
-        <td>Dic 2018</td>
-      </tr>
-      <tr>
         <td>Gestión del riesgo operacional en cadenas de suministro considerando 3PL</td>
         <td>Juan Carlos Osorio Gómez</td>
-        <td>Diego Fernando Manotas Duque, Jorge Luis García Alcaraz, Leonardo Rivera Cadavid</td>
+        <td>Diego Fernando Manotas Duque, Jorge Luis Garcia Alcaraz, Leonardo Rivera Cadavid</td>
         <td>Doctorado en Ingeniería</td>
-        <td>Jun 2018</td>
+        <td>Junio 2018</td>
+      </tr>
+      <tr>
+        <td>Issues on financial risk measurement and management in electricity markets</td>
+        <td>Stephania Mosquera Lopez</td>
+        <td>Jorge Mario Uribe Gil</td>
+        <td>Doctorado en Ingeniería</td>
+        <td>Diciembre 2018</td>
       </tr>
     </tbody>
   </table>
 </div>
-
 
 
 

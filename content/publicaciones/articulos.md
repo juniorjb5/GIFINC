@@ -69,6 +69,7 @@ type: page
   z-index: 1000;
 ">
   <a href="#top" style="display: block; color: #800000; text-decoration: none; margin-bottom: 6px;">Inicio ↑</a>
+  <a href="#articulos2026" style="display: block; color: #800000; text-decoration: none; margin-bottom: 4px;">2026</a>
   <a href="#articulos2025" style="display: block; color: #800000; text-decoration: none; margin-bottom: 4px;">2025</a>
   <a href="#articulos2024" style="display: block; color: #800000; text-decoration: none; margin-bottom: 4px;">2024</a>
   <a href="#articulos2023" style="display: block; color: #800000; text-decoration: none; margin-bottom: 4px;">2023</a>
@@ -90,6 +91,7 @@ type: page
 
 
 <div style="margin-bottom: 10px; text-align: center;">
+  <a href="#articulos2026" style="margin: 0 10px; font-weight: bold; color: #800000; text-decoration: none;">2026</a>
   <a href="#articulos2025" style="margin: 0 10px; font-weight: bold; color: #800000; text-decoration: none;">2025</a>
   <a href="#articulos2024" style="margin: 0 10px; font-weight: bold; color: #800000; text-decoration: none;">2024</a>
   <a href="#articulos2023" style="margin: 0 10px; font-weight: bold; color: #800000; text-decoration: none;">2023</a>
@@ -112,10 +114,10 @@ type: page
 
 
 
-<p id="articulos2025" style="color: #800000; margin-top: 40px;"></p>
+<p id="articulos2026" style="color: #800000; margin-top: 40px;"></p>
 
 <div class="publications-section">
-  <h2>Artículos 2025</h2>
+  <h2>Articulos 2026</h2>
   <table class="styled-table">
     <thead>
       <tr>
@@ -126,6 +128,126 @@ type: page
       </tr>
     </thead>
     <tbody>
+      <tr>
+        <td>Energy Shocks and Coffee Market Resilience under a MachineLearning Framework with the SDI Index</td>
+        <td>Carlos Hernan Suarez Rodriguez, Diego Fernando Manotas Duque, Esteban Largo Avila</td>
+        <td>International Journal of Energy Economics and Policy</td>
+        <td><a href="https://doi.org/10.32479/ijeep.21925" target="_blank">DOI</a></td>
+      </tr>
+      <tr>
+        <td>Using DNPV Methodology to Unlock SHP¿s Energy Potential inColombia for Green Hydrogen Production</td>
+        <td>Nestor Enrique Nino Herrera, Camilo Andres Mican Rincon, Diego Fernando Manotas Duque</td>
+        <td>International Journal of Energy Economics and Policy</td>
+        <td><a href="https://doi.org/10.32479/ijeep.21879" target="_blank">DOI</a></td>
+      </tr>
+    </tbody>
+  </table>
+</div>
+
+<p id="articulos2025" style="color: #800000; margin-top: 40px;"></p>
+
+<div class="publications-section">
+  <h2>Articulos 2025</h2>
+  <table class="styled-table">
+    <thead>
+      <tr>
+        <th>Título</th>
+        <th>Autores</th>
+        <th>Revista</th>
+        <th>DOI</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>Macroeconomic drivers of financial performance in power generation firms across emerging and developed markets</td>
+        <td>Luisa Fernanda Munoz Alzate, Orlando Joaqui Barandica, Diego Fernando Manotas Duque</td>
+        <td>Entramado</td>
+        <td><a href="https://doi.org/10.18041/1900-3803/entramado.2.12885" target="_blank">DOI</a></td>
+      </tr>
+      <tr>
+        <td>Application of the LDA Model for Topic Identification: A Case Study on Dengue Diagnosis</td>
+        <td>Jennyfer Portilla Yela, Andres Felipe Palomino Montezuma, Diego Fernando Manotas Duque, Jose Rafael Tovar Cuevas</td>
+        <td>Uniciencia</td>
+        <td><a href="https://doi.org/10.15359/ru.39-1.19" target="_blank">DOI</a></td>
+      </tr>
+      <tr>
+        <td>Characterization of Colombian departments based on climatic factors, infrastructure, basic service access, and dengue incidence rate</td>
+        <td>Jennyfer Portilla Yela, Jose Rafael Tovar Cuevas, Diego Fernando Manotas Duque</td>
+        <td>Biomedica</td>
+        <td><a href="https://doi.org/10.7705/biomedica.7865" target="_blank">DOI</a></td>
+      </tr>
+      <tr>
+        <td>The Sovereign Risk Amplifies ESG Market Extremes: A Quantile-Based Factor Analysis</td>
+        <td>Oscar Walduin Orozco Ceron, Orlando Joaqui Barandica, Diego Fernando Manotas Duque</td>
+        <td>Risks</td>
+        <td><a href="https://doi.org/10.3390/risks13120245" target="_blank">DOI</a></td>
+      </tr>
+      <tr>
+        <td>Mixed-Integer Linear Programming Models for the Vehicle Routing Problem with Release Times and Reloading at Mobile Satellites</td>
+        <td>Daniel Morillo Torres, John Willmer Escobar Velasquez, Rodrigo Linfati</td>
+        <td>Mathematics</td>
+        <td><a href="https://doi.org/10.3390/math13223638" target="_blank">DOI</a></td>
+      </tr>
+      <tr>
+        <td>An Immune-Structural Adaptive Response for Viability of Carbon Capture, Use, and Storage Supply Chains</td>
+        <td>Andres Polo Roa, Daniel Morillo Torres, John Willmer Escobar Velasquez</td>
+        <td>Sustainability</td>
+        <td><a href="https://doi.org/10.3390/su17219838" target="_blank">DOI</a></td>
+      </tr>
+      <tr>
+        <td>Integrating Social Conflicts into Sustainable Decision-Making of the Forest-to-Lumber Supply Chain</td>
+        <td>Rodrigo Linfati, John Willmer Escobar Velasquez</td>
+        <td>Forests</td>
+        <td>–</td>
+      </tr>
+      <tr>
+        <td>An iterated local search based approach for a real rich vehicle routing problem with time windows</td>
+        <td>Alejandra Tabares Pozos, David Alvarez Martinez, John Willmer Escobar Velasquez</td>
+        <td>Computers Industrial Engineering</td>
+        <td><a href="https://doi.org/10.1016/j.cie.2025.111422" target="_blank">DOI</a></td>
+      </tr>
+      <tr>
+        <td>Using Markov Chains and Entropy to Explain Value at Risk in European Electricity Markets</td>
+        <td>Oscar Walduin Orozco Ceron, Orlando Joaqui Barandica, Diego Fernando Manotas Duque</td>
+        <td>Journal of Risk and Financial Management</td>
+        <td><a href="https://doi.org/10.3390/jrfm18100591" target="_blank">DOI</a></td>
+      </tr>
+      <tr>
+        <td>Dynamic Modelling of the Natural Gas Market in Colombia in the Framework of a Sustainable Energy Transition</td>
+        <td>Juan Carlos Osorio Gomez, Diego Fernando Manotas Duque</td>
+        <td>Energies</td>
+        <td><a href="https://doi.org/10.3390/en18195316" target="_blank">DOI</a></td>
+      </tr>
+      <tr>
+        <td>Evaluation of energy complementarity in colombia: An analysis of climate variability and non-conventional sources</td>
+        <td>Orlando Joaqui Barandica, Diego Fernando Manotas Duque, Leonardo Rivera Cadavid</td>
+        <td>Results in Engineering</td>
+        <td><a href="https://doi.org/10.1016/j.rineng.2025.105824" target="_blank">DOI</a></td>
+      </tr>
+      <tr>
+        <td>Sustainable Integral Optimization of Service Queues: A Human-Centered Approach Using IAM and SMAA</td>
+        <td>Rafael Guillermo Garcia Caceres, John Willmer Escobar Velasquez</td>
+        <td>Sustainability</td>
+        <td><a href="https://doi.org/10.3390/su17188179" target="_blank">DOI</a></td>
+      </tr>
+      <tr>
+        <td>A new methodology for generating personalized routes for logistics in music festivals by considering time windows</td>
+        <td>Rodrigo Linfati, John Willmer Escobar Velasquez</td>
+        <td>International Journal of Logistics Systems and Management</td>
+        <td>–</td>
+      </tr>
+      <tr>
+        <td>Toward Adaptive and Immune-Inspired Viable Supply Chains: A PRISMA Systematic Review of Mathematical Modeling Trends</td>
+        <td>Andres Polo Roa, Daniel Morillo Torres, John Willmer Escobar Velasquez</td>
+        <td>Mathematics</td>
+        <td><a href="https://doi.org/10.3390/math13142225" target="_blank">DOI</a></td>
+      </tr>
+      <tr>
+        <td>Bilevel prioritization within the energy transition framework for diversified portfolios of green hydrogen production for export</td>
+        <td>Maria Camila Aristizabal Catano, Juan Pablo Orejuela Cabrera, Diego Fernando Manotas Duque</td>
+        <td>International Journal of Energy Economics and Policy</td>
+        <td><a href="https://doi.org/10.32479/ijeep.20095" target="_blank">DOI</a></td>
+      </tr>
       <tr>
         <td>LCOE at risk in different locations in Colombia</td>
         <td>Yessenia Martinez Ruiz, Camilo Andres Mican Rincon, Diego Fernando Manotas Duque</td>
@@ -145,6 +267,12 @@ type: page
         <td>–</td>
       </tr>
       <tr>
+        <td>Interaction between armed conflicts and energy prices in Colombia</td>
+        <td>Sebastian Lopez Estrada, Orlando Joaqui Barandica, Diego Fernando Manotas Duque</td>
+        <td>International Journal of Energy Economics and Policy</td>
+        <td><a href="https://doi.org/10.32479/ijeep.16887" target="_blank">DOI</a></td>
+      </tr>
+      <tr>
         <td>The Vehicle Routing Problem with Satellites Utilization: A Systematic Review of the Literature</td>
         <td>John Willmer Escobar Velasquez, Rodrigo Linfati, Daniel Morillo Torres</td>
         <td>Mathematics</td>
@@ -157,16 +285,28 @@ type: page
         <td><a href="https://doi.org/10.3390/smartcities8020052" target="_blank">DOI</a></td>
       </tr>
       <tr>
+        <td>Common Factors in the Profitability of Energy Firms</td>
+        <td>Orlando Joaqui Barandica, Diego Fernando Manotas Duque, Jorge Mario Uribe Gil</td>
+        <td>Energy Journal</td>
+        <td><a href="https://doi.org/10.1177/01956574241280779" target="_blank">DOI</a></td>
+      </tr>
+      <tr>
         <td>Pathways to specialized renewable energy generation: insights from integer portfolio optimization in a globalized electricity market</td>
         <td>Orlando Joaqui Barandica, Diego Fernando Manotas Duque, Jorge Mario Uribe Gil</td>
         <td>Energy Sustainability and Society</td>
         <td><a href="https://doi.org/10.1186/s13705-024-00508-6" target="_blank">DOI</a></td>
       </tr>
       <tr>
-        <td>Optimizing Energy Alternatives in Colombia’s Isolated Regions: A Multi-Criteria Evaluation</td>
+        <td>Optimizing Energy Alternatives in Colombia¿s Isolated Regions: A Multi-Criteria Evaluation</td>
         <td>Luis Daniel Diaz Tapia, Pablo Cesar Manyoma Velasquez, Diego Fernando Manotas Duque</td>
         <td>International Journal of Energy Economics and Policy</td>
         <td><a href="https://doi.org/10.32479/ijeep.18048" target="_blank">DOI</a></td>
+      </tr>
+      <tr>
+        <td>LCOE at Risk in Different Locations in Colombia</td>
+        <td>Camilo Andres Mican Rincon, Yessenia Martinez Ruiz, Diego Fernando Manotas Duque</td>
+        <td>International Journal of Sustainable Energy Planning and Management</td>
+        <td><a href="https://doi.org/10.54337/ijsepm.9745" target="_blank">DOI</a></td>
       </tr>
       <tr>
         <td>A Novel Machine Learning Approach for Spatiotemporal Prediction of EMS Events: A Case Study from Barranquilla</td>
@@ -181,16 +321,28 @@ type: page
         <td><a href="https://doi.org/10.3390/risks13020020" target="_blank">DOI</a></td>
       </tr>
       <tr>
+        <td>A Comprehensive Analysis of Stock Index Connectedness and Volatility Spillovers Between Colombia, Brazil, Mexico, Chile, and the United States</td>
+        <td>Juan Manuel Candelo Viafara, Maria Del Pilar Rivera Diaz, Juan Esteban Orrego Reyes</td>
+        <td>Revista Cea</td>
+        <td><a href="https://doi.org/10.22430/24223182.3075" target="_blank">DOI</a></td>
+      </tr>
+      <tr>
         <td>Two-stage linear stochastic programming formulations for the Stochastic Vehicle Routing Problem with Backhauls and Time Windows</td>
         <td>Daniel Morillo Torres, John Willmer Escobar Velasquez</td>
         <td>International Journal of Systems Science Operations Logistics</td>
         <td><a href="https://doi.org/10.1080/23302674.2025.2451223" target="_blank">DOI</a></td>
       </tr>
       <tr>
-        <td>A Comprehensive Analysis of Stock Index Connectedness and Volatility Spillovers Between Colombia, Brazil, Mexico, Chile, and the United States</td>
-        <td>Juan Manuel Candelo Viafara, Maria del Pilar Rivera Diaz, Juan Esteban Orrego Reyes</td>
-        <td>Revista CEA</td>
-        <td><a href="https://doi.org/10.22430/24223182.3075" target="_blank">DOI</a></td>
+        <td>Optimizing Energy Alternatives in Colombia¿s Isolated Regions: A Multi-Criteria Evaluation</td>
+        <td>Victor Manuel Vargas Forero, Diego Fernando Manotas Duque</td>
+        <td>International Journal of Energy Economics and Policy</td>
+        <td><a href="https://doi.org/10.32479/ijeep.18048" target="_blank">DOI</a></td>
+      </tr>
+      <tr>
+        <td>Directional connectedness between the electricity prices and natural gas prices: evidence from Alberta¿s electricity market</td>
+        <td>Andres Felipe Oviedo Gomez, Sandra Milena Londono Hernandez, Diego Fernando Manotas Duque</td>
+        <td>Studies in Economics and Finance</td>
+        <td><a href="https://doi.org/10.1108/SEF-04-2024-0203" target="_blank">DOI</a></td>
       </tr>
       <tr>
         <td>Decision Support System to Solve the Single Container Loading Problem Considering Practical Constraints</td>
@@ -202,13 +354,10 @@ type: page
   </table>
 </div>
 
-
-
-
-<p id="articulos2024" style="color: #800000; margin-top: 40px;"> </p>
+<p id="articulos2024" style="color: #800000; margin-top: 40px;"></p>
 
 <div class="publications-section">
-  <h2>Artículos 2024</h2>
+  <h2>Articulos 2024</h2>
   <table class="styled-table">
     <thead>
       <tr>
@@ -220,153 +369,145 @@ type: page
     </thead>
     <tbody>
       <tr>
-        <td>Optimal Planning Of Oil Palm Fruit Harvest</td>
-        <td>Rafael Guillermo Garcia Caceres, John Willmer Escobar Velásquez</td>
-        <td>International Journal Of Services And Operations Management</td>
-        <td><a href="https://doi.org/10.1504/IJSOM.2024.143060" target="_blank">DOI</a></td>
-      </tr>
-      <tr>
-        <td>Common Factors In The Profitability Of Energy Firms</td>
-        <td>Orlando Joaqui Barandica, Diego Fernando Manotas Duque, Jorge Mario Uribe Gil</td>
-        <td>Energy Journal</td>
-        <td><a href="https://doi.org/10.1177/01956574241280779" target="_blank">DOI</a></td>
-      </tr>
-      <tr>
-        <td>Modelación De Redes Integradas De Transporte Urbano De Carga</td>
-        <td>John Willmer Escobar Velásquez</td>
-        <td>Revista Ingeniería Universidad De Medellín</td>
-        <td><a href="https://doi.org/10.22395/rium.v23n2a6" target="_blank">DOI</a></td>
-      </tr>
-      <tr>
-        <td>Impact Of Carbon Emission Trading Scheme On Logistics Performance</td>
-        <td>John Willmer Escobar Velásquez</td>
-        <td>Revista Ingeniería Universidad De Medellín</td>
-        <td><a href="https://doi.org/10.22395/rium.v23n2a5" target="_blank">DOI</a></td>
-      </tr>
-      <tr>
-        <td>A Combined Forecasting Method For Price Prediction In Stock Markets</td>
-        <td>Diego Fernando Manotas Duque, Jaime Mosquera Restrepo, Ivan Mauricio Bermúdez Vera</td>
-        <td>Economics, Management And Financial Markets</td>
-        <td><a href="https://doi.org/10.22381/emfm19420244" target="_blank">DOI</a></td>
-      </tr>
-      <tr>
-        <td>Transportes Urbanos De Mercancías: Implicaciones Logísticas Y Ambientales</td>
-        <td>John Willmer Escobar Velásquez, Jaime Echeverri González</td>
-        <td>Revista Ingeniería Universidad De Medellín</td>
-        <td><a href="https://doi.org/10.22395/rium.v23n2a7" target="_blank">DOI</a></td>
-      </tr>
-      <tr>
-        <td>Una Revisión Sistemática Sobre Transporte Urbano De Mercancías En América Latina</td>
-        <td>John Willmer Escobar Velásquez</td>
-        <td>Revista Ingeniería Universidad De Medellín</td>
-        <td><a href="https://doi.org/10.22395/rium.v23n2a4" target="_blank">DOI</a></td>
-      </tr>
-      <tr>
-        <td>Analysis Of The Dynamics Of Structural Change In The Colombian Economy</td>
-        <td>Diego Fernando Manotas Duque, Jorge Mario Uribe Gil</td>
-        <td>Applied Economics</td>
-        <td><a href="https://doi.org/10.1080/00036846.2024.2332836" target="_blank">DOI</a></td>
-      </tr>
-      <tr>
-        <td>Diseño De Una Herramienta De Gestión De Riesgos Estratégicos Para Una Empresa Del Sector Financiero</td>
-        <td>Diego Fernando Manotas Duque</td>
-        <td>Revista Visón Contable</td>
-        <td><a href="https://doi.org/10.24142/visc.v0i26.1561" target="_blank">DOI</a></td>
-      </tr>
-      <tr>
-        <td>Gestión Humana Y Gestión Del Conocimiento Sobre El Desempeño Organizacional De Pequeñas Y Medianas Empresas De Una Economía Emergente: Un Enfoque Al Contexto Colombiano</td>
+        <td>Gestión humana y gestión del conocimiento sobre el desempeño organizacional de pequeñas y medianas empresas de una economía emergente: un enfoque al contexto colombiano</td>
         <td>Juan Manuel Candelo Viafara, Laura Salas Arbelaez, Maria Del Pilar Rivera Diaz</td>
         <td>Ad Minister</td>
         <td><a href="https://doi.org/10.17230/Ad-minister.44.5" target="_blank">DOI</a></td>
       </tr>
       <tr>
-        <td>Non-Linear Dynamics Of Global Liquidity And Energy Sector Profitability</td>
+        <td>Optimal Planning of Oil Palm Fruit Harvest</td>
+        <td>Rafael Guillermo Garcia Caceres, John Willmer Escobar Velasquez</td>
+        <td>International Journal of Services and Operations Management</td>
+        <td><a href="https://doi.org/10.1504/IJSOM.2024.143060" target="_blank">DOI</a></td>
+      </tr>
+      <tr>
+        <td>Common Factors in the Profitability of Energy Firms</td>
+        <td>Orlando Joaqui Barandica, Diego Fernando Manotas Duque, Jorge Mario Uribe Gil</td>
+        <td>Energy Journal</td>
+        <td><a href="https://doi.org/10.1177/01956574241280779" target="_blank">DOI</a></td>
+      </tr>
+      <tr>
+        <td>Non-linear dynamics of global liquidity and energy sector profitability</td>
         <td>Orlando Joaqui Barandica, Diego Fernando Manotas Duque</td>
-        <td>Energy Sources Part B Economics Planning And Policy</td>
+        <td>Energy Sources Part B Economics Planning and Policy</td>
         <td><a href="https://doi.org/10.1080/15567249.2024.2407772" target="_blank">DOI</a></td>
       </tr>
       <tr>
-        <td>Financial Viability Of Thermal Power Generation Plants In The Transition To Renewable Energy</td>
+        <td>Financial Viability of Thermal Power Generation Plants in the Transition to Renewable Energy</td>
         <td>James Duvan Ramirez Quintero, Yessenia Martinez Ruiz, Diego Fernando Manotas Duque</td>
-        <td>International Journal Of Energy Economics And Policy</td>
+        <td>International Journal of Energy Economics and Policy</td>
         <td><a href="https://doi.org/10.32479/ijeep.16466" target="_blank">DOI</a></td>
       </tr>
       <tr>
-        <td>Multidimensional Measurement Of Energy Poverty</td>
-        <td>Orlando Joaqui Barandica, Jorge Mario Uribe Gil, Diego Fernando Manotas Duque</td>
-        <td>Energy Policy</td>
-        <td><a href="https://doi.org/10.1016/j.enpol.2024.114079" target="_blank">DOI</a></td>
+        <td>Proteins of the future: a bibliometric study of alternative food acceptance</td>
+        <td>Juan Manuel Candelo Viafara, Carlos Osorio Andrade, Carlos Alberto Arango Pastrana</td>
+        <td>Desarrollo E Innovación</td>
+        <td><a href="https://doi.org/10.19053/uptc.20278306.v14.n2.2024.18162" target="_blank">DOI</a></td>
       </tr>
       <tr>
-        <td>Data Mining To Adjust Credit Scoring Models To Economic Cycles</td>
-        <td>Jaime Mosquera Restrepo, Ivan Mauricio Bermudez Vera, Diego Fernando Manotas Duque</td>
-        <td>Risks</td>
-        <td><a href="https://doi.org/10.3390/risks12040066" target="_blank">DOI</a></td>
+        <td>Editorial Footprints</td>
+        <td>John Willmer Escobar Velasquez</td>
+        <td>Cuadernos De Administracion Universidad Del Valle</td>
+        <td>–</td>
       </tr>
       <tr>
-        <td>Cluster-Based Credit Scoring Models In The Colombian Financial System</td>
-        <td>Jaime Mosquera Restrepo, Ivan Mauricio Bermudez Vera, Diego Fernando Manotas Duque</td>
-        <td>Journal Of Risk And Financial Management</td>
-        <td><a href="https://doi.org/10.3390/jrfm17020097" target="_blank">DOI</a></td>
+        <td>Prioritization of CIFs taking into account multiple criteria for the construction of efficient portfolios</td>
+        <td>Eduar Fernando Aguirre Gonzalez, Pablo Cesar Manyoma Velasquez, Diego Fernando Manotas Duque</td>
+        <td>Cogent Business and Management</td>
+        <td><a href="https://doi.org/10.1080/23311975.2024.2371072" target="_blank">DOI</a></td>
       </tr>
       <tr>
-        <td>Machine Learning For Credit Risk Modeling In Emerging Economies</td>
-        <td>Ivan Mauricio Bermudez Vera, Jaime Mosquera Restrepo, Diego Fernando Manotas Duque</td>
-        <td>Journal Of Risk And Financial Management</td>
-        <td><a href="https://doi.org/10.3390/jrfm17030119" target="_blank">DOI</a></td>
+        <td>What elements impact academic achievement in students Colombians? A multilevel approach</td>
+        <td>Juan Manuel Candelo Viafara, Maria Del Pilar Rivera Diaz</td>
+        <td>Revista Eia</td>
+        <td><a href="https://doi.org/10.24050/reia.v21i42.1754" target="_blank">DOI</a></td>
       </tr>
       <tr>
-        <td>Digital Transformation In Public Universities In Latin America</td>
-        <td>Carlos Alberto Orozco Morales, Oscar Fernando Orozco Quintero, Diego Fernando Manotas Duque</td>
-        <td>Information</td>
-        <td><a href="https://doi.org/10.3390/info15040190" target="_blank">DOI</a></td>
+        <td>Localized Energy Poverty Index</td>
+        <td>Angelica Maria Gonzalez Ocampo, Leonardo Rivera Cadavid, Diego Fernando Manotas Duque</td>
+        <td>International Journal of Energy Economics and Policy</td>
+        <td><a href="https://doi.org/10.32479/ijeep.15931" target="_blank">DOI</a></td>
       </tr>
       <tr>
-        <td>Electric Vehicle Routing Problem With Stochastic Charging Times</td>
-        <td>John Willmer Escobar Velásquez, Rodrigo Linfati, Daniel Morillo Torres</td>
-        <td>Mathematics</td>
-        <td><a href="https://doi.org/10.3390/math12111914" target="_blank">DOI</a></td>
+        <td>Directional connectedness between the electricity prices and natural gas prices: evidence from Alberta electricity market</td>
+        <td>Andres Felipe Oviedo Gomez, Sandra Milena Londono Hernandez, Diego Fernando Manotas Duque</td>
+        <td>Studies in Economics and Finance</td>
+        <td><a href="https://doi.org/10.1108/SEF-04-2024-0203" target="_blank">DOI</a></td>
       </tr>
       <tr>
-        <td>Optimal Location Of Temporary Facilities Under Disruption Scenarios</td>
-        <td>John Willmer Escobar Velásquez, Pablo Cesar Manyoma Velásquez, Edwin Cristian Castillo</td>
-        <td>Mathematics</td>
-        <td><a href="https://doi.org/10.3390/math12030536" target="_blank">DOI</a></td>
+        <td>Exact approach for the Aggregate Production Plan Problem of Machine-Dependent Production Systems by considering stochastic parameters</td>
+        <td>Juan Camilo Paz Roa, John Willmer Escobar Velasquez, Rafael Guillermo Garcia Caceres</td>
+        <td>International Journal of Logistics Systems and Management</td>
+        <td><a href="https://doi.org/10.1504/IJLSM.2024.139960" target="_blank">DOI</a></td>
       </tr>
       <tr>
-        <td>Transportation Planning For Humanitarian Logistics</td>
-        <td>John Willmer Escobar Velásquez, Dionicio Neira Rodado</td>
-        <td>Smart Cities</td>
-        <td><a href="https://doi.org/10.3390/smartcities6010020" target="_blank">DOI</a></td>
+        <td>A metaheuristic algorithm based on Ant Colony based approach for the assigning tasks problem to a workforce with different skills</td>
+        <td>John Willmer Escobar Velasquez, David Alvarez Martinez</td>
+        <td>Decision Science Letters</td>
+        <td><a href="https://doi.org/10.5267/j.dsl.2024.3.006" target="_blank">DOI</a></td>
       </tr>
       <tr>
-        <td>Location And Routing Model For Medical Supply Distribution</td>
-        <td>Dionicio Neira Rodado, John Willmer Escobar Velásquez</td>
-        <td>Smart Cities</td>
-        <td><a href="https://doi.org/10.3390/smartcities6010021" target="_blank">DOI</a></td>
+        <td>A three-phase algorithm for the Pollution Traveling Salesman Problem</td>
+        <td>John Willmer Escobar Velasquez</td>
+        <td>Heliyon</td>
+        <td><a href="https://doi.org/10.1016/j.heliyon.2024.e29958" target="_blank">DOI</a></td>
       </tr>
       <tr>
-        <td>Multi-Objective Programming For Healthcare Facility Location</td>
-        <td>John Willmer Escobar Velásquez, Juan Camilo Paz Roa, Dionicio Neira Rodado</td>
-        <td>Mathematics</td>
-        <td><a href="https://doi.org/10.3390/math12111923" target="_blank">DOI</a></td>
+        <td>A biophysical suitability model to identify best areas for the cultivation of potential cash crops: The case of basil in Valle del Cauca</td>
+        <td>Maria Del Mar Esponda Bernal, Eduar Fernando Aguirre Gonzalez, Andres Fernando Echeverri Sanchez</td>
+        <td>Agricultural Systems</td>
+        <td><a href="https://doi.org/10.1016/j.agsy.2024.103909" target="_blank">DOI</a></td>
       </tr>
       <tr>
-        <td>Optimizing Rural Electrification In Isolated Regions</td>
-        <td>Luis Daniel Díaz Tapia, Diego Fernando Manotas Duque, Pablo Cesar Manyoma Velásquez</td>
-        <td>Energy Reports</td>
-        <td><a href="https://doi.org/10.1016/j.egyr.2024.04.006" target="_blank">DOI</a></td>
+        <td>A hybrid matheuristic approach for the integrated location routing problem of the pineapple supply chain</td>
+        <td>John Willmer Escobar Velasquez, Gustavo Gatica, David Alvarez Martinez</td>
+        <td>Decision Science Letters</td>
+        <td><a href="https://doi.org/10.5267/j.dsl.2023.12.008" target="_blank">DOI</a></td>
+      </tr>
+      <tr>
+        <td>An approach to the integral optimization of investment portfolios</td>
+        <td>Rafael Guillermo Garcia Caceres, Franklin Ignacio Paez Rivera, Bernarda Aldana Gomez, Ernesto Acosta Gempeler, John Willmer Escobar Velasquez</td>
+        <td>Journal of Open Innovation Technology Market and Complexity</td>
+        <td><a href="https://doi.org/10.1016/j.joitmc.2024.100235" target="_blank">DOI</a></td>
+      </tr>
+      <tr>
+        <td>A GRASP algorithm for the bus crew scheduling problem</td>
+        <td>David Alvarez Martinez, John Willmer Escobar Velasquez</td>
+        <td>International Journal of Industrial Engineering Computations</td>
+        <td><a href="https://doi.org/10.5267/j.ijiec.2024.1.003" target="_blank">DOI</a></td>
+      </tr>
+      <tr>
+        <td>Quantitative Techniques for Sustainable Decision Making in Forest-to-Lumber Supply Chain: A Systematic Review</td>
+        <td>Rodrigo Linfati, John Willmer Escobar Velasquez</td>
+        <td>Forests</td>
+        <td><a href="https://doi.org/10.3390/f15020297" target="_blank">DOI</a></td>
+      </tr>
+      <tr>
+        <td>Mathematical models for the electric vehicle routing problem with time windows considering different aspects of the charging process</td>
+        <td>Rodrigo Linfati, John Willmer Escobar Velasquez</td>
+        <td>Operational Research</td>
+        <td><a href="https://doi.org/10.1007/s12351-023-00806-5" target="_blank">DOI</a></td>
+      </tr>
+      <tr>
+        <td>A hybrid heuristic approach for the multi-objective multi depot vehicle routing problem</td>
+        <td>Andres Arias Londono, Walter Julian Gil Gonzalez, Oscar Danilo Montoya Giraldo, John Willmer Escobar Velasquez</td>
+        <td>International Journal of Industrial Engineering Computations</td>
+        <td><a href="https://doi.org/10.5267/j.ijiec.2023.9.006" target="_blank">DOI</a></td>
+      </tr>
+      <tr>
+        <td>Valuation of active Chilean employment support policies seeking economic sustainability through market flows</td>
+        <td>John Willmer Escobar Velasquez, Rodrigo Linfati, Guillermo Murillo Vargas</td>
+        <td>Sustainability</td>
+        <td><a href="https://doi.org/10.3390/su16020627" target="_blank">DOI</a></td>
       </tr>
     </tbody>
   </table>
 </div>
 
-
-
-<p id="articulos2023" style="color: #800000; margin-top: 40px;"> </p>
+<p id="articulos2023" style="color: #800000; margin-top: 40px;"></p>
 
 <div class="publications-section">
-  <h2>Artículos 2023</h2>
+  <h2>Articulos 2023</h2>
   <table class="styled-table">
     <thead>
       <tr>
@@ -378,194 +519,199 @@ type: page
     </thead>
     <tbody>
       <tr>
-        <td>Chronic Disease Prevalence In A Population With Structural Hemoglobin Disorders Undergoing Diabetes Diagnosis: A Bayesian Approach</td>
+        <td>Chronic disease prevalence in a population with structural hemoglobin disorders undergoing diabetes diagnosis: A bayesian approach</td>
         <td>Jose Rafael Tovar Cuevas</td>
         <td>Heliyon</td>
         <td><a href="https://doi.org/10.1016/j.heliyon.2023.e23855" target="_blank">DOI</a></td>
       </tr>
       <tr>
-        <td>Directional Predictability Between Interest Rates And The Stoxx 600 Banks Index: A Quantile Approach</td>
+        <td>Directional predictability between interest rates and the Stoxx 600 Banks index: A quantile approach</td>
         <td>Orlando Joaqui Barandica, Andres Felipe Oviedo Gomez, Diego Fernando Manotas Duque</td>
         <td>Finance Research Letters</td>
         <td><a href="https://doi.org/10.1016/j.frl.2023.104328" target="_blank">DOI</a></td>
       </tr>
       <tr>
-        <td>Exploring The Effects Of Oil And Gas Prices On Industrial Production In Colombia: A Quantile Regression Analysis</td>
+        <td>Exploring the Effects of Oil and Gas Prices on Industrial Production in Colombia: A Quantile Regression Analysis</td>
         <td>Juan Manuel Candelo Viafara, Andres Felipe Oviedo Gomez, Maria Del Pilar Rivera Diaz</td>
-        <td>International Journal Of Energy Economics And Policy</td>
+        <td>International Journal of Energy Economics and Policy</td>
         <td><a href="https://doi.org/10.32479/ijeep.14607" target="_blank">DOI</a></td>
       </tr>
       <tr>
-        <td>Reference Framework For Material Handling Equipment Selection In Distribution Centers</td>
+        <td>Reference Framework for Material Handling Equipment Selection in Distribution Centers</td>
         <td>Rafael Guillermo Garcia Caceres, John Willmer Escobar Velasquez</td>
-        <td>International Journal Of Logistics Systems And Management</td>
+        <td>International Journal of Logistics Systems and Management</td>
         <td><a href="https://doi.org/10.1504/IJLSM.2023.134796" target="_blank">DOI</a></td>
       </tr>
       <tr>
-        <td>Knowledge In Regard To Environmental Problems Among University Students In Cali, Colombia</td>
+        <td>Knowledge in Regard to Environmental Problems among University Students in Cali, Colombia</td>
         <td>Silvia Andrea Quijano Perez, Victor Alfonso Ceron Hernandez, Carlos Eduardo Guevara Fletcher, Ivan Mauricio Bermudez Vera</td>
         <td>Sustainability</td>
         <td><a href="https://doi.org/10.3390/su152115315" target="_blank">DOI</a></td>
       </tr>
       <tr>
-        <td>¿Qué Tan Sensibles Son Los Mercados Financieros Al Brote Por COVID-19? Evidencia De Los Mercados De Estados Unidos Y Colombia</td>
+        <td>¿Qué tan sensibles son los mercados financieros al brote por COVID-19? Evidencia de los mercados de Estados Unidos y Colombia</td>
         <td>James Duvan Ramirez Quintero, Jefferson Marulanda Piedrahita, Jose Rafael Tovar Cuevas, Diego Fernando Manotas Duque</td>
         <td>Revista De Metodos Cuantitativos Para La Economia Y La Empresa</td>
         <td><a href="https://doi.org/10.46661/rev.metodoscuant.econ.empresa.6431" target="_blank">DOI</a></td>
       </tr>
       <tr>
-        <td>An Iterated Local Search Algorithm For Latency Vehicle Routing Problems With Multiple Depots</td>
+        <td>An iterated local search algorithm for latency vehicle routing problems with multiple depots</td>
         <td>John Willmer Escobar Velasquez</td>
         <td>Computers Operations Research</td>
         <td><a href="https://doi.org/10.1016/j.cor.2023.106293" target="_blank">DOI</a></td>
       </tr>
       <tr>
-        <td>Methodology For The Supplier Selection And Valuation Problem By Using A Combined Grouping And Multi-Criteria Approach</td>
+        <td>Methodology for the supplier selection and valuation problem by using a combined grouping and multi-criteria approach</td>
         <td>John Willmer Escobar Velasquez, Julio Cesar Londono Ortega</td>
-        <td>International Journal Of Logistics Systems And Management</td>
+        <td>International Journal of Logistics Systems and Management</td>
         <td><a href="https://doi.org/10.1504/IJLSM.2023.134401" target="_blank">DOI</a></td>
       </tr>
       <tr>
-        <td>Inventory Routing Problem With Backhaul Considering Returnable Transport Items Collection</td>
+        <td>¿Qué tan sensibles son los mercados financieros al brote por COVID-19? Evidencia de los mercados de Estados Unidos y Colombia</td>
+        <td>Jose Rafael Tovar Cuevas</td>
+        <td>Revista De Metodos Cuantitativos Para La Economia Y La Empresa</td>
+        <td><a href="https://doi.org/10.46661/revmetodoscuanteconempresa.6431" target="_blank">DOI</a></td>
+      </tr>
+      <tr>
+        <td>Inventory routing problem with backhaul considering returnable transport items collection</td>
         <td>Julio Cesar Londono Ortega, Juan Jose Bravo Bastidas, John Willmer Escobar Velasquez</td>
-        <td>International Journal Of Industrial Engineering Computations</td>
+        <td>International Journal of Industrial Engineering Computations</td>
         <td><a href="https://doi.org/10.5267/j.ijiec.2023.6.001" target="_blank">DOI</a></td>
       </tr>
       <tr>
-        <td>Financial Risk Assessment Of A District Cooling System</td>
+        <td>Financial risk assessment of a district cooling system</td>
         <td>Yessenia Martinez Ruiz, Diego Fernando Manotas Duque, Howard Diego Ramirez Malule</td>
         <td>Energy</td>
         <td><a href="https://doi.org/10.1016/j.energy.2023.127879" target="_blank">DOI</a></td>
       </tr>
       <tr>
-        <td>A New Method For The Measurement Of Robustness In Reverse Logistics Supply Chains Based On Entropy And Nodal Importance</td>
+        <td>A new method for the measurement of robustness in reverse logistics supply chains based on entropy and nodal importance</td>
         <td>Daniel Morillo Torres, John Willmer Escobar Velasquez</td>
         <td>Computers Industrial Engineering</td>
         <td><a href="https://doi.org/10.1016/j.cie.2023.109533" target="_blank">DOI</a></td>
       </tr>
       <tr>
-        <td>Two-Stage Optimization Scheme Of Routing Scheduling From A Single Distribution Center To Multiple Customers</td>
+        <td>Two-stage optimization scheme of routing scheduling from a single distribution center to multiple customers</td>
         <td>John Willmer Escobar Velasquez, Rodrigo Linfati</td>
         <td>Operational Research</td>
         <td><a href="https://doi.org/10.1007/s12351-023-00747-z" target="_blank">DOI</a></td>
       </tr>
       <tr>
-        <td>Minimization Of Economic Losses In Photovoltaic System Cleaning Schedules Based On A Novel Methodological Framework For Performance Ratio Forecast And Cost Analysis</td>
+        <td>Minimization of Economic Losses in Photovoltaic System Cleaning Schedules Based on a Novel Methodological Framework for Performance Ratio Forecast and Cost Analysis</td>
         <td>Hernan Moncada Vega</td>
         <td>Energies</td>
         <td><a href="https://doi.org/10.3390/en16166091" target="_blank">DOI</a></td>
       </tr>
       <tr>
-        <td>Cost Of Ownership Of Spare Parts Under Uncertainty: Integrating Reliability And Costs</td>
+        <td>Cost of Ownership of Spare Parts under Uncertainty: Integrating Reliability and Costs</td>
         <td>Victor Javier Jimenez Carabali, Paulo Afonso, Orlando Mauricio Duran Acevedo</td>
         <td>Mathematics</td>
-        <td><a href="#" target="_blank">DOI</a></td>
+        <td>–</td>
       </tr>
       <tr>
-        <td>Robust Design Of A Logistics System Using FePIA Procedure And Analysis Of Trade-Offs Between CO2 Emissions And Net Present Value</td>
+        <td>Robust design of a logistics system using FePIA procedure and analysis of trade-offs between CO2 emissions and Net Present Value</td>
         <td>John Willmer Escobar Velasquez, Andres Polo Roa</td>
         <td>Heliyon</td>
         <td><a href="https://doi.org/10.1016/j.heliyon.2023.e18444" target="_blank">DOI</a></td>
       </tr>
       <tr>
-        <td>How Do Climate And Macroeconomic Factors Affect The Profitability Of The Energy Sector</td>
+        <td>How do Climate and Macroeconomic Factors Affect the Profitability of the Energy Sector</td>
         <td>Orlando Joaqui Barandica, Diego Fernando Manotas Duque</td>
-        <td>International Journal Of Energy Economics And Policy</td>
+        <td>International Journal of Energy Economics and Policy</td>
         <td><a href="https://doi.org/10.32479/ijeep.14303" target="_blank">DOI</a></td>
       </tr>
       <tr>
-        <td>Multiobjective Optimization Of Public Health Service Delivery Networks</td>
+        <td>Multiobjective Optimization of Public Health Service Delivery Networks</td>
         <td>John Willmer Escobar Velasquez, Rodrigo Linfati</td>
         <td>Ciencia E Ingeniería Neogranadina</td>
         <td><a href="https://doi.org/10.18359/rcin.6353" target="_blank">DOI</a></td>
       </tr>
       <tr>
-        <td>A New Matheheuristic Approach Based On Chu-Beasley Genetic Approach For The Multi-Depot Electric Vehicle Routing Problem</td>
+        <td>A new matheheuristic approach based on Chu-Beasley genetic approach for the multi-depot electric vehicle routing problem</td>
         <td>Andres Arias Londono, Walter Julian Gil Gonzalez, Oscar Danilo Montoya Giraldo, John Willmer Escobar Velasquez</td>
-        <td>International Journal Of Industrial Engineering Computations</td>
+        <td>International Journal of Industrial Engineering Computations</td>
         <td><a href="https://doi.org/10.5267/j.ijiec.2023.3.002" target="_blank">DOI</a></td>
       </tr>
       <tr>
-        <td>La Volatilidad De La Moneda: Un Análisis De La Tasa De Cambio Colombiana Y Los Mercados De Materias Primas Energéticas</td>
+        <td>La volatilidad de la moneda: un análisis de la tasa de cambio colombiana y los mercados de materias primas energéticas</td>
         <td>Juan Manuel Candelo Viafara, Andres Felipe Oviedo Gomez</td>
-        <td>Cuadernos De Economía</td>
+        <td>Cuadernos De Economia</td>
         <td><a href="https://doi.org/10.15446/cuad.econ.v42n89.93707" target="_blank">DOI</a></td>
       </tr>
       <tr>
-        <td>Transaction Costs In Healthcare: Empirical Evidence From Portuguese Hospitals</td>
+        <td>Transaction costs in healthcare: empirical evidence from Portuguese hospitals</td>
         <td>Victor Javier Jimenez Carabali, Paulo Afonso</td>
-        <td>Cogent Business Management</td>
+        <td>Cogent Business and Management</td>
         <td><a href="https://doi.org/10.1080/23311975.2023.2220479" target="_blank">DOI</a></td>
       </tr>
       <tr>
-        <td>The Role Of Transactional Leadership In The Social Performance Of The Maquiladora Industry</td>
+        <td>The role of transactional leadership in the social performance of the maquiladora industry</td>
         <td>Maribel Mendoza Solis, Jorge Luis Garcia Alcaraz, Liliana Avelar Sosa, Diego Fernando Manotas Duque</td>
-        <td>RBGN Revista Brasileira De Gestao De Negocios</td>
+        <td>Rbgn Revista Brasileira De Gestao De Negocios</td>
         <td><a href="https://doi.org/10.7819/rbgn.v25i2.4219" target="_blank">DOI</a></td>
       </tr>
       <tr>
-        <td>Tactical And Strategic Redesign Of Supply Chains Affected By Delocalisation</td>
+        <td>Tactical and strategic redesign of supply chains affected by delocalisation</td>
         <td>Rafael Guillermo Garcia Caceres, John Willmer Escobar Velasquez</td>
-        <td>International Journal Of Logistics Systems And Management</td>
+        <td>International Journal of Logistics Systems and Management</td>
         <td><a href="https://doi.org/10.1504/IJLSM.2023.130780" target="_blank">DOI</a></td>
       </tr>
       <tr>
-        <td>Robust Multi-Objective Mathematical Optimization Model For Closed Loop Supply Chains By Considering Financial Criteria And Scenarios</td>
+        <td>Robust multi-objective mathematical optimization model for closed loop supply chains by considering financial criteria and scenarios</td>
         <td>John Willmer Escobar Velasquez, Rafael Guillermo Garcia Caceres</td>
-        <td>International Journal Of Industrial Engineering Computations</td>
+        <td>International Journal of Industrial Engineering Computations</td>
         <td><a href="https://doi.org/10.5267/j.ijiec.2022.12.004" target="_blank">DOI</a></td>
       </tr>
       <tr>
-        <td>Optimal Dynamic Regulation With Asymmetric Information In Continuous Time: The Case Of Electric Power</td>
+        <td>Optimal Dynamic Regulation With Asymmetric Information in Continuous Time: The Case of Electric Power</td>
         <td>Juan Carlos Zambrano Jurado, Jose Gabriel Astaiza Gomez, Juan David Garcia Racines</td>
         <td>Contaduria Y Administracion</td>
         <td><a href="https://doi.org/10.22201/fca.24488410e.2023.4848" target="_blank">DOI</a></td>
       </tr>
       <tr>
-        <td>A Hybrid Modeling Approach For Resilient Agri-Supply Network Design In Emerging Countries: Colombian Coffee Supply Chain</td>
+        <td>A hybrid modeling approach for resilient agri-supply network design in emerging countries: Colombian coffee supply chain</td>
         <td>John Willmer Escobar Velasquez, Nicolas Clavijo Buritica</td>
         <td>Socio Economic Planning Sciences</td>
         <td><a href="https://doi.org/10.1016/j.seps.2022.101431" target="_blank">DOI</a></td>
       </tr>
       <tr>
-        <td>An Approach For A Multi-Period Portfolio Selection By Considering Transaction Costs And Prediction On The Stock Market</td>
+        <td>An Approach for a Multi-Period Portfolio Selection by considering Transaction Costs and Prediction on the Stock Market</td>
         <td>John Willmer Escobar Velasquez, Rodrigo Linfati</td>
         <td>Complexity</td>
         <td><a href="https://doi.org/10.1155/2023/3056411" target="_blank">DOI</a></td>
       </tr>
       <tr>
-        <td>Metaheuristic Algorithm For The Location, Routing And Packing Problem In The Collection Of Recyclable Waste</td>
+        <td>Metaheuristic algorithm for the location, routing and packing problem in the collection of recyclable waste</td>
         <td>John Willmer Escobar Velasquez, David Alvarez Martinez</td>
-        <td>International Journal Of Industrial Engineering Computations</td>
+        <td>International Journal of Industrial Engineering Computations</td>
         <td><a href="https://doi.org/10.5267/j.ijiec.2022.8.004" target="_blank">DOI</a></td>
       </tr>
       <tr>
-        <td>Price Bubbles In Lithium Markets Around The World</td>
+        <td>Price bubbles in lithium markets around the world</td>
         <td>Natalia Ximena Restrepo Lopez</td>
-        <td>Frontiers In Energy Research</td>
+        <td>Frontiers in Energy Research</td>
         <td><a href="https://doi.org/10.3389/fenrg.2023.1204179" target="_blank">DOI</a></td>
       </tr>
       <tr>
-        <td>Desafíos Y Oportunidades De La Vinaza De Caña De Azúcar. Un Análisis Bibliométrico.</td>
+        <td>Desafíos y oportunidades de la Vinaza de caña de azúcar. Un análisis bibliométrico.</td>
         <td>Howard Diego Ramirez Malule, Diego Fernando Manotas Duque</td>
-        <td>Ingeniería Y Competitividad</td>
+        <td>Ingenieria Y Competitividad</td>
         <td><a href="https://doi.org/10.25100/iyc.v25i1.12144" target="_blank">DOI</a></td>
       </tr>
       <tr>
-        <td>Directional Spillover Of Fossil Fuels Prices On A Hydrothermal Power Generation Market</td>
+        <td>Directional Spillover of Fossil Fuels Prices on a Hydrothermal Power Generation Market</td>
         <td>Andres Felipe Oviedo Gomez, Sandra Milena Londono Hernandez, Diego Fernando Manotas Duque</td>
-        <td>International Journal Of Energy Economics And Policy</td>
+        <td>International Journal of Energy Economics and Policy</td>
         <td><a href="https://doi.org/10.32479/ijeep.13641" target="_blank">DOI</a></td>
       </tr>
     </tbody>
   </table>
 </div>
 
-
-<p id="articulos2022" style="color: #800000; margin-top: 40px;"> </p>
+<p id="articulos2022" style="color: #800000; margin-top: 40px;"></p>
 
 <div class="publications-section">
-  <h2>Artículos 2022</h2>
+  <h2>Articulos 2022</h2>
   <table class="styled-table">
     <thead>
       <tr>
@@ -577,223 +723,217 @@ type: page
     </thead>
     <tbody>
       <tr>
-        <td>Estimación Clásica Y Bayesiana De La Volatilidad En El Modelo De Black-Scholes</td>
+        <td>Estimación clásica y Bayesiana de la volatilidad en el modelo de Black-Scholes</td>
         <td>Alvaro Javier Cangrejo Esquivel, Jose Rafael Tovar Cuevas, Isabel Cristina Garcia Arboleda, Diego Fernando Manotas Duque</td>
         <td>Revista De Metodos Cuantitativos Para La Economia Y La Empresa</td>
         <td><a href="https://doi.org/10.46661/5002" target="_blank">DOI</a></td>
       </tr>
       <tr>
-        <td>Estimación Clásica Y Bayesiana De La Volatilidad En El Modelo De Black-Scholes</td>
+        <td>Estimación clásica y bayesiana de la volatilidad en el modelo de Black-Scholes</td>
         <td>Alvaro Javier Cangrejo Esquivel, Jose Rafael Tovar Cuevas, Isabel Cristina Garcia Arboleda, Diego Fernando Manotas Duque</td>
         <td>Revista De Metodos Cuantitativos Para La Economia Y La Empresa</td>
         <td><a href="https://doi.org/10.46661/revmetodoscuanteconempresa.5002" target="_blank">DOI</a></td>
       </tr>
       <tr>
-        <td>Disciplinary Categorization Of The Cattle Supply Chain-A Review And Bibliometric Analysis</td>
+        <td>Disciplinary Categorization of the Cattle Supply Chain-A Review and Bibliometric Analysis</td>
         <td>John Willmer Escobar Velasquez, Hernando Barreto Riano, Rodrigo Linfati</td>
         <td>Sustainability</td>
         <td><a href="https://doi.org/10.3390/su142114275" target="_blank">DOI</a></td>
       </tr>
       <tr>
-        <td>A Model-Based Decision Framework For The Multi-Depot Multi-Traveling Salesman Problem With Split And Delivery Demand Considering Different Key Performance Indicators</td>
+        <td>A Model-Based Decision Framework for the Multi-Depot Multi-Traveling Salesman Problem with Split and Delivery Demand considering different Key Performance Indicators</td>
         <td>John Willmer Escobar Velasquez, Rodrigo Linfati</td>
-        <td>International Journal Of Industrial And Systems Engineering</td>
+        <td>International Journal of Industrial and Systems Engineering</td>
         <td><a href="https://doi.org/10.1504/IJISE.2022.127418" target="_blank">DOI</a></td>
       </tr>
       <tr>
-        <td>The Impact Analysis Of The Variation In The Price Of Oil And The Exchange Rate On The Optimal Quantity Of Orders In The Zinc Importing Companies In Colombia</td>
+        <td>The Impact Analysis of the Variation in the Price of Oil and the Exchange Rate on the Optimal Quantity of Orders in the Zinc Importing Companies in Colombia</td>
         <td>Juan Manuel Candelo Viafara, Maria Del Pilar Rivera Diaz, Jairo Andres Torres Daravina</td>
-        <td>International Journal Of Energy Economics And Policy</td>
+        <td>International Journal of Energy Economics and Policy</td>
         <td><a href="https://doi.org/10.32479/ijeep.13541" target="_blank">DOI</a></td>
       </tr>
       <tr>
-        <td>Commonality, Macroeconomic Factors And Banking Profitability</td>
+        <td>Commonality, macroeconomic factors and banking profitability</td>
         <td>Orlando Joaqui Barandica, Diego Fernando Manotas Duque, Jorge Mario Uribe Gil</td>
-        <td>North American Journal Of Economics And Finance</td>
+        <td>North American Journal of Economics and Finance</td>
         <td><a href="https://doi.org/10.1016/j.najef.2022.101714" target="_blank">DOI</a></td>
       </tr>
       <tr>
-        <td>Technoeconomic Comparison Of Scenarios For The Configuration Of The Renewable Hydrogen Supply Chain In Colombia</td>
+        <td>Technoeconomic Comparison of Scenarios for the Configuration of the Renewable Hydrogen Supply Chain in Colombia</td>
         <td>Yovany Arley Erazo Cifuentes, Juan Pablo Orejuela Cabrera, Diego Fernando Manotas Duque</td>
-        <td>International Journal Of Energy Economics And Policy</td>
+        <td>International Journal of Energy Economics and Policy</td>
         <td><a href="https://doi.org/10.32479/ijeep.13576" target="_blank">DOI</a></td>
       </tr>
       <tr>
-        <td>Mathematical Models For The Vehicle Routing Problem By Considering Balancing Load And Customer Compactness</td>
+        <td>Mathematical models for the Vehicle Routing Problem by considering Balancing Load and Customer Compactness</td>
         <td>John Willmer Escobar Velasquez</td>
         <td>Sustainability</td>
         <td><a href="https://doi.org/10.3390/su141912937" target="_blank">DOI</a></td>
       </tr>
       <tr>
-        <td>Aplicación De Técnicas De Decisión Multicriterio Para La Priorización De Perfiles Docentes Universitarios</td>
+        <td>Aplicación de técnicas de decisión multicriterio para la priorización de perfiles docentes universitarios</td>
         <td>Eduar Fernando Aguirre Gonzalez, Julian Patino Rivera, Lewin Andres Lopez Lopez, Victor Manuel Vargas Forero</td>
         <td>Ingeniería Y Competitividad</td>
         <td><a href="https://doi.org/10.25100/iyc.v25i1" target="_blank">DOI</a></td>
       </tr>
       <tr>
-        <td>Design And Formulation Of An Inventory Management System For Raw Materials By Using Multi-Criteria Methods And Fuzzy Approach</td>
+        <td>Design and formulation of an inventory management system for raw materials by using multi-criteria methods and fuzzy approach</td>
         <td>John Willmer Escobar Velasquez, William Andres Ocampo Duque</td>
-        <td>International Journal Of Logistics Systems And Management</td>
+        <td>International Journal of Logistics Systems and Management</td>
         <td><a href="https://doi.org/10.1504/IJLSM.2022.125678" target="_blank">DOI</a></td>
       </tr>
       <tr>
-        <td>A New Metaheuristic Approach For The Meat Routing Problem By Considering Heterogeneous Fleet With Time Windows</td>
+        <td>A new metaheuristic approach for the meat routing problem by considering heterogeneous fleet with time windows</td>
         <td>John Willmer Escobar Velasquez, Hernando Barreto Riano, Nicolas Clavijo Buritica</td>
-        <td>International Journal Of Industrial Engineering Computations</td>
+        <td>International Journal of Industrial Engineering Computations</td>
         <td><a href="https://doi.org/10.5267/j.ijiec.2022.5.001" target="_blank">DOI</a></td>
       </tr>
       <tr>
-        <td>Supply Chain Design With Financial Criteria. A Necessity?</td>
+        <td>Supply chain design with financial criteria. A necessity?</td>
         <td>John Willmer Escobar Velasquez</td>
         <td>Cuadernos De Administracion Universidad Del Valle</td>
         <td><a href="https://doi.org/10.25100/cdea.v38i73.12438" target="_blank">DOI</a></td>
       </tr>
       <tr>
-        <td>A Multiobjective Stochastic Optimization Scheme For The Problem Of Chemical Production For Sugarcane Companies</td>
+        <td>A multiobjective stochastic optimization scheme for the problem of chemical production for sugarcane companies</td>
         <td>John Willmer Escobar Velasquez, William Andres Ocampo Duque</td>
         <td>Ciencia E Ingeniería Neogranadina</td>
         <td><a href="https://doi.org/10.18359/rcin.5811" target="_blank">DOI</a></td>
       </tr>
       <tr>
-        <td>Factores Asociados Al Emprendimiento De Migrantes Colombianos Retornados: Una Aproximación Bayesiana</td>
+        <td>Factores asociados al emprendimiento de migrantes colombianos retornados: una aproximación Bayesiana</td>
         <td>Jose Rafael Tovar Cuevas, Claudia Lorena Zuniga Martinez, Luis Miguel Tovar Cuevas</td>
         <td>Revista De Metodos Cuantitativos Para La Economia Y La Empresa</td>
-        <td><a href="#" target="_blank">DOI</a></td>
+        <td>–</td>
       </tr>
       <tr>
-        <td>Evaluation Of Energy Potential From Coffee Pulp In A Hydrothermal Power Market Through System Dynamics: The Case Of Colombia</td>
+        <td>Evaluation of Energy Potential from Coffee Pulp in a Hydrothermal Power Market through System Dynamics: The Case of Colombia</td>
         <td>Yessenia Martinez Ruiz, Diego Fernando Manotas Duque, Juan Carlos Osorio Gomez, Howard Diego Ramirez Malule</td>
         <td>Sustainability</td>
         <td><a href="https://doi.org/10.3390/su14105884" target="_blank">DOI</a></td>
       </tr>
       <tr>
-        <td>A Hybrid Matheuristic Approach For The Vehicle Routing Problem With Three-Dimensional Loading Constraints</td>
+        <td>A hybrid matheuristic approach for the vehicle routing problem with three-dimensional loading constraints</td>
         <td>John Willmer Escobar Velasquez, David Alvarez Martinez</td>
-        <td>International Journal Of Industrial Engineering Computations</td>
+        <td>International Journal of Industrial Engineering Computations</td>
         <td><a href="https://doi.org/10.5267/j.ijiec.2022.1.002" target="_blank">DOI</a></td>
       </tr>
       <tr>
-        <td>Priorización De Áreas Para Alto Volumen De Carga Y Descarga. Caso: Santiago De Cali</td>
+        <td>Priorización de áreas para alto volumen de carga y descarga. Caso: Santiago de Cali</td>
         <td>Eduar Fernando Aguirre Gonzalez</td>
         <td>Ingeniería Y Competitividad</td>
         <td><a href="https://doi.org/10.25100/iyc.v24i2.11599" target="_blank">DOI</a></td>
       </tr>
       <tr>
-        <td>Selection Of Learning Strategies Supported On SMAA-M</td>
+        <td>Selection of Learning Strategies Supported on SMAA-M</td>
         <td>Rafael Guillermo Garcia Caceres, John Willmer Escobar Velasquez</td>
         <td>Heliyon</td>
         <td><a href="https://doi.org/10.1016/j.heliyon.2022.e08978" target="_blank">DOI</a></td>
       </tr>
       <tr>
-        <td>A Multi-Objective Mathematical Model For The Design Of A Closed Cycle Green Distribution Network Of Mass Consumption Products</td>
+        <td>A multi-objective mathematical model for the design of a closed cycle green distribution network of mass consumption products</td>
         <td>John Willmer Escobar Velasquez, Jose Luis Gerardo Ramirez Duque</td>
-        <td>International Journal Of Services And Operations Management</td>
+        <td>International Journal of Services and Operations Management</td>
         <td><a href="https://doi.org/10.1504/IJSOM.2022.121697" target="_blank">DOI</a></td>
       </tr>
       <tr>
-        <td>Estadística Básica Y Formación De Los Profesionales De La Salud</td>
-        <td>Jose Rafael Tovar Cuevas</td>
-        <td>Educacion Medica</td>
-        <td><a href="https://doi.org/10.1016/j.edumed.2021.11.001" target="_blank">DOI</a></td>
-      </tr>
-      <tr>
-        <td>Ambulances Deployment Problems: Categorization, Evolution And Dynamic Problems Review</td>
+        <td>Ambulances Deployment Problems: Categorization, Evolution and Dynamic Problems Review</td>
         <td>Dionicio Neira Rodado, John Willmer Escobar Velasquez</td>
-        <td>ISPRS International Journal Of Geo-Information</td>
-        <td><a href="https://doi.org/10.3390/ijgi11020109" target="_blank">DOI</a></td>
-      </tr>
-      <tr>
-        <td>Mathematical Model For The Electric Vehicle Routing Problem Considering The State Of Charge Of The Batteries</td>
-        <td>John Willmer Escobar Velasquez, Rodrigo Linfati</td>
-        <td>Sustainability</td>
+        <td>Isprs International Journal of Geo Information</td>
         <td><a href="https://doi.org/10.3390/su14031645" target="_blank">DOI</a></td>
       </tr>
       <tr>
-        <td>A Granular Tabu Search For The Refrigerated Vehicle Routing Problem With Homogeneous Fleet</td>
-        <td>John Willmer Escobar Velasquez, Jose Luis Gerardo Ramirez Duque, Rafael Guillermo Garcia Caceres</td>
-        <td>International Journal Of Industrial Engineering Computations</td>
+        <td>Mathematical Model for the Electric Vehicle Routing Problem Considering the State of Charge of the Batteries</td>
+        <td>John Willmer Escobar Velasquez, Rodrigo Linfati</td>
+        <td>Sustainability</td>
         <td><a href="https://doi.org/10.5267/j.ijiec.2021.6.001" target="_blank">DOI</a></td>
       </tr>
       <tr>
-        <td>Inventory Routing Problem Categorisation Considering Pickup Decisions In Closed-Loop Supply Chains</td>
-        <td>John Willmer Escobar Velasquez, Juan Jose Bravo Bastidas, Julio Cesar Londono Ortega</td>
-        <td>International Journal Of Integrated Supply Management</td>
+        <td>A granular tabu search for the refrigerated vehicle routing problem with homogeneous fleet</td>
+        <td>John Willmer Escobar Velasquez, Jose Luis Gerardo Ramirez Duque, Rafael Guillermo Garcia Caceres</td>
+        <td>International Journal of Industrial Engineering Computations</td>
         <td><a href="https://doi.org/10.1504/IJISM.2022.119584" target="_blank">DOI</a></td>
       </tr>
       <tr>
-        <td>Optimisation Of Multi-Objective Supply Chain Networks Considering Cost Minimisation And Environmental Criteria</td>
-        <td>John Willmer Escobar Velasquez, Juan Camilo Paz Roa</td>
-        <td>International Journal Of Industrial And Systems Engineering</td>
+        <td>Inventory routing problem categorisation considering pickup decisions in closed-loop supply chains</td>
+        <td>John Willmer Escobar Velasquez, Juan Jose Bravo Bastidas, Julio Cesar Londono Ortega</td>
+        <td>International Journal of Integrated Supply Management</td>
         <td><a href="https://doi.org/10.1504/IJISE.2022.120805" target="_blank">DOI</a></td>
       </tr>
       <tr>
-        <td>Strategy For Locating People To Reduce The Transmission Of COVID-19 Using Different Interference Measures</td>
-        <td>John Willmer Escobar Velasquez, Rodrigo Linfati</td>
-        <td>Sustainability</td>
+        <td>Optimisation of multi-objective supply chain networks considering cost minimisation and environmental criteria</td>
+        <td>John Willmer Escobar Velasquez, Juan Camilo Paz Roa</td>
+        <td>International Journal of Industrial and Systems Engineering</td>
         <td><a href="https://doi.org/10.3390/su14010529" target="_blank">DOI</a></td>
       </tr>
       <tr>
-        <td>AHP TOPSIS Methodology For Stock Portfolio Investments</td>
-        <td>Jaime Alberto Vasquez Bernal, John Willmer Escobar Velasquez, Diego Fernando Manotas Duque</td>
-        <td>Risks</td>
+        <td>Strategy for Locating People to Reduce the Transmission of COVID-19 Using Different Interference Measures</td>
+        <td>John Willmer Escobar Velasquez, Rodrigo Linfati</td>
+        <td>Sustainability</td>
         <td><a href="https://doi.org/10.3390/risks10010004" target="_blank">DOI</a></td>
       </tr>
       <tr>
-        <td>Measurement Of Systemic Risk In The Colombian Banking Sector</td>
-        <td>John Willmer Escobar Velasquez, Diego Fernando Manotas Duque</td>
+        <td>AHP TOPSIS Methodology for Stock Portfolio Investments</td>
+        <td>Jaime Alberto Vasquez Bernal, John Willmer Escobar Velasquez, Diego Fernando Manotas Duque</td>
         <td>Risks</td>
         <td><a href="https://doi.org/10.3390/risks10010022" target="_blank">DOI</a></td>
       </tr>
       <tr>
-        <td>Gestión De Activos Y Pasivos: Un Análisis Bibliométrico Y Modelación De Temas</td>
-        <td>Orlando Joaqui Barandica, Diego Fernando Manotas Duque</td>
-        <td>Entramado</td>
+        <td>Measurement of Systemic Risk in the Colombian Banking Sector</td>
+        <td>John Willmer Escobar Velasquez, Diego Fernando Manotas Duque</td>
+        <td>Risks</td>
         <td><a href="https://doi.org/10.18041/1900-3803/" target="_blank">DOI</a></td>
       </tr>
       <tr>
-        <td>Diseño De Un Modelo De Costos Basado En Actividades Aplicado A Procesos Logísticos. Caso: Empresa Del Sector Alimenticio Tradicional</td>
-        <td>Eduar Fernando Aguirre Gonzalez</td>
-        <td>Revista Eia</td>
+        <td>Gestión de Activos y Pasivos: Un análisis bibliométrico y modelación de temas</td>
+        <td>Orlando Joaqui Barandica, Diego Fernando Manotas Duque</td>
+        <td>Entramado</td>
         <td><a href="https://doi.org/10.24050/reia.v19i37.1512" target="_blank">DOI</a></td>
       </tr>
       <tr>
-        <td>AHP TOPSIS Methodology For Stock Portfolio Investments</td>
-        <td>John Willmer Escobar Velasquez, Diego Fernando Manotas Duque</td>
-        <td>Risks</td>
+        <td>Diseño de un modelo de costos basado en actividades aplicado a procesos logísticos. Caso: empresa del sector alimenticio tradicional</td>
+        <td>Eduar Fernando Aguirre Gonzalez</td>
+        <td>Revista Eia</td>
         <td><a href="https://doi.org/10.3390/risks10010004" target="_blank">DOI</a></td>
       </tr>
       <tr>
-        <td>Measurement Of Systemic Risk In The Colombian Banking Sector</td>
+        <td>AHP-TOPSIS Methodology for Stock Portfolio Investments</td>
         <td>John Willmer Escobar Velasquez, Diego Fernando Manotas Duque</td>
         <td>Risks</td>
         <td><a href="https://doi.org/10.3390/risks10010022" target="_blank">DOI</a></td>
       </tr>
       <tr>
-        <td>Exact Algorithms For Production Planning In Mining Considering The Use Of Stockpiles And Sequencing Of Power Shovels In Open‑Pit Mines</td>
-        <td>John Willmer Escobar Velasquez, Rodrigo Linfati</td>
-        <td>Operational Research</td>
+        <td>Measurement of Systemic Risk in the Colombian Banking Sector</td>
+        <td>John Willmer Escobar Velasquez, Diego Fernando Manotas Duque</td>
+        <td>Risks</td>
         <td><a href="https://doi.org/10.1007/s12351-020-00618-x" target="_blank">DOI</a></td>
       </tr>
       <tr>
-        <td>Estimación De Los Límites Aceptables De Tolerancia Del Costo En Ambientes De Incertidumbre Utilizando Simulación De Monte Carlo</td>
-        <td>Victor Javier Jimenez Carabali</td>
-        <td>Ingeniería Y Competitividad</td>
+        <td>Exact algorithms for production planning in mining considering the use of stockpiles and sequencing of power shovels in open‑pit mines</td>
+        <td>John Willmer Escobar Velasquez, Rodrigo Linfati</td>
+        <td>Operational Research</td>
         <td><a href="https://doi.org/10.25100/iyc.v24i02.11551" target="_blank">DOI</a></td>
       </tr>
       <tr>
-        <td>Propuesta Para Obtener Distribuciones Previas Para Los Parámetros De La Distribución Beta</td>
+        <td>Estimación de los límites aceptables de tolerancia del costo en ambientes de incertidumbre utilizando simulación de Monte Carlo</td>
+        <td>Victor Javier Jimenez Carabali</td>
+        <td>Ingenieria Y Competitividad</td>
+        <td>–</td>
+      </tr>
+      <tr>
+        <td>Propuesta para obtener distribuciones previas para los parámetros de la distribución Beta</td>
         <td>Luis Gabriel Arroyo Bravo, Fabian Alejandro Lasso Balanta, Jose Rafael Tovar Cuevas</td>
         <td>Investigacion Operacional</td>
-        <td><a href="#" target="_blank">DOI</a></td>
+        <td><a href="https://doi.org/10.25100/cdea.v37i71.11826" target="_blank">DOI</a></td>
       </tr>
     </tbody>
   </table>
 </div>
 
-<p id="articulos2021" style="color: #800000; margin-top: 40px;"> </p>
+<p id="articulos2021" style="color: #800000; margin-top: 40px;"></p>
 
 <div class="publications-section">
-  <h2>Artículos 2021</h2>
+  <h2>Articulos 2021</h2>
   <table class="styled-table">
     <thead>
       <tr>
@@ -805,104 +945,97 @@ type: page
     </thead>
     <tbody>
       <tr>
-        <td>Is There An International Logistic Crisis Due To Pandemic COVID-19?</td>
+        <td>Is there an international logistic crisis due to pandemic COVID-19?</td>
         <td>John Willmer Escobar Velasquez</td>
         <td>Cuadernos De Administracion Universidad Del Valle</td>
-        <td><a href="https://doi.org/10.25100/cdea.v37i71.11826" target="_blank">DOI</a></td>
-      </tr>
-      <tr>
-        <td>The Periodic Location-Routing With Selective Recycling Problem: Two Solution Approaches</td>
-        <td>Daniel Morillo Torres, John Willmer Escobar Velasquez, Rodrigo Linfati, Gustavo Gatica</td>
-        <td>IFAC-PapersOnLine</td>
         <td><a href="https://doi.org/10.1016/j.ifacol.2021.08.092" target="_blank">DOI</a></td>
       </tr>
       <tr>
-        <td>A Mathematical Model For Scheduling And Assignment Of Customers In Hospital Waste Collection Routes</td>
-        <td>Rodrigo Linfati, Gustavo Gatica, John Willmer Escobar Velasquez</td>
-        <td>Applied Sciences-Basel</td>
+        <td>The Periodic Location-Routing with Selective Recycling Problem: Two Solution Approaches</td>
+        <td>Daniel Morillo Torres, John Willmer Escobar Velasquez, Rodrigo Linfati, Gustavo Gatica</td>
+        <td>Ifac Papersonline</td>
         <td><a href="https://doi.org/10.3390/app112210557" target="_blank">DOI</a></td>
       </tr>
       <tr>
-        <td>Effects Of The COVID-19 Pandemic On The Spot Price Of Colombian Electricity</td>
-        <td>Andres Felipe Oviedo Gomez, Sandra Milena Londono Hernandez, Diego Fernando Manotas Duque</td>
-        <td>Energies</td>
+        <td>A Mathematical Model for Scheduling and Assignment of Customers in Hospital Waste Collection Routes</td>
+        <td>Rodrigo Linfati, Gustavo Gatica, John Willmer Escobar Velasquez</td>
+        <td>Applied Sciences Basel</td>
         <td><a href="https://doi.org/10.3390/en14216989" target="_blank">DOI</a></td>
       </tr>
       <tr>
-        <td>La Tasa De Cambio Y Sus Impactos En Los Agregados Económicos Colombianos: Una Aproximación FAVAR</td>
-        <td>Juan Manuel Candelo Viafara, Andres Felipe Oviedo Gomez</td>
-        <td>Revista Facultad De Ciencias Económicas: Investigación Y Reflexión</td>
+        <td>Effects of the COVID-19 Pandemic on the Spot Price of Colombian Electricity</td>
+        <td>Andres Felipe Oviedo Gomez, Sandra Milena Londono Hernandez, Diego Fernando Manotas Duque</td>
+        <td>Energies</td>
         <td><a href="https://doi.org/10.18359/rfce.5256" target="_blank">DOI</a></td>
       </tr>
       <tr>
-        <td>Heuristic Algorithm Based On Ant Colony Optimization For The Capacitated Location-Routing Problem With Homogeneous Fleet</td>
-        <td>John Willmer Escobar Velasquez, Rodrigo Linfati, Gustavo Gatica</td>
-        <td>Espacios</td>
+        <td>La tasa de cambio y sus impactos en los agregados económicos colombianos: una aproximación FAVAR</td>
+        <td>Juan Manuel Candelo Viafara, Andres Felipe Oviedo Gomez</td>
+        <td>Revista Facultad De Ciencias Económicas: Investigación Y Reflexión</td>
         <td><a href="https://doi.org/10.48082/espacios-a21v42n16p01" target="_blank">DOI</a></td>
       </tr>
       <tr>
-        <td>Análisis De Opciones Reales Para La Valoración Financiera De Proyectos De Energía Geotérmica En Colombia</td>
-        <td>Yessenia Martinez Ruiz, Diego Fernando Manotas Duque, Howard Diego Ramirez Malule</td>
-        <td>Revista CEA</td>
+        <td>Heuristic algorithm based on Ant Colony Optimization for the Capacitated Location-Routing problem with Homogeneous Fleet</td>
+        <td>John Willmer Escobar Velasquez, Rodrigo Linfati, Gustavo Gatica</td>
+        <td>Espacios</td>
         <td><a href="https://doi.org/10.22430/24223182.1944" target="_blank">DOI</a></td>
       </tr>
       <tr>
-        <td>Dislipidemia Y Estrés En Estudiantes Universitarios: Un Enemigo Silencioso</td>
-        <td>Jessica Lopez Pelaez, Ivan Mauricio Bermudez Vera, Alba Aydee Alvarez Ramirez</td>
-        <td>Revista De Ciencias Sociales</td>
-        <td><a href="#" target="_blank">DOI</a></td>
+        <td>Análisis de opciones reales para la valoración financiera de proyectos de energía geotérmica en Colombia</td>
+        <td>Yessenia Martinez Ruiz, Diego Fernando Manotas Duque, Howard Diego Ramirez Malule</td>
+        <td>Revista Cea</td>
+        <td>–</td>
       </tr>
       <tr>
-        <td>Modelo Multicriterio Para El Diseño De Cadenas De Suministro Considerando Opciones Reales Para El Tratamiento De La Incertidumbre</td>
-        <td>Victor Javier Jimenez Carabali, Diego Fernando Manotas Duque, Leonardo Rivera Cadavid</td>
-        <td>Scientia Et Technica</td>
+        <td>Dislipidemia y estrés en estudiantes universitarios: un enemigo silencioso</td>
+        <td>Jessica Lopez Pelaez, Ivan Mauricio Bermudez Vera, Alba Aydee Alvarez Ramirez</td>
+        <td>Revista De Ciencias Sociales</td>
         <td><a href="https://doi.org/10.22517/23447214.24543" target="_blank">DOI</a></td>
       </tr>
       <tr>
-        <td>Electricity Price Fundamentals In Hydrothermal Power Generation Markets Using Machine Learning And Quantile Regression Analysis</td>
-        <td>Andres Felipe Oviedo Gomez, Sandra Milena Londono Hernandez, Diego Fernando Manotas Duque</td>
-        <td>International Journal Of Energy Economics And Policy</td>
+        <td>Modelo Multicriterio para el Diseño de Cadenas de Suministro Considerando Opciones Reales para el Tratamiento de la Incertidumbre</td>
+        <td>Victor Javier Jimenez Carabali, Diego Fernando Manotas Duque, Leonardo Rivera Cadavid</td>
+        <td>Scientia Et Technica</td>
         <td><a href="https://doi.org/10.32479/ijeep.11346" target="_blank">DOI</a></td>
       </tr>
       <tr>
-        <td>Redesign Of Supply Chains For Agricultural Companies Considering Multiple Scenarios By The Methodology Of Sample Average Approximation</td>
-        <td>John Willmer Escobar Velasquez, Julio Cesar Londono Ortega</td>
-        <td>International Journal Of Business Performance And Supply Chain Modelling</td>
+        <td>Electricity Price Fundamentals in Hydrothermal Power Generation Markets Using Machine Learning and Quantile Regression Analysis</td>
+        <td>Andres Felipe Oviedo Gomez, Sandra Milena Londono Hernandez, Diego Fernando Manotas Duque</td>
+        <td>International Journal of Energy Economics and Policy</td>
         <td><a href="https://doi.org/10.1504/IJBPSCM.2021.114748" target="_blank">DOI</a></td>
       </tr>
       <tr>
-        <td>Sustainable Supply Chain Design Considering Indicators Of Value Creation</td>
-        <td>Martha Lucia Sabogal De La Pava, Carlos Julio Vidal Holguin, Diego Fernando Manotas Duque, Juan Jose Bravo Bastidas</td>
-        <td>Computers Industrial Engineering</td>
+        <td>Redesign of supply chains for agricultural companies considering multiple scenarios by the methodology of sample average approximation</td>
+        <td>John Willmer Escobar Velasquez, Julio Cesar Londono Ortega</td>
+        <td>International Journal of Business Performance and Supply Chain Modelling</td>
         <td><a href="https://doi.org/10.1016/j.cie.2021.107294" target="_blank">DOI</a></td>
       </tr>
       <tr>
-        <td>Diagnostic Accuracy Of The Rome IV Criteria For The Diagnostic Of Functional Gastrointestinal Disorders In Children</td>
-        <td>Carlos Alberto Velasco Benitez, Lina Marcela Rubio Molina, Lina Fernanda Gomez Oliveros, Jose Rafael Tovar Cuevas, Miguel Saps</td>
-        <td>Journal Of Pediatric Gastroenterology And Nutrition</td>
-        <td><a href="https://doi.org/10.1097/MPG.0000000000003030" target="_blank">DOI</a></td>
-      </tr>
-      <tr>
-        <td>A Simulated Annealing-Based Approach For A Real Case Study Of Vehicle Routing Problem With A Heterogeneous Fleet And Time Windows</td>
-        <td>John Willmer Escobar Velasquez, Jose Bernal Moyano, Rodrigo Linfati</td>
-        <td>International Journal Of Shipping And Transport Logistics</td>
+        <td>Sustainable Supply Chain Design Considering Indicators of Value Creation</td>
+        <td>Martha Lucia Sabogal De La Pava, Carlos Julio Vidal Holguin, Diego Fernando Manotas Duque, Juan Jose Bravo Bastidas</td>
+        <td>Computers Industrial Engineering</td>
         <td><a href="https://doi.org/10.1504/IJSTL.2021.112923" target="_blank">DOI</a></td>
       </tr>
       <tr>
-        <td>Evaluation Of Investment Projects In Photovoltaic Solar Energy Using The DNPV Methodology</td>
-        <td>Yessenia Martinez Ruiz, Diego Fernando Manotas Duque, Howard Diego Ramirez Malule</td>
-        <td>International Journal Of Energy Economics And Policy</td>
+        <td>A simulated annealing-based approach for a real case study of vehicle routing problem with a heterogeneous fleet and time windows</td>
+        <td>John Willmer Escobar Velasquez, Jose Bernal Moyano, Rodrigo Linfati</td>
+        <td>International Journal of Shipping and Transport Logistics</td>
         <td><a href="https://doi.org/10.32479/ijeep.10577" target="_blank">DOI</a></td>
+      </tr>
+      <tr>
+        <td>Evaluation of Investment Projects in Photovoltaic Solar Energy using the DNPV Methodology</td>
+        <td>Yessenia Martinez Ruiz, Diego Fernando Manotas Duque, Howard Diego Ramirez Malule</td>
+        <td>International Journal of Energy Economics and Policy</td>
+        <td><a href="https://doi.org/10.1016/j.resourpol.2020.101808" target="_blank">DOI</a></td>
       </tr>
     </tbody>
   </table>
 </div>
 
-
-<p id="articulos2020" style="color: #800000; margin-top: 40px;"> </p>
+<p id="articulos2020" style="color: #800000; margin-top: 40px;"></p>
 
 <div class="publications-section">
-  <h2>Artículos 2020</h2>
+  <h2>Articulos 2020</h2>
   <table class="styled-table">
     <thead>
       <tr>
@@ -914,135 +1047,133 @@ type: page
     </thead>
     <tbody>
       <tr>
-        <td>Dynamic Capital Structure Under Changing Market Conditions In The Oil Industry: An Empirical Investigation</td>
+        <td>Dynamic capital structure under changing market conditions in the oil industry: An empirical investigation</td>
         <td>Natalia Ximena Restrepo Lopez, Jorge Mario Uribe Gil, Diego Fernando Manotas Duque</td>
         <td>Resources Policy</td>
-        <td><a href="https://doi.org/10.1016/j.resourpol.2020.101808" target="_blank">DOI</a></td>
-      </tr>
-      <tr>
-        <td>Using Agile Project Management In The Design And Implementation Of Activity-Based Costing Systems</td>
-        <td>Victor Javier Jimenez Carabali</td>
-        <td>Sustainability</td>
         <td><a href="https://doi.org/10.3390/su122410352" target="_blank">DOI</a></td>
       </tr>
       <tr>
-        <td>Mathematical Optimization Model For Truck Scheduling In A Distribution Center With A Mixed Service-Mode Dock Area</td>
-        <td>John Willmer Escobar Velasquez, Rodrigo Linfati</td>
-        <td>Journal Of Advanced Transportation</td>
+        <td>Using Agile Project Management in the Design and Implementation of Activity-Based Costing Systems</td>
+        <td>Victor Javier Jimenez Carabali</td>
+        <td>Sustainability</td>
         <td><a href="https://doi.org/10.1155/2020/8813372" target="_blank">DOI</a></td>
       </tr>
       <tr>
-        <td>Mathematical Model For Valuating Options</td>
-        <td>Alvaro Javier Cangrejo Esquivel, Jose Rafael Tovar Cuevas, Faiber Ignacio Robayo Betancourt</td>
-        <td>ARPN Journal Of Engineering And Applied Sciences</td>
-        <td></td>
+        <td>Mathematical Optimization Model for Truck Scheduling in a Distribution Center with a Mixed Service-Mode Dock Area</td>
+        <td>John Willmer Escobar Velasquez, Rodrigo Linfati</td>
+        <td>Journal of Advanced Transportation</td>
+        <td>–</td>
       </tr>
       <tr>
-        <td>An Exact Approach For The Consistent Vehicle Routing Problem (ConVRP)</td>
-        <td>John Willmer Escobar Velasquez, Rodrigo Linfati</td>
-        <td>Advances In Production Engineering & Management</td>
+        <td>Mathematical model for valuating options</td>
+        <td>Alvaro Javier Cangrejo Esquivel, Jose Rafael Tovar Cuevas, Faiber Ignacio Robayo Betancourt</td>
+        <td>Arpn Journal of Engineering and Applied Sciences</td>
         <td><a href="https://doi.org/10.14743/apem2020.3.363" target="_blank">DOI</a></td>
       </tr>
       <tr>
-        <td>From Counterinsurgency To The Peace Agreement In Colombia: A Bayesian Approximation Of Human Security</td>
-        <td>Luis Miguel Tovar Cuevas, Sandra Balanta Cobo, Jose Rafael Tovar Cuevas, Juan David Diaz Mutis</td>
-        <td>Democracy And Security</td>
+        <td>An exact approach for the consistent vehicle routing problem (ConVRP)</td>
+        <td>John Willmer Escobar Velasquez, Rodrigo Linfati</td>
+        <td>Advances in Production Engineering Management</td>
         <td><a href="https://doi.org/10.1080/17419166.2020.1818228" target="_blank">DOI</a></td>
       </tr>
       <tr>
-        <td>Prevalence Of And Risk Factors Associated With Latent Tuberculosis Infection In A Latin American Region</td>
-        <td>Javier Andres Bustamante Rengifo, Luz Angela Gonzalez Salazar, Nicole Osorio Certuche, Yesica Bejarano Lozano, Jose Rafael Tovar Cuevas, Miryam Astudillo Hernandez, Maria Del Pilar Crespo Ortiz</td>
-        <td>PeerJ</td>
+        <td>From Counterinsurgency to the Peace Agreement in Colombia: A Bayesian Approximation of Human Security</td>
+        <td>Luis Miguel Tovar Cuevas, Sandra Balanta Cobo, Jose Rafael Tovar Cuevas, Juan David Diaz Mutis</td>
+        <td>Democracy and Security</td>
         <td><a href="https://doi.org/10.7717/peerj.9429" target="_blank">DOI</a></td>
       </tr>
       <tr>
-        <td>Methodology For Robustness Analysis To Supply Chain Disruptions</td>
-        <td>John Willmer Escobar Velasquez, Andres Polo Roa</td>
-        <td>International Journal Of Logistics Systems And Management</td>
-        <td></td>
+        <td>Prevalence of and risk factors associated with latent tuberculosis infection in a Latin American region</td>
+        <td>Javier Andres Bustamante Rengifo, Luz Angela Gonzalez Salazar, Nicole Osorio Certuche, Yesica Bejarano Lozano, Jose Rafael Tovar Cuevas</td>
+        <td>Peerj</td>
+        <td>–</td>
       </tr>
       <tr>
-        <td>Modelo Para La Estimación Del Deterioro Por Riesgo De Crédito</td>
-        <td>Ivan Mauricio Bermudez Vera, Diego Fernando Manotas Duque, Javier Olaya Ochoa</td>
-        <td>Suma De Negocios</td>
+        <td>Methodology for robustness analysis to supply chain disruptions</td>
+        <td>John Willmer Escobar Velasquez, Andres Polo Roa</td>
+        <td>International Journal of Logistics Systems and Management</td>
         <td><a href="https://doi.org/10.14349/sumneg/2020.V11.N25.A6" target="_blank">DOI</a></td>
       </tr>
       <tr>
-        <td>Constructive Matheuristic Algorithms For Solving The Multi-Depot Vehicle Scheduling Problem For Public Transportation</td>
+        <td>Modelo para la estimación del deterioro por riesgo de crédito</td>
+        <td>Ivan Mauricio Bermudez Vera, Diego Fernando Manotas Duque, Javier Olaya Ochoa</td>
+        <td>Suma De Negocios</td>
+        <td>–</td>
+      </tr>
+      <tr>
+        <td>Constructive Matheuristic Algorithms for solving the Multi-Depot Vehicle Scheduling Problem for Public Transportation</td>
         <td>John Willmer Escobar Velasquez, Cesar Augusto Marin Moreno, Luis Miguel Escobar Falcon, Ruben Ivan Bolanos</td>
         <td>Espacios</td>
-        <td></td>
+        <td>–</td>
       </tr>
       <tr>
-        <td>Modelo Matemático Para La Programación De La Producción En Compañías Fabricantes De Alambres Y Cables Para La Construcción</td>
+        <td>Modelo matemático para la programación de la producción en compañías fabricantes de alambres y cables para la construcción</td>
         <td>John Willmer Escobar Velasquez</td>
         <td>Espacios</td>
-        <td></td>
-      </tr>
-      <tr>
-        <td>Using Copula Functions To Estimate The AUC For Two Dependent Diagnostic Tests</td>
-        <td>Luis Carlos Bravo Melo, Jennyfer Portilla Yela, Jose Rafael Tovar Cuevas</td>
-        <td>Revista Colombiana De Estadística</td>
         <td><a href="https://doi.org/10.15446/rce.v43n2.80288" target="_blank">DOI</a></td>
       </tr>
       <tr>
-        <td>Crisis Financiera Mundial Y Sus Efectos Sobre El Canal Del Crédito Bancario En La Economía Colombiana</td>
-        <td>Ines Maria Ulloa Villegas, David Rodriguez Gonzalez</td>
-        <td>Lecturas De Economía</td>
+        <td>Using Copula Functions to Estimate The AUC for Two Dependent Diagnostic Tests</td>
+        <td>Luis Carlos Bravo Melo, Jennyfer Portilla Yela, Jose Rafael Tovar Cuevas</td>
+        <td>Revista Colombiana De Estadistica</td>
         <td><a href="https://doi.org/10.17533/udea.le.n93a340990" target="_blank">DOI</a></td>
       </tr>
       <tr>
-        <td>Method To Obtain A Vector Of Hyperparameters: Application In Bernoulli Trials</td>
-        <td>Llerzy Esneider Torres Ome, Jose Rafael Tovar Cuevas</td>
-        <td>Revista Colombiana De Estadística</td>
+        <td>Crisis financiera mundial y sus efectos sobre el canal del crédito bancario en la economía colombiana</td>
+        <td>Ines Maria Ulloa Villegas, David Rodriguez Gonzalez</td>
+        <td>Lecturas De Economia</td>
         <td><a href="https://doi.org/10.15446/rce.v43n2.81744" target="_blank">DOI</a></td>
       </tr>
       <tr>
-        <td>Emerging Contaminants As Global Environmental Hazards. A Bibliometric Analysis</td>
-        <td>Howard Diego Ramirez Malule, Diego Hernan Quinones Murillo, Diego Fernando Manotas Duque</td>
-        <td>Emerging Contaminants</td>
+        <td>Method to Obtain a Vector of Hyperparameters: Application in Bernoulli Trials</td>
+        <td>Llerzy Esneider Torres Ome, Jose Rafael Tovar Cuevas</td>
+        <td>Revista Colombiana De Estadistica</td>
         <td><a href="https://doi.org/10.1016/j.emcon.2020.05.001" target="_blank">DOI</a></td>
       </tr>
       <tr>
-        <td>An Online Real-Time Matheuristic Algorithm For Dispatch And Relocation Of Ambulances</td>
+        <td>Emerging contaminants as global environmental hazards. A bibliometric analysis</td>
+        <td>Howard Diego Ramirez Malule, Diego Hernan Quinones Murillo, Diego Fernando Manotas Duque</td>
+        <td>Emerging Contaminants</td>
+        <td>–</td>
+      </tr>
+      <tr>
+        <td>An Online Real-Time Matheuristic Algorithm for Dispatch and Relocation of Ambulances</td>
         <td>John Willmer Escobar Velasquez, Cesar Augusto Marin Moreno, Juan Camilo Paz Roa</td>
-        <td>International Journal Of Industrial Engineering Computations</td>
-        <td></td>
+        <td>International Journal of Industrial Engineering Computations</td>
+        <td>–</td>
       </tr>
       <tr>
-        <td>Multi-Objective Mathematical Model For The Redesign Of Supply Chains Considering Financial Criteria Optimization And Scenarios</td>
+        <td>Multi-objective mathematical model for the redesign of supply chains considering financial criteria optimization and scenarios</td>
         <td>John Willmer Escobar Velasquez</td>
-        <td>International Journal Of Mathematics In Operational Research</td>
-        <td></td>
+        <td>International Journal of Mathematics in Operational Research</td>
+        <td>–</td>
       </tr>
       <tr>
-        <td>Uso De La Distribución Levy Para Ajustar Datos Con Marcada Asimetria Y Valores Extremos</td>
+        <td>Uso de la distribución Levy para ajustar datos con marcada asimetria y valores extremos</td>
         <td>Jessica Lizeth Martinez Naranjo, Carlos Armando Alvear Rodriguez, Jose Rafael Tovar Cuevas</td>
         <td>Investigacion Operacional</td>
-        <td></td>
-      </tr>
-      <tr>
-        <td>Supply Chain Design By Minimizing Equivalent Present Cost Considering Weighted Variable Costs</td>
-        <td>Martha Lucia Sabogal De La Pava, Carlos Julio Vidal Holguin, Diego Fernando Manotas Duque, Juan Jose Bravo Bastidas</td>
-        <td>Intelligent Systems Reference Library</td>
         <td><a href="https://doi.org/10.1007/978-3-030-26488-8_13" target="_blank">DOI</a></td>
       </tr>
       <tr>
-        <td>Systemic Approach For The Design Of Renewable Energy Supply Chain Generated From Biomass</td>
-        <td>Rocio Ramos Hernandez, Cuauhtemoc Sanchez Ramirez, Fabiola Sandoval Salas, Diego Fernando Manotas Duque, Leonardo Rivera Cadavid, Susana Itzel Perez Rodriguez</td>
+        <td>Supply Chain Design by Minimizing Equivalent Present Cost Considering Weighted Variable Costs</td>
+        <td>Martha Lucia Sabogal De La Pava, Carlos Julio Vidal Holguin, Diego Fernando Manotas Duque, Juan Jose Bravo Bastidas</td>
         <td>Intelligent Systems Reference Library</td>
         <td><a href="https://doi.org/10.1007/978-3-030-26488-8_12" target="_blank">DOI</a></td>
       </tr>
+      <tr>
+        <td>Systemic Approach for the Design of Renewable Energy Supply Chain Generated from Biomass</td>
+        <td>Rocio Ramos Hernandez, Cuauhtemoc Sanchez Ramirez, Fabiola Sandoval Salas, Diego Fernando Manotas Duque, Leonardo Rivera Cadavid</td>
+        <td>Intelligent Systems Reference Library</td>
+        <td>–</td>
+      </tr>
     </tbody>
   </table>
 </div>
 
-
-
-<p id="articulos2019" style="color: #800000; margin-top: 40px;"> </p>
+<p id="articulos2019" style="color: #800000; margin-top: 40px;"></p>
 
 <div class="publications-section">
-  <h2>Artículos 2019</h2>
+  <h2>Articulos 2019</h2>
   <table class="styled-table">
     <thead>
       <tr>
@@ -1054,68 +1185,67 @@ type: page
     </thead>
     <tbody>
       <tr>
-        <td>An Optimization Framework Of A Global Supply Chain Considering Transfer Pricing For A Colombian Multinational Company</td>
+        <td>An optimization framework of a global supply chain considering transfer pricing for a Colombian multinational company</td>
         <td>John Willmer Escobar Velasquez, Juan Camilo Paz Roa</td>
-        <td>International Journal Of Industrial And Systems Engineering</td>
-        <td></td>
-      </tr>
-      <tr>
-        <td>Supply Chain Optimization For Energy Cogeneration Using Sugarcane Crop Residues (SCR)</td>
-        <td>Diego Fernando Manotas Duque, Leonardo Rivera Cadavid, Pablo Cesar Manyoma Velasquez</td>
-        <td>Sustainability</td>
+        <td>International Journal of Industrial and Systems Engineering</td>
         <td><a href="https://doi.org/10.3390/su11236565" target="_blank">DOI</a></td>
       </tr>
       <tr>
-        <td>Parametric Survival Model Based On The Lévy Distribution</td>
-        <td>Jose Rafael Tovar Cuevas, Andrea Valencia Orozco</td>
-        <td>Communications For Statistical Applications And Methods</td>
+        <td>Supply Chain Optimization for Energy Cogeneration Using Sugarcane Crop Residues (SCR)</td>
+        <td>Diego Fernando Manotas Duque, Leonardo Rivera Cadavid, Pablo Cesar Manyoma Velasquez</td>
+        <td>Sustainability</td>
         <td><a href="https://doi.org/10.29220/CSAM.2019.26.5.445" target="_blank">DOI</a></td>
       </tr>
       <tr>
-        <td>The Credit Supply Channel Of Monetary Policy: Evidence From A FAVAR Model With Sign Restrictions</td>
-        <td>Juan Sebastian Holguin Posada, Jorge Mario Uribe Gil</td>
-        <td>Empirical Economics</td>
+        <td>Parametric survival model based on the lévy distribution</td>
+        <td>Jose Rafael Tovar Cuevas, Andrea Valencia Orozco</td>
+        <td>Communications for Statistical Applications and Methods</td>
         <td><a href="https://doi.org/10.1007/s00181-019-01759-5" target="_blank">DOI</a></td>
       </tr>
       <tr>
-        <td>Heuristic Constructive Algorithm For Work-Shift Scheduling In Bus Rapid Transit Systems</td>
+        <td>The credit supply channel of monetary policy: evidence from a FAVAR model with sign restrictions</td>
+        <td>Juan Sebastian Holguin Posada, Jorge Mario Uribe Gil</td>
+        <td>Empirical Economics</td>
+        <td>–</td>
+      </tr>
+      <tr>
+        <td>Heuristic constructive algorithm for work-shift scheduling in bus rapid transit systems</td>
         <td>John Willmer Escobar Velasquez, Cesar Augusto Marin Moreno, Luis Miguel Escobar Falcon, Antonio Hernando Escobar Zuluaga, Mauricio Granada Echeverri</td>
         <td>Decision Science Letters</td>
-        <td></td>
+        <td>–</td>
       </tr>
       <tr>
-        <td>A Flexible Mathematical Model For The Planning And Designing Of A Sporting Fixture By Considering The Assignment Of Referees</td>
+        <td>A flexible mathematical model for the planning and designing of a sporting fixture by considering the assignment of referees</td>
         <td>John Willmer Escobar Velasquez, Rodrigo Linfati, Gustavo Gatica</td>
-        <td>International Journal Of Industrial Engineering Computations</td>
-        <td></td>
-      </tr>
-      <tr>
-        <td>Operational Supply Chain Risk Identification And Prioritization From SCOR Model</td>
-        <td>Jenifer Ramos Rios, Diego Fernando Manotas Duque, Juan Carlos Osorio Gomez</td>
-        <td>Ingenieria Y Universidad</td>
+        <td>International Journal of Industrial Engineering Computations</td>
         <td><a href="https://doi.org/10.11144/Javeriana.iyu23-1.oscr" target="_blank">DOI</a></td>
       </tr>
       <tr>
-        <td>Operational Risk Identification In Ground Transportation Activities: Ontology-Approach</td>
-        <td>Juan Carlos Osorio Gomez, Diego Fernando Manotas Duque, Jorge Luis Garcia Alcaraz</td>
-        <td>Studies In Computational Intelligence</td>
+        <td>Operational supply chain risk identification and prioritization from SCOR model</td>
+        <td>Jenifer Ramos Rios, Diego Fernando Manotas Duque, Juan Carlos Osorio Gomez</td>
+        <td>Ingenieria Y Universidad</td>
         <td><a href="https://doi.org/10.1007/978-3-030-06149-4_5" target="_blank">DOI</a></td>
       </tr>
       <tr>
-        <td>Volatility Spillovers In Energy Markets</td>
+        <td>Operational Risk Identification in Ground Transportation Activities: Ontology-Approach</td>
+        <td>Juan Carlos Osorio Gomez, Diego Fernando Manotas Duque, Jorge Luis Garcia Alcaraz</td>
+        <td>Studies in Computational Intelligence</td>
+        <td><a href="https://doi.org/10.5547/01956574.40.3" target="_blank">DOI</a></td>
+      </tr>
+      <tr>
+        <td>Volatility Spillovers in Energy Markets</td>
         <td>Jorge Mario Uribe Gil</td>
         <td>Energy Journal</td>
-        <td><a href="https://doi.org/10.5547/01956574.40.3" target="_blank">DOI</a></td>
+        <td><a href="https://doi.org/https://doi.org/10.1007/s10680-017-9460-2" target="_blank">DOI</a></td>
       </tr>
     </tbody>
   </table>
 </div>
 
-
-<p id="articulos2018" style="color: #800000; margin-top: 40px;"> </p>
+<p id="articulos2018" style="color: #800000; margin-top: 40px;"></p>
 
 <div class="publications-section">
-  <h2>Artículos 2018</h2>
+  <h2>Articulos 2018</h2>
   <table class="styled-table">
     <thead>
       <tr>
@@ -1127,92 +1257,85 @@ type: page
     </thead>
     <tbody>
       <tr>
-        <td>Trends In The Quantiles Of The Life Table Survivorship Function</td>
+        <td>Trends in the Quantiles of the Life Table Survivorship Function</td>
         <td>Jorge Mario Uribe Gil</td>
-        <td>European Journal Of Population</td>
-        <td><a href="https://doi.org/10.1007/s10680-017-9460-2" target="_blank">DOI</a></td>
+        <td>European Journal of Population Revue Europeenne De Demographie</td>
+        <td><a href="https://doi.org/https://doi.org/10.1016/j.jimonfin.2018.09.009" target="_blank">DOI</a></td>
       </tr>
       <tr>
-        <td>Currency Downside Risk, Liquidity, And Financial Stability</td>
+        <td>Currency downside risk, liquidity, and financial stability</td>
         <td>Jorge Mario Uribe Gil, Julian Fernandez Mejia</td>
-        <td>Journal Of International Money And Finance</td>
-        <td><a href="https://doi.org/10.1016/j.jimonfin.2018.09.009" target="_blank">DOI</a></td>
+        <td>Journal of International Money and Finance</td>
+        <td><a href="https://doi.org/https://doi.org/10.1016/j.rser.2018.06.021" target="_blank">DOI</a></td>
       </tr>
       <tr>
-        <td>Effect Of Stopping Hydroelectric Power Generation On The Dynamics Of Electricity Prices: An Event Study Approach</td>
+        <td>Effect of stopping hydroelectric power generation on the dynamics of electricity prices: An event study approach</td>
         <td>Jorge Mario Uribe Gil, Stephania Mosquera Lopez, Diego Fernando Manotas Duque</td>
-        <td>Renewable And Sustainable Energy Reviews</td>
-        <td><a href="https://doi.org/10.1016/j.rser.2018.06.021" target="_blank">DOI</a></td>
+        <td>Renewable Sustainable Energy Reviews</td>
+        <td><a href="https://doi.org/https://doi.org/10.1016/j.eneco.2018.07.025" target="_blank">DOI</a></td>
       </tr>
       <tr>
-        <td>Uncovering The Nonlinear Predictive Causality Between Natural Gas And Electricity Prices</td>
+        <td>Uncovering the nonlinear predictive causality between natural gas and electricity prices</td>
         <td>Jorge Mario Uribe Gil, Stephania Mosquera Lopez</td>
         <td>Energy Economics</td>
-        <td><a href="https://doi.org/10.1016/j.eneco.2018.07.025" target="_blank">DOI</a></td>
+        <td>–</td>
       </tr>
       <tr>
-        <td>A Mathematical Model For The Collection And Distribution Of Perishable Products Considering Cost Minimization And CO2 Emissions</td>
-        <td>Rafael David Torrecilla Madera, Andres Polo Roa, John Willmer Escobar Velasquez, Nicolas Clavijo Buritica</td>
-        <td>International Journal Of Services And Operations Management</td>
-        <td></td>
+        <td>A mathematical model for the collection and distribution of perishable products considering cost minimization and CO2 emissions</td>
+        <td>Rafael David Tordecilla Madera, Andres Polo Roa, John Willmer Escobar Velasquez, Nicolas Clavijo Buritica</td>
+        <td>International Journal of Services and Operations Management</td>
+        <td><a href="https://doi.org/https://doi.org/10.15446/dyna.v85n205.62970" target="_blank">DOI</a></td>
       </tr>
       <tr>
-        <td>Risk Analysis Using Meteorological Weather Factors In Solar Energy Conversion Systems</td>
+        <td>Risk analysis using meteorological weather factors in solar energy conversion systems</td>
         <td>David Cardoza Montalvo, Jorge Mario Uribe Gil, Jairo Arcesio Palacios Penaranda</td>
-        <td>DYNA</td>
-        <td><a href="https://doi.org/10.15446/dyna.v85n205.62970" target="_blank">DOI</a></td>
+        <td>Dyna</td>
+        <td>–</td>
       </tr>
       <tr>
-        <td>A Metaheuristic Algorithm For The Multi-Depot Vehicle Routing Problem With Heterogeneous Fleet</td>
+        <td>A metaheuristic algorithm for the multi-depot vehicle routing problem with heterogeneous fleet</td>
         <td>John Willmer Escobar Velasquez, Ruben Ivan Bolanos, Mauricio Granada Echeverri</td>
-        <td>International Journal Of Industrial Engineering Computations</td>
-        <td></td>
+        <td>International Journal of Industrial Engineering Computations</td>
+        <td>–</td>
       </tr>
       <tr>
-        <td>AHP Topsis Para La Selección De Proveedores Considerando El Riesgo Asociado A La Calidad</td>
+        <td>AHP Topsis para la selección de proveedores considerando el riesgo asociado a la calidad</td>
         <td>Juan Carlos Osorio Gomez, Jorge Luis Garcia Alcaraz, Diego Fernando Manotas Duque</td>
         <td>Espacios</td>
-        <td></td>
+        <td><a href="https://doi.org/https://doi.org/10.1016/j.apenergy.2018.02.060" target="_blank">DOI</a></td>
       </tr>
       <tr>
-        <td>Financial Risk Network Architecture Of Energy Firms</td>
+        <td>Financial risk network architecture of energy firms</td>
         <td>Natalia Ximena Restrepo Lopez, Jorge Mario Uribe Gil, Diego Fernando Manotas Duque</td>
         <td>Applied Energy</td>
-        <td><a href="https://doi.org/10.1016/j.apenergy.2018.02.060" target="_blank">DOI</a></td>
+        <td>–</td>
       </tr>
       <tr>
-        <td>Efficient Heuristic Algorithms For Location Of Charging Stations In Electric Vehicle Routing Problems</td>
+        <td>Efficient Heuristic Algorithms for Location of Charging Stations in Electric Vehicle Routing Problems</td>
         <td>John Willmer Escobar Velasquez</td>
-        <td>Studies In Informatics And Control</td>
-        <td></td>
+        <td>Studies in Informatics and Control</td>
+        <td><a href="https://doi.org/https://doi.org/10.1080/1226508X.2017.1407952" target="_blank">DOI</a></td>
       </tr>
       <tr>
-        <td>Risk Synchronization In International Stock Markets</td>
+        <td>Risk Synchronization in International Stock Markets</td>
         <td>Jorge Mario Uribe Gil</td>
         <td>Global Economic Review</td>
-        <td><a href="https://doi.org/10.1080/1226508X.2017.1407952" target="_blank">DOI</a></td>
-      </tr>
-      <tr>
-        <td>Editorial: Empresas De Base Tecnológica Y Spin-Off, Necesidad De Valorar Tecnologías</td>
-        <td>Fiderman Machuca Martinez, Diego Fernando Manotas Duque</td>
-        <td>Ingeniería Y Competitividad</td>
         <td><a href="https://doi.org/10.25100/iyc.v20i1.7556" target="_blank">DOI</a></td>
       </tr>
       <tr>
-        <td>Efectos Asimétricos De Cambios En La Tasa De Interés Sobre Empresas Del Sector Manufacturero Colombiano</td>
+        <td>Efectos asimétricos de cambios en la tasa de interés sobre empresas del sector manufacturero colombiano</td>
         <td>Jorge Mario Uribe Gil</td>
-        <td>Revista Finanzas Y Política Económica</td>
-        <td></td>
+        <td>Revista Finanzas Y Politica Economica</td>
+        <td>–</td>
       </tr>
     </tbody>
   </table>
 </div>
 
-
-<p id="articulos2017" style="color: #800000; margin-top: 40px;"> </p>
+<p id="articulos2017" style="color: #800000; margin-top: 40px;"></p>
 
 <div class="publications-section">
-  <h2>Artículos 2017</h2>
+  <h2>Articulos 2017</h2>
   <table class="styled-table">
     <thead>
       <tr>
@@ -1224,87 +1347,85 @@ type: page
     </thead>
     <tbody>
       <tr>
-        <td>Nonlinear Empirical Pricing In Electricity Markets Using Fundamental Weather Factors</td>
+        <td>Nonlinear empirical pricing in electricity markets using fundamental weather factors</td>
         <td>Stephania Mosquera Lopez, Jorge Mario Uribe Gil, Diego Fernando Manotas Duque</td>
         <td>Energy</td>
-        <td><a href="https://doi.org/10.1016/j.energy.2017.07.181" target="_blank">DOI</a></td>
+        <td><a href="https://doi.org/https://doi.org/10.1016/j.energy.2017.07.181" target="_blank">DOI</a></td>
       </tr>
       <tr>
-        <td>Uncertainty, Systemic Shocks And The Global Banking Sector: Has The Crisis Modified Their Relationship?</td>
+        <td>Uncertainty, systemic shocks and the global banking sector: has the crisis modified their relationship?</td>
         <td>Jorge Mario Uribe Gil</td>
-        <td>Journal Of International Financial Markets Institutions & Money</td>
-        <td><a href="https://doi.org/10.1016/j.intfin.2017.09.027" target="_blank">DOI</a></td>
+        <td>Journal of International Financial Markets Institutions Money</td>
+        <td><a href="https://doi.org/https://doi.org/10.1016/j.intfin.2017.09.027" target="_blank">DOI</a></td>
       </tr>
       <tr>
-        <td>Prioritization Of Operational Risks For Third Party Logistics Suppliers - 3PL</td>
+        <td>Prioritization of Operational Risks for Third Party Logistics Suppliers - 3PL</td>
         <td>Juan Carlos Osorio Gomez, Diego Fernando Manotas Duque, Leonardo Rivera Cadavid</td>
         <td>Informacion Tecnologica</td>
         <td><a href="https://doi.org/10.4067/S0718-07642017000400016" target="_blank">DOI</a></td>
       </tr>
       <tr>
-        <td>Multicriteria Hybrid Method - ROA, For The Choice Of Generation Of Renewable Sources: Case Study In Shopping Centers</td>
+        <td>Multicriteria Hybrid Method - ROA, for the choice of generation of renewable sources: case study in shopping centers</td>
         <td>Alvaro Rene Restrepo Garces, Diego Fernando Manotas Duque, Carlos Arturo Lozano Moncada</td>
         <td>Ingeniare</td>
         <td><a href="https://doi.org/10.4067/S0718-33052017000300399" target="_blank">DOI</a></td>
       </tr>
       <tr>
-        <td>Risk Asymmetries In Hydrothermal Power Generation Markets</td>
+        <td>Risk asymmetries in hydrothermal power generation markets</td>
         <td>Jorge Mario Uribe Gil, Diego Fernando Manotas Duque, Stephania Mosquera Lopez</td>
         <td>Electric Power Systems Research</td>
-        <td><a href="https://doi.org/10.1016/j.epsr.2017.02.032" target="_blank">DOI</a></td>
+        <td><a href="https://doi.org/https://doi.org/10.1016/j.epsr.2017.02.032" target="_blank">DOI</a></td>
       </tr>
       <tr>
-        <td>Spillovers From The US To Latin American And G7 Stock Markets: A VAR-Quantile Analysis</td>
+        <td>Spillovers from the US to Latin American and G7 stock markets: A VAR-quantile analysis</td>
         <td>Jorge Mario Uribe Gil</td>
         <td>Emerging Markets Review</td>
-        <td><a href="https://doi.org/10.1016/j.ememar.2017.01.001" target="_blank">DOI</a></td>
+        <td><a href="https://doi.org/https://doi.org/10.1016/j.ememar.2017.01.001" target="_blank">DOI</a></td>
       </tr>
       <tr>
-        <td>Impact Of US Uncertainties On Emerging And Mature Markets: Evidence From A Quantile-Vector Autoregressive Approach</td>
+        <td>Impact of US uncertainties on emerging and mature markets: Evidence from a quantile-vector autoregressive approach</td>
         <td>Jorge Mario Uribe Gil</td>
-        <td>Journal Of International Financial Markets Institutions & Money</td>
-        <td><a href="https://doi.org/10.1016/j.intfin.2016.12.003" target="_blank">DOI</a></td>
+        <td>Journal of International Financial Markets Institutions Money</td>
+        <td><a href="https://doi.org/https://doi.org/10.1016/j.intfin.2016.12.003" target="_blank">DOI</a></td>
       </tr>
       <tr>
-        <td>Effects Of WTI And SP500 On Oil Firms Stock Prices: A Multivariate Quantile Approach</td>
+        <td>Effects of WTI and SP500 on Oil Firms Stock Prices: A Multivariate Quantile Approach</td>
         <td>Natalia Ximena Restrepo Lopez, Jorge Mario Uribe Gil, Diego Fernando Manotas Duque</td>
         <td>Energy Procedia</td>
-        <td><a href="https://doi.org/10.1016/j.egypro.2017.03.749" target="_blank">DOI</a></td>
+        <td><a href="https://doi.org/https://doi.org/10.1016/j.egypro.2017.03.749" target="_blank">DOI</a></td>
       </tr>
       <tr>
-        <td>Measuring Uncertainty In The Stock Market</td>
+        <td>Measuring Uncertainty in the Stock Market</td>
         <td>Jorge Mario Uribe Gil</td>
-        <td>International Review Of Economics & Finance</td>
-        <td><a href="https://doi.org/10.1016/j.iref.2016.11.003" target="_blank">DOI</a></td>
+        <td>International Review of Economics Finance</td>
+        <td><a href="https://doi.org/https://doi.org/10.1016/j.iref.2016.11.003" target="_blank">DOI</a></td>
       </tr>
       <tr>
-        <td>Tablas De Vida De Santiago De Cali: Tendencias Recientes Y Proyecciones: 1985-2030</td>
+        <td>Tablas de Vida de Santiago de Cali: Tendencias recientes y proyecciones: 1985-2030</td>
         <td>Jorge Mario Uribe Gil</td>
         <td>Sociedad Y Economía</td>
-        <td></td>
+        <td>–</td>
       </tr>
       <tr>
-        <td>Decision Support System For Operational Risk Management In Supply Chain With 3PL Providers</td>
+        <td>Decision support system for operational risk management in supply chain with 3PL providers</td>
         <td>Juan Carlos Osorio Gomez, Diego Fernando Manotas Duque, Leonardo Rivera Cadavid, Jorge Luis Garcia Alcaraz</td>
         <td>Intelligent Systems Reference Library</td>
         <td><a href="https://doi.org/10.1007/978-3-319-51905-0_10" target="_blank">DOI</a></td>
       </tr>
       <tr>
-        <td>Centralidad De Los Inversionistas Institucionales En El Mercado De Acciones Colombiano: Análisis Desde Las Redes Sociales</td>
+        <td>Centralidad de los inversionistas institucionales en el mercado de acciones colombiano: Análisis desde las redes sociales</td>
         <td>Diana Marcela Jimenez Restrepo, Anderson Pino Garces, Jorge Mario Uribe Gil</td>
         <td>Semestre Económico</td>
-        <td></td>
+        <td>–</td>
       </tr>
     </tbody>
   </table>
 </div>
 
-
-
-<p id="articulos2016" style="color: #800000; margin-top: 40px;"> </p>
+<p id="articulos2016" style="color: #800000; margin-top: 40px;"></p>
 
 <div class="publications-section">
-  <h2>Artículos 2016</h2>
+  <h2>Articulos 2016</h2>
   <table class="styled-table">
     <thead>
       <tr>
@@ -1316,62 +1437,61 @@ type: page
     </thead>
     <tbody>
       <tr>
-        <td>Crecimiento Económico Colombiano Y Quiebres Estructurales Endógenos</td>
+        <td>Crecimiento económico colombiano y quiebres estructurales endógenos</td>
         <td>Jorge Mario Uribe Gil</td>
         <td>Ensayos De Economía</td>
-        <td></td>
+        <td>–</td>
       </tr>
       <tr>
-        <td>Modelación Del Riesgo Operacional Causado Por Factores Demográficos</td>
+        <td>Modelación del riesgo operacional causado por factores demográficos</td>
         <td>Jorge Mario Uribe Gil, Ines Maria Ulloa Villegas, Diego Fernando Manotas Duque</td>
         <td>Revista Ingenierías Universidad De Medellín</td>
         <td><a href="https://doi.org/10.22395/rium.v15n29a7" target="_blank">DOI</a></td>
       </tr>
       <tr>
-        <td>Análisis De Procesos Explosivos En Los Precios De Los Activos Financieros: Evidencia Alrededor Del Mundo</td>
+        <td>Análisis de procesos explosivos en los precios de los activos financieros: evidencia alrededor del mundo</td>
         <td>Jorge Mario Uribe Gil, Julian Fernandez Mejia</td>
-        <td>Revista Finanzas Y Política Económica</td>
-        <td><a href="https://doi.org/10.14718/revfinanzpolitecon.2016.8.1.5" target="_blank">DOI</a></td>
+        <td>Revista Finanzas Y Politica Economica</td>
+        <td><a href="https://doi.org/http://dx.doi.org/10.14718/revfinanzpolitecon.2016.8.1.5" target="_blank">DOI</a></td>
       </tr>
       <tr>
-        <td>Regímenes De Riesgo En El Mercado De Acciones Colombiano</td>
+        <td>Regímenes de riesgo en el mercado de acciones colombiano</td>
         <td>Jorge Mario Uribe Gil</td>
         <td>Sociedad Y Economía</td>
-        <td></td>
+        <td>–</td>
       </tr>
       <tr>
-        <td>A Comparative Analysis Of Stock Market Cycles</td>
+        <td>A comparative analysis of stock market cycles</td>
         <td>Jorge Mario Uribe Gil, Stephania Mosquera Lopez</td>
-        <td>Macroeconomics And Finance In Emerging Market Economies</td>
+        <td>Macroeconomics and Finance in Emerging Market Economies</td>
         <td><a href="https://doi.org/10.1080/17520843.2015.1123744" target="_blank">DOI</a></td>
       </tr>
       <tr>
-        <td>Effects Of Developed And Emerging Stock Market Indices Over The Colombian Economic Activity: A FAVAR Approach</td>
+        <td>Effects of developed and emerging stock market indices over the Colombian economic activity: A FAVAR Approach</td>
         <td>Jorge Mario Uribe Gil, Natalia Restrepo Lopez, Stephania Mosquera Lopez</td>
-        <td>Lecturas De Economía</td>
+        <td>Lecturas De Economia</td>
         <td><a href="https://doi.org/10.17533/udea.le.n85a05" target="_blank">DOI</a></td>
       </tr>
       <tr>
-        <td>Modeling Longevity Risk With Generalized Dynamic Factor Models And Vine Copulae</td>
+        <td>Modeling Longevity Risk with Generalized Dynamic Factor Models and Vine Copulae</td>
         <td>Jorge Mario Uribe Gil</td>
-        <td>ASTIN Bulletin - The Journal Of The International Actuarial Association</td>
+        <td>Astin Bulletin The Journal of The International Actuarial Association</td>
         <td><a href="https://doi.org/10.1017/asb.2015.21" target="_blank">DOI</a></td>
       </tr>
       <tr>
-        <td>Efectos De Los Cambios En La Tasa De Interés De Estados Unidos Sobre Colombia, Perú Y Chile</td>
+        <td>Efectos de los cambios en la tasa de interés de Estados Unidos sobre Colombia, Perú y Chile</td>
         <td>Jorge Mario Uribe Gil, Carlos Fernando Daza Moreno</td>
         <td>Revista De Economía Del Caribe</td>
-        <td><a href="https://doi.org/10.14482/ecoca.17.7158" target="_blank">DOI</a></td>
+        <td><a href="https://doi.org/10.14482/ecoca.17.7158." target="_blank">DOI</a></td>
       </tr>
     </tbody>
   </table>
 </div>
 
-
-<p id="articulos2015" style="color: #800000; margin-top: 40px;"> </p>
+<p id="articulos2015" style="color: #800000; margin-top: 40px;"></p>
 
 <div class="publications-section">
-  <h2>Artículos 2015</h2>
+  <h2>Articulos 2015</h2>
   <table class="styled-table">
     <thead>
       <tr>
@@ -1383,45 +1503,43 @@ type: page
     </thead>
     <tbody>
       <tr>
-        <td>Dinámicas Del Tipo De Cambio, Quiebre Estructural E Intervenciones De Política</td>
+        <td>Dinámicas del tipo de cambio, quiebre estructural e intervenciones de política</td>
         <td>Jorge Mario Uribe Gil, Natalia Restrepo Lopez</td>
-        <td>Ecos De Economía</td>
+        <td>Ecos De Economia</td>
         <td><a href="https://doi.org/10.17230/ecos.2015.41.2" target="_blank">DOI</a></td>
       </tr>
       <tr>
-        <td>Ciclo De Los Negocios En Colombia: El Papel De La Política De Estabilización</td>
+        <td>Ciclo de los negocios en Colombia: el papel de la política de estabilización</td>
         <td>Jorge Mario Uribe Gil, Karol Carbonell</td>
         <td>Semestre Económico</td>
-        <td></td>
+        <td>–</td>
       </tr>
       <tr>
-        <td>Regímenes De Volatilidad Del Tipo De Cambio En Colombia E Intervenciones De Política</td>
+        <td>Regímenes de volatilidad del tipo de cambio en Colombia e intervenciones de política</td>
         <td>Jorge Mario Uribe Gil, Diana Marcela Jimenez Restrepo, Julian Fernandez Mejia</td>
-        <td>Investigación Económica</td>
+        <td>Investigacion Economica</td>
         <td><a href="https://doi.org/10.1016/j.inveco.2015.06.002" target="_blank">DOI</a></td>
       </tr>
       <tr>
-        <td>Ciclo Financiero De Referencia En Colombia</td>
+        <td>Ciclo financiero de referencia en Colombia</td>
         <td>Jorge Mario Uribe Gil, Ines Maria Ulloa Villegas, Johanna Perea Escobar</td>
-        <td>Lecturas De Economía</td>
-        <td></td>
+        <td>Lecturas De Economia</td>
+        <td>–</td>
       </tr>
       <tr>
-        <td>Effects Of Management Commitment And Organization Of Work Teams On The Benefits Of Kaizen: Planning Stage</td>
+        <td>Effects of management commitment and organization of work teams on the benefits of Kaizen: Planning stage</td>
         <td>Midiala Oropesa Vento, Jorge Luis Garcia Alcaraz, Leonardo Rivera Cadavid, Diego Fernando Manotas Duque</td>
-        <td>DYNA</td>
+        <td>Dyna</td>
         <td><a href="https://doi.org/10.15446/dyna.v82n191.51157" target="_blank">DOI</a></td>
       </tr>
     </tbody>
   </table>
 </div>
 
-
-
-<p id="articulos2014" style="color: #800000; margin-top: 40px;"> </p>
+<p id="articulos2014" style="color: #800000; margin-top: 40px;"></p>
 
 <div class="publications-section">
-  <h2>Artículos 2014</h2>
+  <h2>Articulos 2014</h2>
   <table class="styled-table">
     <thead>
       <tr>
@@ -1433,39 +1551,37 @@ type: page
     </thead>
     <tbody>
       <tr>
-        <td>Riesgo Sistémico En El Mercado De Acciones Colombiano: Alternativas De Diversificación Bajo Eventos Extremos</td>
+        <td>Riesgo Sistémico en el Mercado de Acciones Colombiano: Alternativas de Diversificación Bajo Eventos Extremos</td>
         <td>Jorge Mario Uribe Gil, Julian Fernandez Mejia</td>
-        <td>Cuadernos De Economía</td>
-        <td></td>
+        <td>Cuadernos De Economia</td>
+        <td>–</td>
       </tr>
       <tr>
-        <td>Efectos Del MILA En La Eficiencia De Portafolio De Los Mercados De Acciones Colombiano, Peruano Y Chileno</td>
+        <td>Efectos del MILA en la eficiencia de portafolio de los mercados de acciones colombiano, peruano y chileno</td>
         <td>Jorge Mario Uribe Gil, Stephania Mosquera Lopez</td>
         <td>Cuadernos De Administracion Universidad Del Valle</td>
-        <td></td>
+        <td>–</td>
       </tr>
       <tr>
-        <td>Burbujas Financieras Y Comportamiento Reciente De Los Mercados De Acciones En América Latina</td>
+        <td>Burbujas financieras y comportamiento reciente de los mercados de acciones en América Latina</td>
         <td>Jorge Mario Uribe Gil, Julian Fernandez Mejia</td>
-        <td>Lecturas De Economía</td>
-        <td></td>
+        <td>Lecturas De Economia</td>
+        <td>–</td>
       </tr>
       <tr>
-        <td>Burbujas Financieras: Dos Alternativas De Identificación Aplicadas A Colombia</td>
+        <td>Burbujas financieras: dos alternativas de identificación aplicadas a Colombia</td>
         <td>Jorge Mario Uribe Gil, Ines Maria Ulloa Villegas</td>
         <td>Sociedad Y Economía</td>
-        <td></td>
+        <td>–</td>
       </tr>
     </tbody>
   </table>
 </div>
 
-
-
-<p id="articulos2013" style="color: #800000; margin-top: 40px;"> </p>
+<p id="articulos2013" style="color: #800000; margin-top: 40px;"></p>
 
 <div class="publications-section">
-  <h2>Artículos 2013</h2>
+  <h2>Articulos 2013</h2>
   <table class="styled-table">
     <thead>
       <tr>
@@ -1477,22 +1593,19 @@ type: page
     </thead>
     <tbody>
       <tr>
-        <td>Mercado De Acciones Colombiano. Determinantes Macroeconómicos Y Papel De La AFP</td>
+        <td>Mercado de Acciones Colombiano. Determinantes Macroeconómicos y papel de la AFP</td>
         <td>Jorge Mario Uribe Gil, Stephania Mosquera Lopez, Natalia Restrepo Lopez</td>
         <td>Sociedad Y Economía</td>
-        <td></td>
+        <td>–</td>
       </tr>
     </tbody>
   </table>
 </div>
 
-
-
-
-<p id="articulos2012" style="color: #800000; margin-top: 40px;"> </p>
+<p id="articulos2012" style="color: #800000; margin-top: 40px;"></p>
 
 <div class="publications-section">
-  <h2>Artículos 2012</h2>
+  <h2>Articulos 2012</h2>
   <table class="styled-table">
     <thead>
       <tr>
@@ -1504,27 +1617,25 @@ type: page
     </thead>
     <tbody>
       <tr>
-        <td>La Medición Del Riesgo En Eventos Extremos. Una Revisión Metodológica En Contexto</td>
+        <td>La Medición del Riesgo en Eventos Extremos. Una Revisión Metodológica en Contexto</td>
         <td>Jorge Mario Uribe Gil, Ines Maria Ulloa Villegas</td>
-        <td>Lecturas De Economía</td>
-        <td></td>
+        <td>Lecturas De Economia</td>
+        <td>–</td>
       </tr>
       <tr>
-        <td>La Medición Del Riesgo En Eventos Extremos. Una Revisión Metodológica En Contexto</td>
+        <td>La Medición del Riesgo en Eventos Extremos. Una Revisión Metodológica en Contexto</td>
         <td>Ines Maria Ulloa Villegas, Jorge Mario Uribe Gil</td>
-        <td>Lecturas De Economía</td>
-        <td></td>
+        <td>Lecturas De Economia</td>
+        <td>–</td>
       </tr>
     </tbody>
   </table>
 </div>
 
-
-
-<p id="articulos2011" style="color: #800000; margin-top: 40px;"> </p>
+<p id="articulos2011" style="color: #800000; margin-top: 40px;"></p>
 
 <div class="publications-section">
-  <h2>Artículos 2011</h2>
+  <h2>Articulos 2011</h2>
   <table class="styled-table">
     <thead>
       <tr>
@@ -1536,23 +1647,20 @@ type: page
     </thead>
     <tbody>
       <tr>
-        <td>Revisando La Hipótesis De Los Mercados Eficientes: Nuevos Datos, Nuevas Crisis Y Nuevas Estimaciones</td>
+        <td>Revisando la hipótesis de los mercados eficientes: nuevos datos, nuevas crisis y nuevas estimaciones</td>
         <td>Jorge Mario Uribe Gil, Ines Maria Ulloa Villegas</td>
-        <td>Cuadernos De Economía</td>
-        <td></td>
+        <td>Cuadernos De Economia</td>
+        <td>–</td>
       </tr>
       <tr>
-        <td>Contagio Financiero: Una Metodología Para Su Evaluación Mediante Coeficientes De Dependencia Asintótica</td>
+        <td>Contagio financiero: una metodología para su evaluación mediante coeficientes de dependencia asintótica</td>
         <td>Jorge Mario Uribe Gil</td>
-        <td>Lecturas De Economía</td>
-        <td></td>
+        <td>Lecturas De Economia</td>
+        <td>–</td>
       </tr>
     </tbody>
   </table>
 </div>
-
-
-
 
 
 

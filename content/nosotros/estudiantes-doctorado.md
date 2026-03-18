@@ -173,30 +173,12 @@ menu:
     En esta sección se presentan los principales estudiantes de doctorado que integran nuestro grupo de investigación. 
     Cada uno desarrolla proyectos académicos y científicos orientados a la analítica y la ingeniería financiera, 
     contribuyendo con nuevas perspectivas y soluciones a los desafíos actuales.
-    El proceso formativo y de investigación de los doctorandos cuenta con la tutoría y el acompañamiento académico 
-    del profesor <strong>Diego F. Manotas Duque, PhD.</strong>, quien orienta sus trabajos y garantiza la calidad e impacto 
-    de sus aportes en el ámbito académico y profesional.
+    El proceso formativo y de investigación de los doctorandos cuenta con la tutoría y el acompañamiento académico nuestros profesores que integran el grupo de investigación.
   </p>
 
-  <h2 style="text-align:center; margin-top: 8px;">Director de GIFINC</h2>
-
-  <div style="display:flex; justify-content:center; margin-bottom: 28px;">
-    <div class="card card-tutor">
-      <img src="https://juniorjb5.github.io/ANIF/images/Inte1.jpg" alt="Diego F. Manotas Duque">
-      <h4>Diego F. Manotas Duque, PhD.</h4>
-      <p style="margin:0; font-size:14px; color:#236; text-align:center;">diego.manotas@correounivalle.edu.co</p>
-      <button class="toggle-btn" style="margin-top:12px;">Ver más información</button>
-      <div class="more-info">
-        <p><strong>Posición:</strong> Profesor Titular</p>
-        <p><strong>Afiliación institucional:</strong> Escuela de Ingeniería Industrial, Universidad del Valle</p>
-        <p><strong>Investigador:</strong> Senior - Minciencias</p>
-        <p><strong>Líneas de investigación:</strong> Economía Energética, Finanzas Corporativas</p>
-        <p><strong>ORCID:</strong> <a href="#" target="_blank">orcid.org/0000-000X</a></p>
-        <p><strong>Scholar:</strong> <a href="#" target="_blank">Google Scholar</a></p>
-        <p><strong>Web:</strong> <a href="#" target="_blank">Sitio personal</a></p>
-      </div>
-    </div>
-  </div>
+  
+  
+  
 
   <h2 style="text-align:center; margin-top: 8px;">Nuestros Estudiantes</h2>
 
@@ -204,31 +186,12 @@ menu:
   
 <!-- 1 -->
 <div class="card card-estudiante">
-  <img src="/img/testimonials/est1.jpg" alt="Angélica María González Ocampo">
-  <h3>Angélica María González Ocampo</h3>
-  <button class="toggle-btn">Ver más información</button>
-  <div class="more-info">
-    <p><i class="fas fa-graduation-cap"></i> Magíster en Ingeniería con énfasis en Ingeniería Industrial, Universidad del Valle.</p>
-    <p><a href="https://scienti.minciencias.gov.co/cvlac/visualizador/generarCurriculoCv.do?cod_rh=0001679209" target="_blank"><i class="fas fa-file-alt"></i> CVLAC</a></p>
-    <p><i class="fas fa-chalkboard-teacher"></i> Tutores: Diego Fernando Manotas Duque y Leonardo Rivera Cadavid.</p>
-    <p><strong>Temas:</strong></p>
-    <ul>
-      <li>Optimización de sistemas logísticos</li>
-      <li>Optimización de sistemas productivos</li>
-      <li>Estudio del trabajo</li>
-    </ul>
-  </div>
-</div>
-
-<!-- 2 -->
-<div class="card card-estudiante">
   <img src="/img/testimonials/est2.png" alt="Yovany Arley Erazo Cifuentes">
   <h3>Yovany Arley Erazo Cifuentes</h3>
   <button class="toggle-btn">Ver más información</button>
   <div class="more-info">
-    <p><i class="fas fa-graduation-cap"></i> Magíster en Ingeniería con énfasis en Ingeniería Industrial, Universidad del Valle.</p>
+    <p><i class="fas fa-graduation-cap"></i> Magíster en Ingeniería énfasis en Ingeniería Industrial, Universidad del Valle.</p>
     <p><a href="https://scienti.minciencias.gov.co/cvlac/visualizador/generarCurriculoCv.do?cod_rh=0001812669" target="_blank"><i class="fas fa-file-alt"></i> CVLAC</a></p>
-    <p><i class="fas fa-chalkboard-teacher"></i> Tutores: Juan Pablo Orejuela y Diego Fernando Manotas Duque.</p>
     <p><strong>Temas:</strong></p>
     <ul>
       <li>Cadena de Abastecimiento del Hidrógeno</li>
@@ -239,35 +202,18 @@ menu:
   </div>
 </div>
 
-<!-- 3 -->
-<div class="card card-estudiante">
-  <img src="/img/testimonials/est3.jpg" alt="Iván Mauricio Bermúdez Vera">
-  <h3>Iván Mauricio Bermúdez Vera</h3>
-  <button class="toggle-btn">Ver más información</button>
-  <div class="more-info">
-    <p><i class="fas fa-graduation-cap"></i> Magíster en Ingeniería con énfasis en Ingeniería Industrial, Universidad del Valle.</p>
-    <p><a href="https://scienti.minciencias.gov.co/cvlac/visualizador/generarCurriculoCv.do?cod_rh=0001382110" target="_blank"><i class="fas fa-file-alt"></i> CVLAC</a></p>
-    <p><i class="fas fa-chalkboard-teacher"></i> Tutores: Jaime Mosquera Restrepo y Diego Fernando Manotas Duque.</p>
-    <p><strong>Temas:</strong></p>
-    <ul>
-      <li>Ingeniería Financiera y Gestión de Riesgo</li>
-      <li>Modelación Estadística</li>
-    </ul>
-  </div>
-</div>
-
-<!-- 4 -->
+<!-- 2 -->
 <div class="card card-estudiante">
   <img src="/img/testimonials/est4.jpg" alt="Hernán Moncada Vega">
   <h3>Hernán Moncada Vega</h3>
   <button class="toggle-btn">Ver más información</button>
   <div class="more-info">
-    <p><i class="fas fa-graduation-cap"></i> Maestría en Ingeniería Industrial, Universidad del Valle.</p>
+    <p><i class="fas fa-graduation-cap"></i> Maestría en Ingeniería Industrial - Universidad del Valle.</p>
     <p><a href="https://scienti.minciencias.gov.co/cvlac/visualizador/generarCurriculoCv.do?cod_rh=0001460892" target="_blank"><i class="fas fa-file-alt"></i> CVLAC</a></p>
-    <p><i class="fas fa-chalkboard-teacher"></i> Tutores: Diego Fernando Manotas Duque y Leonardo Rivera Cadavid.</p>
     <p><strong>Temas:</strong></p>
     <ul>
-      <li>Distribución, transmisión y generación de energía</li>
+      <li>Distribución</li>
+      <li>transmisión y generación de energía</li>
       <li>Generación solar fotovoltaica</li>
       <li>Gestión de recuperación de energía</li>
       <li>Medición de energía eléctrica</li>
@@ -276,15 +222,14 @@ menu:
   </div>
 </div>
 
-<!-- 5 -->
+<!-- 3 -->
 <div class="card card-estudiante">
   <img src="/img/testimonials/est5.png" alt="Jennyfer Portilla Yela">
   <h3>Jennyfer Portilla Yela</h3>
   <button class="toggle-btn">Ver más información</button>
   <div class="more-info">
-    <p><i class="fas fa-graduation-cap"></i> Magíster en Estadística, Universidad del Valle.</p>
+    <p><i class="fas fa-graduation-cap"></i> Magíster en Estadística - Universidad del Valle.</p>
     <p><a href="https://scienti.minciencias.gov.co/cvlac/visualizador/generarCurriculoCv.do?cod_rh=0001619879" target="_blank"><i class="fas fa-file-alt"></i> CVLAC</a></p>
-    <p><i class="fas fa-chalkboard-teacher"></i> Tutores: Diego Fernando Manotas Duque y José Rafael Tovar.</p>
     <p><strong>Temas:</strong></p>
     <ul>
       <li>Modelación estadística</li>
@@ -294,15 +239,14 @@ menu:
   </div>
 </div>
 
-<!-- 6 -->
+<!-- 4 -->
 <div class="card card-estudiante">
   <img src="/img/testimonials/est6.png" alt="Víctor Manuel Vargas Forero">
   <h3>Víctor Manuel Vargas Forero</h3>
   <button class="toggle-btn">Ver más información</button>
   <div class="more-info">
-    <p><i class="fas fa-graduation-cap"></i> Maestría en Ciencias de la Computación, Universidad del Valle.</p>
+    <p><i class="fas fa-graduation-cap"></i> Maestría en Ingenierías con Énfasis en Ciencias de la Computación. Universidad del Valle.</p>
     <p><a href="https://scienti.minciencias.gov.co/cvlac/visualizador/generarCurriculoCv.do?cod_rh=0001257242" target="_blank"><i class="fas fa-file-alt"></i> CVLAC</a></p>
-    <p><i class="fas fa-chalkboard-teacher"></i> Tutor: Diego Fernando Manotas Duque.</p>
     <p><strong>Temas:</strong></p>
     <ul>
       <li>Energía</li>
@@ -312,54 +256,34 @@ menu:
   </div>
 </div>
 
-<!-- 7 -->
-<div class="card card-estudiante">
-  <img src="/img/testimonials/est7.png" alt="Kevin Steven García Chica">
-  <h3>Kevin Steven García Chica</h3>
-  <button class="toggle-btn">Ver más información</button>
-  <div class="more-info">
-    <p><i class="fas fa-graduation-cap"></i> Magíster en Ingeniería con énfasis en Ingeniería Industrial, Universidad del Valle.</p>
-    <p><a href="https://scienti.minciencias.gov.co/cvlac/visualizador/generarCurriculoCv.do?cod_rh=0001860732" target="_blank"><i class="fas fa-file-alt"></i> CVLAC</a></p>
-    <p><i class="fas fa-chalkboard-teacher"></i> Tutores: Diego Fernando Manotas Duque y José Rafael Tovar Cuevas.</p>
-    <p><strong>Temas:</strong></p>
-    <ul>
-      <li>Estadística Aplicada</li>
-      <li>Finanzas cuantitativas</li>
-      <li>Ciencia de datos</li>
-      <li>Optimización y simulación</li>
-    </ul>
-  </div>
-</div>
-
-<!-- 8 -->
+<!-- 5 -->
 <div class="card card-estudiante">
   <img src="/img/testimonials/est8.png" alt="Néstor Enrique Niño Herrera">
   <h3>Néstor Enrique Niño Herrera</h3>
   <button class="toggle-btn">Ver más información</button>
   <div class="more-info">
-    <p><i class="fas fa-graduation-cap"></i> Magíster en Administración de Empresas, Universidad del Valle.</p>
+    <p><i class="fas fa-graduation-cap"></i> Magíster en Administración de Empresas - Universidad del Valle.</p>
     <p><a href="https://scienti.minciencias.gov.co/cvlac/visualizador/generarCurriculoCv.do?cod_rh=0002158121" target="_blank"><i class="fas fa-file-alt"></i> CVLAC</a></p>
-    <p><i class="fas fa-chalkboard-teacher"></i> Tutores: Diego Fernando Manotas Duque y Camilo Andrés Mican Rincón.</p>
     <p><strong>Temas:</strong></p>
     <ul>
       <li>Finanzas Corporativas</li>
       <li>Financiación de Proyectos</li>
       <li>Ingeniería Financiera</li>
       <li>Finanzas Transición y Eficiencia Energética</li>
-      <li>Proyectos Hidrógeno; Energías Renovables</li>
+      <li>Proyectos Hidrógeno</li>
+      <li>Energías Renovables</li>
     </ul>
   </div>
 </div>
 
-<!-- 9 -->
+<!-- 6 -->
 <div class="card card-estudiante">
   <img src="/img/testimonials/est9.png" alt="James Duván Ramírez Quintero">
   <h3>James Duván Ramírez Quintero</h3>
   <button class="toggle-btn">Ver más información</button>
   <div class="more-info">
-    <p><i class="fas fa-graduation-cap"></i> Magíster en Ingeniería con énfasis in Ingeniería Industrial, Universidad del Valle.</p>
+    <p><i class="fas fa-graduation-cap"></i> Magíster en Ingeniería, énfasis en Ingeniería Industrial de la Universidad del Valle.</p>
     <p><a href="https://scienti.minciencias.gov.co/cvlac/visualizador/generarCurriculoCv.do?cod_rh=0002155907" target="_blank"><i class="fas fa-file-alt"></i> CVLAC</a></p>
-    <p><i class="fas fa-chalkboard-teacher"></i> Tutor: Diego Fernando Manotas Duque.</p>
     <p><strong>Temas:</strong></p>
     <ul>
       <li>Finanzas y economía</li>
@@ -371,15 +295,14 @@ menu:
   </div>
 </div>
 
-<!-- 10 -->
+<!-- 7 -->
 <div class="card card-estudiante">
   <img src="/img/testimonials/est10.png" alt="Óscar Walduin Orozco Cerón">
   <h3>Óscar Walduin Orozco Cerón</h3>
   <button class="toggle-btn">Ver más información</button>
   <div class="more-info">
-    <p><i class="fas fa-graduation-cap"></i> Magíster en Economía Aplicada, Universidad del Valle.</p>
+    <p><i class="fas fa-graduation-cap"></i> Magíster en Economía Aplicada - Universidad del Valle.</p>
     <p><a href="https://scienti.minciencias.gov.co/cvlac/visualizador/generarCurriculoCv.do?cod_rh=0001637216" target="_blank"><i class="fas fa-file-alt"></i> CVLAC</a></p>
-    <p><i class="fas fa-chalkboard-teacher"></i> Tutor: Diego Fernando Manotas.</p>
     <p><strong>Temas:</strong></p>
     <ul>
       <li>Modelación Estadística</li>
@@ -390,15 +313,14 @@ menu:
   </div>
 </div>
 
-<!-- 11 -->
+<!-- 8 -->
 <div class="card card-estudiante">
   <img src="/img/testimonials/est11.png" alt="Carlos Hernán Suárez Rodríguez">
   <h3>Carlos Hernán Suárez Rodríguez</h3>
   <button class="toggle-btn">Ver más información</button>
   <div class="more-info">
-    <p><i class="fas fa-graduation-cap"></i> Magíster en Sistemas Integrados de Gestión de la Calidad, Universidad Tecnológica de Pereira.</p>
+    <p><i class="fas fa-graduation-cap"></i> Magíster en Sistemas Integrados de Gestión de la Calidad - Universidad Tecnológica de Pereira.</p>
     <p><a href="https://scienti.minciencias.gov.co/cvlac/visualizador/generarCurriculoCv.do?cod_rh=0001427018" target="_blank"><i class="fas fa-file-alt"></i> CVLAC</a></p>
-    <p><i class="fas fa-chalkboard-teacher"></i> Tutores: Diego Fernando Manotas Duque y Esteban Largo Ávila.</p>
     <p><strong>Temas:</strong></p>
     <ul>
       <li>Desarrollo de Software</li>
@@ -408,6 +330,72 @@ menu:
     </ul>
   </div>
 </div>
+
+<!-- 9 -->
+<div class="card card-estudiante">
+  <img src="/img/testimonials/est1.jpg" alt="Angélica María González Ocampo">
+  <h3>Angélica María González Ocampo</h3>
+  <button class="toggle-btn">Ver más información</button>
+  <div class="more-info">
+    <p><i class="fas fa-graduation-cap"></i> Magíster en ingeniería con énfasis en Ingeniería Industrial, Universidad del Valle.</p>
+    <p><a href="https://scienti.minciencias.gov.co/cvlac/visualizador/generarCurriculoCv.do?cod_rh=0001679209" target="_blank"><i class="fas fa-file-alt"></i> CVLAC</a></p>
+    <p><strong>Temas:</strong></p>
+    <ul>
+      <li>Ingeniería financiera</li>
+      <li>Análisis y gestión del riesgos</li>
+      <li>Optimización y modelos matemáticos</li>
+    </ul>
+  </div>
+</div>
+<div class="semillero-lista">
+  <h2>Tesis Doctorales del Grupo</h2>
+  <ul>
+<!-- 1 -->
+<li>
+  <strong>Dionicio Neira Rodado</strong> (2025) – <em>An integrated supervised predictive multiobjective optimization approach to evaluate emergency medical systems (EMS) redeployment decisions in real-time</em> – Valoración: Distincion meritoria
+</li>
+<!-- 2 -->
+<li>
+  <strong>Hernando Barreto Riano</strong> (2025) – <em>Sustainable Optimization in the Beef Supply Chain through Innovation and Tool Development</em> – Valoración: Distincion laureada
+</li>
+<!-- 3 -->
+<li>
+  <strong>Ivan Mauricio Bermudez Vera</strong> (2025) – <em>Aportes para la Mejora de la Gestión del Riesgo Crediticio en el Sector de la Economía Solidaria</em> – Valoración: Aprobada
+</li>
+<!-- 4 -->
+<li>
+  <strong>Andres Felipe Oviedo Gomez</strong> (2023) – <em>Evaluación de los efectos de los precios de la energía eléctrica sobre una región industrial: una aproximación empírica a la economía del Valle del Cauca</em> – Valoración: Distincion laureada
+</li>
+<!-- 5 -->
+<li>
+  <strong>Yessenia Martinez Ruiz</strong> (2023) – <em>Issues on Valuation of Renewable Energy Projects with Non- Conventional Sources Under Risk Conditions</em> – Valoración: Distincion laureada
+</li>
+<!-- 6 -->
+<li>
+  <strong>Orlando Joaqui Barandica</strong> (2023) – <em>Topics in asset and liability management: a comparative vision between emerging and developed economies</em> – Valoración: Distincion laureada
+</li>
+<!-- 7 -->
+<li>
+  <strong>Karen Lorena Delgado Muñoz</strong> (2022) – <em>Modelo de valoración financiera como apoyo a los procesos de transferencia y negociación de una tecnología en materiales biodegradables</em> – Valoración: Aprobada
+</li>
+<!-- 8 -->
+<li>
+  <strong>Natalia Ximena Restrepo Lopez</strong> (2019) – <em>Issues on financial risk assessment and measurement in the international oil industry</em> – Valoración: Distincion meritoria
+</li>
+<!-- 9 -->
+<li>
+  <strong>Juan Carlos Osorio Gómez</strong> (2018) – <em>Gestión del riesgo operacional en cadenas de suministro considerando 3PL</em> – Valoración: Distincion laureada
+</li>
+<!-- 10 -->
+<li>
+  <strong>Stephania Mosquera Lopez</strong> (2018) – <em>Issues on financial risk measurement and management in electricity markets</em> – Valoración: Distincion laureada
+</li>
+  </ul>
+</div>
+
+
+
+
 </section>
 
 <script>

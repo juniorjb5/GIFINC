@@ -6,101 +6,77 @@ weight: 2
 
 
 
-### 🎓 Maestría en Ingeniería con Énfasis en Ingeniería Industrial
+
+
+### Maestría en Gestión Financiera – Universidad del Valle
+**Duración:** 3 semestres  
+**Modalidad:** Presencial asistida por PAT  
+**Perfil del programa:** Formación de magísteres con competencias en analítica de datos, modelado financiero, finanzas corporativas e ingeniería financiera, orientadas al diseño, ejecución y liderazgo de estrategias financieras en organizaciones públicas y privadas, con énfasis en inversión, financiación y gestión del riesgo.  
+**Dirigido a:** Ingenieros, economistas, matemáticos, estadísticos, contadores, administradores y profesionales afines interesados en fortalecer sus capacidades cuantitativas y analíticas para la toma de decisiones financieras.  
+
+
+🎓 [**Ver Maestría en Gestión Financiera**](https://industrial.univalle.edu.co/)
+
+
+
+---
+
+### Maestría en Ingeniería – Énfasis en Ingeniería Industrial – Universidad del Valle
 **Duración:** 4 semestres  
 **Modalidad:** Presencial  
-**Perfil del programa:** Formación investigativa y aplicada en procesos industriales, optimización de sistemas productivos, logística, innovación y gestión tecnológica.  
-**Dirigido a:** Ingenieros de diversas áreas con interés en profundizar en sistemas industriales.  
+**Perfil del programa:** Formación investigativa y aplicada en optimización de sistemas productivos, logística, innovación, simulación y gestión tecnológica.  
+**Dirigido a:** Ingenieros y profesionales que buscan profundizar en el análisis y mejora de sistemas industriales.  
 
-
-🎓 [**Ver Maestría en Ingeniería con énfasis en Ingeniería Industrial**](https://ingenieriadelasorganizaciones.univalle.edu.co/oferta-academica/maestria-en-ingenieria-industrial)
-
-
+🎓 [**Ver Maestría en Ingeniería Industrial**](https://industrial.univalle.edu.co/index.php/programas-academicos/programas-postgrado/maestria-en-ingenieria-industrial)
 
 ---
 
-### 📊 Maestría en Analítica e Inteligencia de Negocios
+
+### Maestría en Analítica e Inteligencia de Negocios – Universidad del Valle
+**Duración:** 3 semestres  
+**Modalidad:** Presencial Asistida por PAT  
+**Perfil del programa:** Formación en analítica avanzada, ciencia de datos, inteligencia de negocios y machine learning para la toma de decisiones estratégicas en organizaciones.  
+**Dirigido a:** Profesionales en ingeniería, economía, estadística y áreas afines interesados en transformación digital y analítica.  
+
+🎓 [**Ver Maestría en Analítica e Inteligencia de Negocios**](https://eisc.univalle.edu.co/index.php/programas-academicos/maestria-en-analitica-e-inteligencia-de-negocios)
+
+---
+
+
+### Maestría en Economía Aplicada – Universidad del Valle
 **Duración:** 4 semestres  
 **Modalidad:** Presencial  
-**Perfil del programa:** Aplicación de analítica avanzada, inteligencia artificial y machine learning en la toma de decisiones estratégicas.  
-**Dirigido a:** Profesionales con formación en ingeniería, estadística, economía o afines que deseen liderar procesos de transformación digital y analítica en las organizaciones.  
+**Perfil del programa:** Formación rigurosa en teoría económica, econometría y análisis aplicado, orientada a la evaluación de políticas públicas y fenómenos económicos.  
+**Dirigido a:** Economistas y profesionales afines interesados en investigación económica y análisis cuantitativo.  
 
-🎓 [**Ver Maestría en Analítica e Inteligencia de Negocios**](https://ingenieriadelasorganizaciones.univalle.edu.co/oferta-academica/maestria-en-analitica-e-inteligencia-de-negocios)
+🎓 [**Ver Maestría en Economía Aplicada**](https://socioeconomia.univalle.edu.co/maestria-economia-aplicada)
 
 
 
 ---
 
-### 📈 Maestría en Economía
-**Duración:** 4 semestres  
+
+### Maestría en Logística y Gestión de Cadenas de Abastecimiento – Universidad del Valle
+**Duración:** 3 semestres  
 **Modalidad:** Presencial  
-**Perfil del programa:** Formación rigurosa en teoría económica, métodos cuantitativos y análisis de políticas públicas.  
-**Dirigido a:** Economistas y profesionales afines interesados en investigación y análisis económico aplicado.  
+**Perfil del programa:** La formación del Magíster está dirigida hacia la conceptualización, desarrollo y aplicación de las más modernas herramientas de gestión, cuantitativas y financieras, para la solución de problemas y la toma de decisiones en el área de logística y cadenas de abastecimiento.  
+**Dirigido a:** Ingenieros y profesionales interesados en la gestión eficiente de operaciones logísticas y supply chain.  
 
-
-🎓 [**Ver Maestría en Economía**](https://economia.univalle.edu.co/maestria-en-economia)
-
-
+🎓 [**Ver Maestría en Logística y Gestión de Cadenas de Abastecimiento**](https://industrial.univalle.edu.co/maestrias/maestria-en-logistica)
 
 ---
 
-### 💼 Maestría en Gestión Financiera
-**Duración:** 4 semestres  
+
+### Maestría en Gerencia de Proyectos – Universidad del Valle
+**Duración:** 3 semestres  
 **Modalidad:** Presencial  
-**Objetivo general:** Formar magísteres en gestión financiera con competencias en analítica, modelado financiero y gestión del riesgo para diseñar y ejecutar estrategias financieras en organizaciones públicas y privadas.  
+**Perfil del programa:** Formación en planificación, evaluación y gestión integral de proyectos, con enfoque en metodologías modernas, control de riesgos y toma de decisiones estratégicas.  
+**Dirigido a:** Profesionales de distintas áreas interesados en liderar proyectos en entornos organizacionales complejos.  
 
-**Componentes del programa:**
-- Analítica financiera
-- Finanzas corporativas
-- Ingeniería financiera
-- Gestión financiera
-
-**Perfil del egresado:**
-Capaz de liderar decisiones de inversión, financiamiento, análisis de riesgo y sostenibilidad. Preparado para roles como CFO, analista financiero, consultor, gestor de portafolios, entre otros.
-
-**Docentes:** Profesores con doctorado, expertos en macroeconomía, energía, analítica y finanzas corporativas.  
-
-**Líneas de investigación:** Finanzas cuantitativas, energía, macroeconomía financiera, riesgo financiero.  
-
-
-🎓 [**Ver Maestría en Gestión Financiera**](https://ingenieriadelasorganizaciones.univalle.edu.co/oferta-academica/maestria-en-gestion-financiera)
-
-
-
----
-
-### 📉 Especialización en Analítica y Gestión Financiera
-**Duración:** 2 semestres  
-**Modalidad:** Presencial  
-**Objetivo general:** Formar especialistas en analítica y gestión financiera para apoyar decisiones estratégicas mediante herramientas de análisis de datos, modelado financiero y evaluación de riesgos.  
-
-**Componentes del programa:**
-- Analítica financiera
-- Finanzas corporativas
-- Ingeniería financiera
-
-**Perfil del egresado:**
-Profesional que puede desempeñarse como analista financiero, consultor, gestor de riesgos o especialista en portafolios, tanto en el sector real como financiero.  
-
-**Articulación:** Posibilidad de homologar asignaturas con la Maestría en Gestión Financiera.  
-
-🎓 [**Ver Especialización en Analítica y Gestión Financiera**](https://ingenieriadelasorganizaciones.univalle.edu.co/oferta-academica/especializacion-en-analitica-y-gestion-financiera)
-
-
----
-
-### 📍 Infraestructura y Apoyo
-- Salas de cómputo especializadas
-- Infraestructura moderna: Edificios E23 y E56
-- Acceso a bases de datos y software financiero
-
----
-
-### 🤝 Vinculación con el sector externo
-- Instituto Politécnico de Porto (Aliado internacional)
-- Participación de docentes con trayectoria en consultoría, investigación aplicada y sector financiero
+🎓 [**Ver Maestría en Gerencia de Proyectos**](https://tulua.univalle.edu.co/secretaria-academica/22-estudia-en-univalle/posgrados/maestrias/170-maestria-en-gerencia-de-proyectos)
 
 ---
 
 
-¿Listo para transformar tu carrera profesional? ¡Inscríbete en uno de nuestros programas!
+
+

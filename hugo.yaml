@@ -183,11 +183,11 @@ params:
   copyright: Copyright (c) 2025, GIFINC; all rights reserved.
   date_format: January 2, 2006
   default_sharing_image: img/sharing-default.png
-  defaultDescription: Site template made by GIFINC using Hugo
+  defaultDescription: Grupo de Investigación en Finanzas Cuantitativas - GIFINC
   defaultKeywords:
-    - devcows
-    - hugo
-    - go
+    - finanzas
+    - economía
+    - analítica
   disabled_logo: no
   dropdown_mouse_over: no
   enableGoogleMaps: yes

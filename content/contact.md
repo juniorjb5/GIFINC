@@ -14,7 +14,9 @@ Nuestro equipo estará encantado de responderte lo más pronto posible. También
 ---
 
 ### Escríbenos:  
-✉️ [investigacion.gifinc@correounivalle.edu.co](mailto:investigacion.gifinc@correounivalle.edu.co)
+✉️ Líder del grupo: Diego F. Manotas-Duque. E-mail: [diego.manotas@correounivalle.edu.co](mailto:diego.manotas@correounivalle.edu.co)
+
+
 
 ---
 

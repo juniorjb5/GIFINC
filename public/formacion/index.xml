@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Formacion on GIFINC</title>
-    <link>//localhost:4321/formacion/</link>
+    <link>http://localhost:4321/formacion/</link>
     <description>Recent content in Formacion on GIFINC</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 17 Jun 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="//localhost:4321/formacion/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:4321/formacion/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Doctorados</title>
-      <link>//localhost:4321/formacion/doctorado/</link>
+      <link>http://localhost:4321/formacion/doctorado/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:4321/formacion/doctorado/</guid>
+      <guid>http://localhost:4321/formacion/doctorado/</guid>
       <description>&lt;h3 id=&#34;doctorado-en-ingeniería--énfasis-en-ingeniería-industrial--universidad-del-valle&#34;&gt;Doctorado en Ingeniería – Énfasis en Ingeniería Industrial – Universidad del Valle&lt;/h3&gt;&#xA;&lt;p&gt;El &lt;strong&gt;Doctorado en Ingeniería con énfasis en Ingeniería Industrial&lt;/strong&gt; de la Universidad del Valle está orientado al desarrollo de competencias investigativas de alto nivel en el análisis, diseño y optimización de sistemas productivos y organizacionales. El programa tiene una fuerte orientación hacia la investigación aplicada, la innovación y la transferencia de conocimiento.&lt;/p&gt;&#xA;&lt;p&gt;Su estructura curricular es flexible y prioriza la investigación, integrando herramientas como optimización, simulación y analítica de datos para la solución de problemas complejos en entornos reales.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Maestrías y Especializaciones</title>
-      <link>//localhost:4321/formacion/maestria/</link>
+      <link>http://localhost:4321/formacion/maestria/</link>
       <pubDate>Tue, 17 Jun 2025 00:00:00 +0000</pubDate>
-      <guid>//localhost:4321/formacion/maestria/</guid>
+      <guid>http://localhost:4321/formacion/maestria/</guid>
       <description>&lt;h3 id=&#34;maestría-en-gestión-financiera--universidad-del-valle&#34;&gt;Maestría en Gestión Financiera – Universidad del Valle&lt;/h3&gt;&#xA;&lt;p&gt;&lt;strong&gt;Duración:&lt;/strong&gt; 3 semestres&lt;br&gt;&#xA;&lt;strong&gt;Modalidad:&lt;/strong&gt; Presencial asistida por PAT&lt;br&gt;&#xA;&lt;strong&gt;Perfil del programa:&lt;/strong&gt; Formación de magísteres con competencias en analítica de datos, modelado financiero, finanzas corporativas e ingeniería financiera, orientadas al diseño, ejecución y liderazgo de estrategias financieras en organizaciones públicas y privadas, con énfasis en inversión, financiación y gestión del riesgo.&lt;br&gt;&#xA;&lt;strong&gt;Dirigido a:&lt;/strong&gt; Ingenieros, economistas, matemáticos, estadísticos, contadores, administradores y profesionales afines interesados en fortalecer sus capacidades cuantitativas y analíticas para la toma de decisiones financieras.&lt;/p&gt;</description>
     </item>
   </channel>

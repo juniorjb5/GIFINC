@@ -1,4 +1,4 @@
-baseurl: "/"
+baseURL: "https://gifinc.org/"
 title: GIFINC
 theme: hugo-universal-theme
 markup:
@@ -182,8 +182,8 @@ params:
   contact_form_ajax: ""
   copyright: Copyright (c) 2025, GIFINC; all rights reserved.
   date_format: January 2, 2006
-  default_sharing_image: img/sharing-default.png
-  defaultDescription: Grupo de Investigación en Finanzas Cuantitativas - GIFINC
+  default_sharing_image: "img/sharing-default.png"
+  defaultDescription: "Grupo de Investigación en Finanzas Cuantitativas - GIFINC"
   defaultKeywords:
     - finanzas
     - economía

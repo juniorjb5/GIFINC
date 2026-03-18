@@ -2,96 +2,96 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>//localhost:4321/formacion/doctorado/</loc>
+    <loc>http://localhost:4321/formacion/doctorado/</loc>
   </url><url>
-    <loc>//localhost:4321/formacion/maestria/</loc>
+    <loc>http://localhost:4321/formacion/maestria/</loc>
     <lastmod>2025-06-17T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:4321/</loc>
+    <loc>http://localhost:4321/</loc>
     <lastmod>2026-03-18T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:4321/noticias/news1/</loc>
+    <loc>http://localhost:4321/noticias/news1/</loc>
     <lastmod>2026-03-18T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:4321/noticias/</loc>
+    <loc>http://localhost:4321/noticias/</loc>
     <lastmod>2026-03-18T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:4321/authors/</loc>
+    <loc>http://localhost:4321/authors/</loc>
     <lastmod>2025-08-30T21:29:20+02:00</lastmod>
   </url><url>
-    <loc>//localhost:4321/blog/</loc>
+    <loc>http://localhost:4321/blog/</loc>
     <lastmod>2025-08-30T21:29:20+02:00</lastmod>
   </url><url>
-    <loc>//localhost:4321/categories/</loc>
+    <loc>http://localhost:4321/categories/</loc>
     <lastmod>2025-08-30T21:29:20+02:00</lastmod>
   </url><url>
-    <loc>//localhost:4321/tags/china/</loc>
+    <loc>http://localhost:4321/tags/china/</loc>
     <lastmod>2025-08-30T21:29:20+02:00</lastmod>
   </url><url>
-    <loc>//localhost:4321/blog/2025/08/30/boletin_1/</loc>
+    <loc>http://localhost:4321/blog/2025/08/30/boletin_1/</loc>
     <lastmod>2025-08-30T21:29:20+02:00</lastmod>
   </url><url>
-    <loc>//localhost:4321/categories/econom%C3%ADa-energ%C3%A9tica/</loc>
+    <loc>http://localhost:4321/categories/econom%C3%ADa-energ%C3%A9tica/</loc>
     <lastmod>2025-08-30T21:29:20+02:00</lastmod>
   </url><url>
-    <loc>//localhost:4321/tags/energia/</loc>
+    <loc>http://localhost:4321/tags/energia/</loc>
     <lastmod>2025-08-30T21:29:20+02:00</lastmod>
   </url><url>
-    <loc>//localhost:4321/tags/finanzas/</loc>
+    <loc>http://localhost:4321/tags/finanzas/</loc>
     <lastmod>2025-08-30T21:29:20+02:00</lastmod>
   </url><url>
-    <loc>//localhost:4321/tags/inversi%C3%B3n/</loc>
+    <loc>http://localhost:4321/tags/inversi%C3%B3n/</loc>
     <lastmod>2025-08-30T21:29:20+02:00</lastmod>
   </url><url>
-    <loc>//localhost:4321/categories/macroeconom%C3%ADa-financiera/</loc>
+    <loc>http://localhost:4321/categories/macroeconom%C3%ADa-financiera/</loc>
     <lastmod>2025-08-30T21:29:20+02:00</lastmod>
   </url><url>
-    <loc>//localhost:4321/authors/orlando-joaqui-barandica/</loc>
+    <loc>http://localhost:4321/authors/orlando-joaqui-barandica/</loc>
     <lastmod>2025-08-30T21:29:20+02:00</lastmod>
   </url><url>
-    <loc>//localhost:4321/authors/ricardo-lopes-klotz/</loc>
+    <loc>http://localhost:4321/authors/ricardo-lopes-klotz/</loc>
     <lastmod>2025-08-30T21:29:20+02:00</lastmod>
   </url><url>
-    <loc>//localhost:4321/authors/sebasti%C3%A1n-lopez-estrada/</loc>
+    <loc>http://localhost:4321/authors/sebasti%C3%A1n-lopez-estrada/</loc>
     <lastmod>2025-08-30T21:29:20+02:00</lastmod>
   </url><url>
-    <loc>//localhost:4321/tags/</loc>
+    <loc>http://localhost:4321/tags/</loc>
     <lastmod>2025-08-30T21:29:20+02:00</lastmod>
   </url><url>
-    <loc>//localhost:4321/formacion/</loc>
+    <loc>http://localhost:4321/formacion/</loc>
     <lastmod>2025-06-17T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:4321/nosotros/lineas-investigacion/</loc>
+    <loc>http://localhost:4321/nosotros/lineas-investigacion/</loc>
     <lastmod>2025-06-17T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:4321/nosotros/</loc>
+    <loc>http://localhost:4321/nosotros/</loc>
     <lastmod>2025-06-17T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:4321/nosotros/plan-estrategico/</loc>
+    <loc>http://localhost:4321/nosotros/plan-estrategico/</loc>
     <lastmod>2025-06-17T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:4321/publicaciones/articulos/</loc>
+    <loc>http://localhost:4321/publicaciones/articulos/</loc>
   </url><url>
-    <loc>//localhost:4321/publicaciones/capitulos/</loc>
+    <loc>http://localhost:4321/publicaciones/capitulos/</loc>
   </url><url>
-    <loc>//localhost:4321/contact/</loc>
+    <loc>http://localhost:4321/contact/</loc>
   </url><url>
-    <loc>//localhost:4321/estadisticas/</loc>
+    <loc>http://localhost:4321/estadisticas/</loc>
   </url><url>
-    <loc>//localhost:4321/faq/</loc>
+    <loc>http://localhost:4321/faq/</loc>
   </url><url>
-    <loc>//localhost:4321/nosotros/estudiantes/</loc>
+    <loc>http://localhost:4321/nosotros/estudiantes/</loc>
   </url><url>
-    <loc>//localhost:4321/nosotros/investigadores/</loc>
+    <loc>http://localhost:4321/nosotros/investigadores/</loc>
   </url><url>
-    <loc>//localhost:4321/nosotros/estudiantes-doctorado/</loc>
+    <loc>http://localhost:4321/nosotros/estudiantes-doctorado/</loc>
   </url><url>
-    <loc>//localhost:4321/publicaciones/</loc>
+    <loc>http://localhost:4321/publicaciones/</loc>
   </url><url>
-    <loc>//localhost:4321/semilleros/anif/</loc>
+    <loc>http://localhost:4321/semilleros/anif/</loc>
   </url><url>
-    <loc>//localhost:4321/semilleros/</loc>
+    <loc>http://localhost:4321/semilleros/</loc>
   </url><url>
-    <loc>//localhost:4321/publicaciones/tesis-doctorales/</loc>
+    <loc>http://localhost:4321/publicaciones/tesis-doctorales/</loc>
   </url>
 </urlset>

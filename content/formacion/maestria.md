@@ -80,3 +80,13 @@ weight: 2
 
 
 
+### Especialización en Analítica y Gestión Financiera – Universidad del Valle
+**Duración:** 2 semestres  
+**Modalidad:** Presencial  
+**Perfil del programa:** Formación de especialistas con capacidades para integrar analítica de datos, herramientas cuantitativas y criterios de gestión financiera en la toma de decisiones organizacionales, con énfasis en análisis financiero, medición del riesgo y uso de información para contextos empresariales y financieros.  
+**Dirigido a:** Profesionales de ingeniería, economía, administración, contaduría, estadística, matemáticas y áreas afines interesados en fortalecer sus competencias en analítica y gestión financiera aplicada.  
+
+🎓 [**Ver Especialización en Analítica y Gestión Financiera**](https://industrial.univalle.edu.co/)
+
+---
+

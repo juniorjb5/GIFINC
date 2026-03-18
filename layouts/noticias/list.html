@@ -1,0 +1,88 @@
+<!DOCTYPE html>
+<html lang="{{ .Site.LanguageCode }}">
+
+  <head>
+    {{ partial "headers.html" . }}
+    {{ partial "custom_headers.html" . }}
+  </head>
+
+  <body>
+
+    <div id="all">
+
+        {{ partial "top.html" . }}
+        {{ partial "nav.html" . }}
+        {{ partial "breadcrumbs.html" . }}
+
+        <div id="content">
+            <div class="container">
+                <div class="row">
+
+                    <div class="col-md-9" id="blog-listing-medium">
+
+    {{ $newsPages := where site.RegularPages "Section" "noticias" }}
+    {{ $paginator := .Paginate ($newsPages.ByDate.Reverse) }}
+
+    {{ range $paginator.Pages }}
+    <section class="post">
+        <div class="row">
+            <div class="col-md-4">
+              <div class="image">
+                  <a href="{{ .Permalink }}">
+                      {{ if .Params.banner }}
+                      <img src="{{ .Params.banner | relURL }}" class="img-responsive" alt="" />
+                      {{ else }}
+                      <img src="{{ "img/Eventos.png" | relURL }}" class="img-responsive" alt="" />
+                      {{ end }}
+                  </a>
+              </div>
+            </div>
+            <div class="col-md-8">
+                <h2><a href="{{ .Permalink }}">{{ .Title }}</a></h2>
+                <div class="clearfix">
+                    <p class="date-comments">
+                        <a href="{{ .Permalink }}"><i class="far fa-calendar"></i> {{ .Date.Format "January 2, 2006" }}</a>
+                    </p>
+                </div>
+                <p class="intro">
+                  {{ if .Description }}{{ .Description }}{{ else }}{{ .Summary }}{{ end }}
+                </p>
+                <p class="read-more">
+                  <a href="{{ .Permalink }}" class="btn btn-template-main">Leer más</a>
+                </p>
+            </div>
+        </div>
+    </section>
+    {{ end }}
+
+                        <ul class="pager">
+                            {{ if $paginator.HasPrev }}
+                            <li class="previous"><a href="{{ $paginator.Prev.URL | relURL }}">&larr; Más reciente</a></li>
+                            {{ else }}
+                            <li class="previous disabled"><a href="#">&larr; Más reciente</a></li>
+                            {{ end }}
+
+                            {{ if $paginator.HasNext }}
+                            <li class="next"><a href="{{ $paginator.Next.URL | relURL }}">Más antiguo &rarr;</a></li>
+                            {{ else }}
+                            <li class="next disabled"><a href="#">Más antiguo &rarr;</a></li>
+                            {{ end }}
+                        </ul>
+                    </div>
+
+                    <div class="col-md-3">
+                        {{ partial "sidebar.html" . }}
+                    </div>
+
+                </div>
+            </div>
+        </div>
+
+        {{ partial "footer.html" . }}
+
+    </div>
+
+    {{ partial "scripts.html" . }}
+
+  </body>
+</html>

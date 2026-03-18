@@ -15,3 +15,20 @@
     min-height: 230px;
 }
 
+
+
+.home-news-card .content h4 {
+  line-height: 1.35;
+}
+
+.home-news-card .intro {
+  font-size: 0.95rem;
+}
+
+.home-news-card .image img {
+  transition: transform 0.3s ease;
+}
+
+.home-news-card:hover .image img {
+  transform: scale(1.03);
+}

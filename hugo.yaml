@@ -1,6 +1,10 @@
 baseurl: "/"
 title: GIFINC
 theme: hugo-universal-theme
+markup:
+  goldmark:
+    renderer:
+      unsafe: true
 languageCode: en-us
 defaultContentLanguage: es
 summaryLength: 70
@@ -114,15 +118,29 @@ menu:
       name: Boletín
       url: /img/Eventos.png
       weight: 5
+
     - identifier: section.boletin
-      name: Boletín GIFINC
+      name: Finanzas & Datos
       parent: menu.blog
       post: 1
       url: ''
       weight: 1
-    - name: 'Consulta nuestro Boletín: Finanzas & Datos'
+    
+    - name: "Consulta nuestro boletín: Finanzas & Datos"
       parent: section.boletin
       url: /blog/
+      weight: 1
+    
+    - identifier: section.noticias
+      name: Noticias GIFINC
+      parent: menu.blog
+      post: 2
+      url: ''
+      weight: 2
+    
+    - name: Ver noticias
+      parent: section.noticias
+      url: /noticias/
       weight: 1
   
     - identifier: menu.stat

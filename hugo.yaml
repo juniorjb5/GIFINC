@@ -40,6 +40,10 @@ menu:
       parent: section.nosotros-general
       url: /nosotros/lineas-investigacion/
       weight: 2
+    - name: GrupLAC - Minciencias
+      parent: section.nosotros-general
+      url: "https://scienti.minciencias.gov.co/gruplac/jsp/visualiza/visualizagr.jsp?nro=00000000013799"
+      weight: 3
     - identifier: section.nosotros-equipo
       name: Equipo
       parent: menu.nosotros

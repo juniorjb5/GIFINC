@@ -7,7 +7,7 @@ banner: img/banners/boletin_1.png
 categories:
 - Economía Energética
 - Macroeconomía Financiera
-date: "2025-08-30T21:29:20+02:00"
+date: "2026-01-31T21:29:20+02:00"
 tags:
 - china
 - energia
@@ -15,6 +15,7 @@ tags:
 - finanzas
 title: China en el Mapa Energético Global. Dinámicas de Inversión 2005–2024
 markup: html
+url: /boletin/fd/boletin-1/
 ---
 
 
